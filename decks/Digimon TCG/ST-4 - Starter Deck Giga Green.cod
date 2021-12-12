@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>ST-4: Starter Deck Giga Green</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Motimon (ST4-01U)"/>
+        <card number="4" name="Floramon (ST4-02C)"/>
+        <card number="4" name="Palmon (ST4-04C)"/>
+        <card number="4" name="Kunemon (ST4-05C)"/>
+        <card number="4" name="Togemon (ST4-06C)"/>
+        <card number="4" name="Kuwagamon (ST4-07C)"/>
+        <card number="2" name="Kabuterimon (ST4-08U)"/>
+        <card number="4" name="Okuwamon (ST4-09C)"/>
+        <card number="2" name="MegaKabuterimon (ST4-11R)"/>
+        <card number="2" name="Rosemon (ST4-12R)"/>
+        <card number="2" name="HerculesKabuterimon (ST4-13SR)"/>
+        <card number="4" name="Izzy Izumi (ST4-14R)"/>
+        <card number="4" name="Needle Spray (ST4-15C)"/>
+        <card number="2" name="Electro Shocker (ST4-16U)"/>
+        <card number="4" name="Tentomon (ST4-03U)"/>
+        <card number="4" name="Lillymon (ST4-10U)"/>
+    </zone>
+</cockatrice_deck>

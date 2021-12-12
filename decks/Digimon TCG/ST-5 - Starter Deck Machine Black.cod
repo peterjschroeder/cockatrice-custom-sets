@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>ST-5: Starter Deck Machine Black</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Kapurimon (ST5-01U)"/>
+        <card number="4" name="Jazamon (ST5-02C)"/>
+        <card number="4" name="ToyAgumon (ST5-04C)"/>
+        <card number="4" name="Commandramon (ST5-05C)"/>
+        <card number="4" name="Greymon (ST5-06C)"/>
+        <card number="4" name="Jazardmon (ST5-07C)"/>
+        <card number="2" name="DarkTyrannomon (ST5-08U)"/>
+        <card number="4" name="MetalGreymon (ST5-09U)"/>
+        <card number="4" name="MetalTyrannomon (ST5-10C)"/>
+        <card number="2" name="Megadramon (ST5-11R)"/>
+        <card number="2" name="Machinedramon (ST5-12R)"/>
+        <card number="2" name="BlitzGreymon (ST5-13SR)"/>
+        <card number="4" name="Tai Kamiya (ST5-14R)"/>
+        <card number="4" name="Laser Eye (ST5-15C)"/>
+        <card number="2" name="Dark Side Attack (ST5-16U)"/>
+        <card number="4" name="Agumon (ST5-03U)"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>ST-7: Starter Deck Gallantmon</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Gaia Force (ST1-16U)"/>
+        <card number="4" name="Gigimon (ST7-01U)"/>
+        <card number="4" name="Agumon (ST7-02C)"/>
+        <card number="2" name="Guilmon (ST7-03SR)"/>
+        <card number="4" name="Biyomon (ST7-04C)"/>
+        <card number="2" name="Growlmon (ST7-05R)"/>
+        <card number="4" name="GeoGreymon (ST7-06U)"/>
+        <card number="4" name="RizeGreymon (ST7-07U)"/>
+        <card number="4" name="WarGrowlmon (ST7-08R)"/>
+        <card number="2" name="Gallantmon (ST7-09SR)"/>
+        <card number="4" name="ShineGreymon (ST7-10R)"/>
+        <card number="2" name="Lightning Joust (ST7-11U)"/>
+        <card number="4" name="Atomic Blaster (ST7-12C)"/>
+        <card number="4" name="Monodramon (BT1-009C)"/>
+        <card number="4" name="DarkTyrannomon (BT1-019C)"/>
+        <card number="2" name="Groundramon (BT1-020U)"/>
+    </zone>
+</cockatrice_deck>

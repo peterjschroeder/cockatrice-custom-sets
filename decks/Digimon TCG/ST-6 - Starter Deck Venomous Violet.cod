@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>ST-6: Starter Deck Venomous Violet</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Pagumon (ST6-01U)"/>
+        <card number="4" name="DemiDevimon (ST6-02C)"/>
+        <card number="4" name="Gabumon (ST6-03C)"/>
+        <card number="4" name="Dracmon (ST6-04U)"/>
+        <card number="4" name="Elecmon (ST6-05C)"/>
+        <card number="4" name="Garurumon (ST6-06C)"/>
+        <card number="4" name="Youkomon (ST6-07C)"/>
+        <card number="2" name="Devimon (ST6-08U)"/>
+        <card number="4" name="Kyukimon (ST6-09C)"/>
+        <card number="4" name="SkullSatamon (ST6-10U)"/>
+        <card number="2" name="WereGarurumon (ST6-11R)"/>
+        <card number="2" name="VenomMyotismon (ST6-12R)"/>
+        <card number="2" name="CresGarurumon (ST6-13SR)"/>
+        <card number="4" name="Matt Ishida (ST6-14R)"/>
+        <card number="4" name="Death Claw (ST6-15C)"/>
+        <card number="2" name="Nail Bone (ST6-16U)"/>
+    </zone>
+</cockatrice_deck>

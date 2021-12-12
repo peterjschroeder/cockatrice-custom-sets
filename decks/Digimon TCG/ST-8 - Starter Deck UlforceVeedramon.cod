@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>ST-8: Starter Deck UlforceVeedramon</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="DemiVeemon (ST8-01U)"/>
+        <card number="4" name="Gabumon (ST8-02C)"/>
+        <card number="4" name="Dracomon (ST8-03C)"/>
+        <card number="2" name="Veemon (ST8-04SR)"/>
+        <card number="2" name="Veedramon (ST8-05R)"/>
+        <card number="4" name="Coredramon (ST8-06U)"/>
+        <card number="4" name="Wingdramon (ST8-07U)"/>
+        <card number="4" name="AeroVeedramon (ST8-08R)"/>
+        <card number="4" name="Slayerdramon (ST8-09R)"/>
+        <card number="2" name="UlforceVeedramon (ST8-10SR)"/>
+        <card number="4" name="Victory Sword (ST8-11U)"/>
+        <card number="4" name="V-Wing Blade (ST8-12C)"/>
+        <card number="4" name="Elecmon (BT1-028C)"/>
+        <card number="4" name="Gorillamon (BT1-037C)"/>
+        <card number="2" name="Monzaemon (BT1-038C)"/>
+        <card number="2" name="Hammer Spark (ST2-13C)"/>
+    </zone>
+</cockatrice_deck>

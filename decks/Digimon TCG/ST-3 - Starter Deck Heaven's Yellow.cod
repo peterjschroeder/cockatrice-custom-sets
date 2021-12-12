@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Gatomon (ST3-06C)"/>
+        <card number="2" name="Heaven's Charm (ST3-14C)"/>
+        <card number="4" name="Heaven's Gate (ST3-13C)"/>
+        <card number="4" name="Holy Flame (ST3-15C)"/>
+        <card number="2" name="Magnadramon (ST3-10R)"/>
+        <card number="4" name="Patamon (ST3-04U)"/>
+        <card number="4" name="Salamon (ST3-02C)"/>
+        <card number="2" name="Seraphimon (ST3-11SR)"/>
+        <card number="2" name="Seven Heavens (ST3-16U)"/>
+        <card number="4" name="Takeru Takaishi (ST3-12R)"/>
+        <card number="4" name="Tapirmon (ST3-03C)"/>
+        <card number="4" name="Tokomon (ST3-01U)"/>
+        <card number="2" name="Angemon (ST3-05U)"/>
+        <card number="4" name="Unimon (ST3-07C)"/>
+        <card number="4" name="Angewomon (ST3-09U)"/>
+        <card number="4" name="MagnaAngemon (ST3-08R)"/>
+    </zone>
+</cockatrice_deck>

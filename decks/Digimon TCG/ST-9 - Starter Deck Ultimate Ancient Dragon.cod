@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>ST-9: Starter Deck Ultimate Ancient Dragon</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Flower Cannon (BT1-110R)"/>
+        <card number="4" name="Minomon (ST9-01U)"/>
+        <card number="2" name="Veemon (ST9-02U)"/>
+        <card number="4" name="Betamon (ST9-03C)"/>
+        <card number="4" name="ExVeemon (ST9-04U)"/>
+        <card number="2" name="Paildramon (ST9-05SR)"/>
+        <card number="2" name="Imperialdramon: Dragon Mode (ST9-06SR)"/>
+        <card number="4" name="KoKabuterimon (ST9-07C)"/>
+        <card number="4" name="Wormmon (ST9-08C)"/>
+        <card number="4" name="Stingmon (ST9-09U)"/>
+        <card number="2" name="Snimon (ST9-10C)"/>
+        <card number="4" name="Dinobeemon (ST9-11R)"/>
+        <card number="4" name="JewelBeemon (ST9-12C)"/>
+        <card number="4" name="GranKuwagamon (ST9-13R)"/>
+        <card number="2" name="Mega Death (ST9-14R)"/>
+        <card number="4" name="Hell Masquerade (ST9-15U)"/>
+    </zone>
+</cockatrice_deck>

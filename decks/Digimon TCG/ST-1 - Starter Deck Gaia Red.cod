@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>ST-1: Starter Deck Gaia Red</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Koromon (ST1-01U)"/>
+        <card number="4" name="Biyomon (ST1-02C)"/>
+        <card number="4" name="Taichi Yagami (ST1-12R)"/>
+        <card number="4" name="Coredramon (ST1-06C)"/>
+        <card number="2" name="Giga Destroyer (ST1-15C)"/>
+        <card number="4" name="Dracomon (ST1-04C)"/>
+        <card number="4" name="Birdramon (ST1-05C)"/>
+        <card number="4" name="Agumon (ST1-03U)"/>
+        <card number="2" name="Greymon (ST1-07U)"/>
+        <card number="4" name="Shadow Wing (ST1-13C)"/>
+        <card number="4" name="Starlight Explosion (ST1-14C)"/>
+        <card number="2" name="Gaia Force (ST1-16U)"/>
+        <card number="2" name="Phoenixmon (ST1-10R)"/>
+        <card number="4" name="Garudamon (ST1-08U)"/>
+        <card number="4" name="MetalGreymon (ST1-09R)"/>
+        <card number="2" name="WarGreymon (ST1-11SR)"/>
+    </zone>
+</cockatrice_deck>

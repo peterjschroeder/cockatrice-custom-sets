@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>ST-10: Starter Deck Parallel World Tactician</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Nyaromon (ST10-01U)"/>
+        <card number="4" name="Salamon (ST10-02C)"/>
+        <card number="4" name="Lopmon (ST10-03C)"/>
+        <card number="2" name="Gatomon (ST10-04SR)"/>
+        <card number="4" name="Angewomon (ST10-05R)"/>
+        <card number="2" name="Mastemon (ST10-06SR)"/>
+        <card number="4" name="Ghostmon (ST10-07C)"/>
+        <card number="2" name="Tsukaimon (ST10-08U)"/>
+        <card number="4" name="Witchmon (ST10-09U)"/>
+        <card number="4" name="Wizardmon (ST10-10C)"/>
+        <card number="2" name="Bastemon (ST10-11C)"/>
+        <card number="4" name="LadyDevimon (ST10-12R)"/>
+        <card number="4" name="Junomon (ST10-13U)"/>
+        <card number="2" name="Chaos Degradation (ST10-14R)"/>
+        <card number="4" name="Darkness Wave (ST10-15U)"/>
+        <card number="4" name="Night Raid (BT2-108C)"/>
+    </zone>
+</cockatrice_deck>
