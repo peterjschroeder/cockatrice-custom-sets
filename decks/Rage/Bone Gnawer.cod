@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Bone Gnawer</deckname>
+    <comments></comments>
+    <zone name="tokens">
+        <card number="2" name="Survivor"/>
+    </zone>
+    <zone name="main">
+        <card number="2" name="War Paint of Wahya Ohni"/>
+        <card number="2" name="Nightmare Coin"/>
+        <card number="2" name="Memory Ribbon"/>
+        <card number="2" name="Mokole Hide"/>
+        <card number="2" name="Catfeet"/>
+        <card number="3" name="Wolf Kinfolk"/>
+        <card number="2" name="Higher Calling"/>
+        <card number="2" name="Gift of the Porcupine"/>
+        <card number="1" name="Skindancer"/>
+        <card number="2" name="Cooperation"/>
+        <card number="3" name="Legendary Leadership"/>
+        <card number="3" name="Elder Stone"/>
+        <card number="2" name="Pentex First Team 43"/>
+        <card number="1" name="Submission Hold"/>
+        <card number="2" name="Off-balanced Attack"/>
+        <card number="2" name="Lucky Blow"/>
+        <card number="2" name="Block"/>
+        <card number="2" name="Bitch Slap"/>
+        <card number="2" name="Stinging Wound"/>
+        <card number="2" name="Bite"/>
+        <card number="2" name="Hunting Party"/>
+        <card number="2" name="Dodge"/>
+        <card number="2" name="Septum Crushed"/>
+        <card number="1" name="CHARGE!!!"/>
+        <card number="1" name="Banana Split"/>
+        <card number="1" name="Cheesy Puffs"/>
+        <card number="1" name="Crick Rumwrangler"/>
+        <card number="1" name="Buggerhead"/>
+        <card number="1" name="Dharma Bum"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>The Outsiders: Moot Deck</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Lord Albrecht"/>
+        <card number="1" name="Greyfist"/>
+        <card number="1" name="Carleson Ruah"/>
+        <card number="1" name="Morgan the Unworthy"/>
+        <card number="1" name="Bones of Shakir Hind"/>
+        <card number="3" name="Elder Stone"/>
+        <card number="1" name="Fang Dagger"/>
+        <card number="1" name="Fang Necklace of Fenris"/>
+        <card number="1" name="Flower of Aphrodite"/>
+        <card number="2" name="Sands of Sleep"/>
+        <card number="2" name="Falcon"/>
+        <card number="1" name="Full Moon"/>
+        <card number="1" name="Banishment by the Council"/>
+        <card number="1" name="Jackal's Curse"/>
+        <card number="3" name="Legendary Leadership"/>
+        <card number="1" name="Quoting the Litany"/>
+        <card number="2" name="Skindancer"/>
+        <card number="1" name="Tribal War"/>
+        <card number="1" name="Winter Wolf"/>
+        <card number="2" name="Awe"/>
+        <card number="3" name="Geas"/>
+        <card number="2" name="Luna's Armor"/>
+        <card number="2" name="Persuasion"/>
+        <card number="2" name="Staredown"/>
+        <card number="2" name="Sticky Paws"/>
+        <card number="1" name="Elder Vampire"/>
+        <card number="1" name="Samuel Haight"/>
+        <card number="1" name="Nexus Crawler"/>
+        <card number="2" name="Shapeshift"/>
+        <card number="1" name="Yuri Tvarivich"/>
+        <card number="1" name="Kinfolk TV Reporter"/>
+        <card number="1" name="Caern of the Crescent Moon"/>
+        <card number="1" name="Dodge"/>
+        <card number="1" name="Block"/>
+        <card number="2" name="Fetal Position"/>
+        <card number="2" name="Evasion"/>
+        <card number="2" name="Surprise Attack"/>
+        <card number="2" name="Lucky Blow"/>
+        <card number="1" name="Body Blow"/>
+        <card number="2" name="Feint"/>
+        <card number="2" name="Block and Strike"/>
+        <card number="2" name="Eyes Gouged"/>
+        <card number="2" name="Curb Stomp"/>
+        <card number="2" name="Beat Unmerciful"/>
+        <card number="1" name="Fast Strike"/>
+        <card number="2" name="Head Wound"/>
+        <card number="2" name="Vital Blow"/>
+        <card number="1" name="Mangle"/>
+        <card number="2" name="Frenzy"/>
+        <card number="2" name="Umbral Escape"/>
+    </zone>
+</cockatrice_deck>

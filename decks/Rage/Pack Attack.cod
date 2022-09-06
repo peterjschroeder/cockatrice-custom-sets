@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Pack Attack: Weenie</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Amari Howls-from-soul"/>
+        <card number="1" name="Banana Split"/>
+        <card number="1" name="Carleson Ruah"/>
+        <card number="1" name="Dharma Bum"/>
+        <card number="1" name="Diem"/>
+        <card number="1" name="Eyes-of-Frost"/>
+        <card number="1" name="Fang Jumper"/>
+        <card number="1" name="Growls-at-Moon"/>
+        <card number="1" name="Kelly Brounard"/>
+        <card number="1" name="Passer"/>
+        <card number="1" name="Stanislav Prochnow"/>
+        <card number="1" name="Wind-Across-the-Hills"/>
+        <card number="3" name="Sneak Attack"/>
+        <card number="1" name="Avahuasca"/>
+        <card number="2" name="Dreamspeaker Mage"/>
+        <card number="1" name="Kinfolk Small Town Cop"/>
+        <card number="2" name="Kinfolk Veterinarian"/>
+        <card number="2" name="Nexus Crawler"/>
+        <card number="1" name="Pentex Refinery"/>
+        <card number="2" name="Sabbat Fiend"/>
+        <card number="3" name="Bane Arrow"/>
+        <card number="2" name="Visit from White Father"/>
+        <card number="3" name="Distractions"/>
+        <card number="3" name="True Fear"/>
+        <card number="2" name="Attacking the Wyrm"/>
+        <card number="2" name="Hunting Party"/>
+        <card number="1" name="Pack Defense"/>
+        <card number="1" name="Taking the Death Blow"/>
+        <card number="2" name="Bitch Slap"/>
+        <card number="2" name="Lucky Blow"/>
+        <card number="2" name="Off-balanced Attack"/>
+        <card number="2" name="Overextended Attack"/>
+        <card number="2" name="Reckless Swing"/>
+        <card number="2" name="Stinging Wound"/>
+        <card number="2" name="Surprise Attack"/>
+    </zone>
+</cockatrice_deck>

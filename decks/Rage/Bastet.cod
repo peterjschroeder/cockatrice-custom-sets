@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Bastet</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Black Claw"/>
+        <card number="1" name="Markhat"/>
+        <card number="1" name="Svajda"/>
+        <card number="1" name="Frenar"/>
+        <card number="1" name="Naomi"/>
+        <card number="2" name="Shapeshift"/>
+        <card number="1" name="El Dorado"/>
+        <card number="2" name="Spirit Tiger"/>
+        <card number="2" name="Engling"/>
+        <card number="2" name="Glade Child"/>
+        <card number="2" name="Lost in the Jungle"/>
+        <card number="2" name="Visit from White Father"/>
+        <card number="2" name="Shriek"/>
+        <card number="2" name="Air of Authority"/>
+        <card number="2" name="Feline Grace"/>
+        <card number="2" name="Lord of the Jungle"/>
+        <card number="2" name="Mother's Touch"/>
+        <card number="2" name="Lesser Banishment"/>
+        <card number="2" name="Night terror"/>
+        <card number="2" name="Fortuna"/>
+        <card number="2" name="Remove Gaia's Blessing"/>
+        <card number="1" name="Spirit Circle"/>
+        <card number="1" name="Hidden Lair"/>
+        <card number="1" name="Off-balanced Attack"/>
+        <card number="1" name="Fetal Position"/>
+        <card number="1" name="Overextended Attack"/>
+        <card number="1" name="Feint"/>
+        <card number="2" name="Iron Will"/>
+        <card number="1" name="Septum Crushed"/>
+        <card number="1" name="Mangle"/>
+        <card number="1" name="Spine Crushed"/>
+        <card number="2" name="Fox Frenzy"/>
+        <card number="2" name="Battle Fervor"/>
+        <card number="2" name="Shieldmate"/>
+    </zone>
+</cockatrice_deck>

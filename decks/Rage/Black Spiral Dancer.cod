@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Black Spiral Dancer</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Zhyzhak"/>
+        <card number="1" name="Allonzo Montoya"/>
+        <card number="1" name="Fangthane Bloodjaw"/>
+        <card number="1" name="Blood Dagger"/>
+        <card number="1" name="Dr. Mordecai's Home Chemistry Set"/>
+        <card number="1" name="Lander's Nylon Stocking"/>
+        <card number="1" name="Mage's Talisman"/>
+        <card number="3" name="Skin of the Hellbound"/>
+        <card number="1" name="Vampire Blood"/>
+        <card number="2" name="Beast-of-War"/>
+        <card number="2" name="Red Alert"/>
+        <card number="1" name="Shapeshift"/>
+        <card number="2" name="Sneak Attack"/>
+        <card number="3" name="Horns of the Impaler"/>
+        <card number="3" name="Infectious Touch"/>
+        <card number="3" name="True Fear"/>
+        <card number="3" name="Wyrm Hide"/>
+        <card number="1" name="Caern of the Unwashed Child"/>
+        <card number="1" name="Fetal Position"/>
+        <card number="2" name="Evasion"/>
+        <card number="2" name="Lucky Blow"/>
+        <card number="1" name="Feint"/>
+        <card number="2" name="Beat Unmerciful"/>
+        <card number="2" name="Head Wound"/>
+        <card number="1" name="Septum Crushed"/>
+        <card number="1" name="Vital Blow"/>
+        <card number="1" name="Massive Wound"/>
+        <card number="1" name="Mangle"/>
+        <card number="1" name="Spine Crushed"/>
+        <card number="2" name="Entrail Rend"/>
+        <card number="2" name="Heart Breaker"/>
+        <card number="1" name="Rent Asunder"/>
+        <card number="2" name="Frenzy"/>
+    </zone>
+</cockatrice_deck>

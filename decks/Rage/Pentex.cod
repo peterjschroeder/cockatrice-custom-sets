@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Pentex</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="T. F. MacNeil"/>
+        <card number="1" name="Sybil"/>
+        <card number="1" name="Corinna"/>
+        <card number="1" name="Ragnor the Terror"/>
+        <card number="1" name="Fang Necklace of Fenris"/>
+        <card number="1" name="Fang Dagger"/>
+        <card number="1" name="Heart of Midnight"/>
+        <card number="1" name="Incarna Sigil"/>
+        <card number="1" name="War Paint of Wahya Ohni"/>
+        <card number="1" name="Whip of the Wicked"/>
+        <card number="1" name="War Knife of Benning Simon"/>
+        <card number="2" name="Vampire Blood"/>
+        <card number="3" name="Beast-of-War"/>
+        <card number="3" name="New Moon"/>
+        <card number="3" name="Mass Pollution"/>
+        <card number="3" name="Friends in High Places"/>
+        <card number="3" name="Horns of the Impaler"/>
+        <card number="3" name="Wyrm Hide"/>
+        <card number="3" name="Consumption of Gaia"/>
+        <card number="3" name="Pentex Refinery"/>
+        <card number="1" name="Caern of the Blood God"/>
+        <card number="3" name="Sneak Attack"/>
+        <card number="2" name="Vital Blow"/>
+        <card number="2" name="Dodge"/>
+        <card number="2" name="Fast Strike"/>
+        <card number="2" name="Feint"/>
+        <card number="2" name="Evasion"/>
+        <card number="2" name="Beat Unmerciful"/>
+        <card number="2" name="Septum Crushed"/>
+        <card number="2" name="Dry Gulch"/>
+        <card number="2" name="Head Wound"/>
+        <card number="2" name="Entrail Rend"/>
+        <card number="2" name="Frenzy"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Black Fury</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Body Wrack"/>
+        <card number="3" name="Mother's Touch"/>
+        <card number="2" name="Lesser Banishment"/>
+        <card number="2" name="Spirit Drain"/>
+        <card number="1" name="Remove Gaia's Blessing"/>
+        <card number="2" name="Crescent Moon"/>
+        <card number="3" name="Rite of Scarification"/>
+        <card number="3" name="Manling Pendant"/>
+        <card number="2" name="Serpentine"/>
+        <card number="2" name="Nocturna"/>
+        <card number="3" name="Staredown"/>
+        <card number="2" name="Self-Serving Giovanni"/>
+        <card number="2" name="Rend and Tear"/>
+        <card number="1" name="Kneecapper"/>
+        <card number="1" name="Block"/>
+        <card number="2" name="Dry Gulch"/>
+        <card number="2" name="Disembowelment"/>
+        <card number="1" name="Lucky Blow"/>
+        <card number="2" name="Septum Crushed"/>
+        <card number="2" name="Bitch Slap"/>
+        <card number="1" name="Surprise Ally"/>
+        <card number="1" name="Frenzy"/>
+        <card number="1" name="Shieldmate"/>
+        <card number="1" name="Dodge"/>
+        <card number="1" name="Evasion"/>
+        <card number="1" name="Beat Unmerciful"/>
+        <card number="1" name="Brutal Kick"/>
+        <card number="1" name="Cassandra Shadow-watcher"/>
+        <card number="1" name="Sister Judith Paws-of-Light"/>
+        <card number="1" name="Mari Cabrah"/>
+    </zone>
+    <zone name="tokens">
+        <card number="2" name="Pegasus"/>
+    </zone>
+</cockatrice_deck>

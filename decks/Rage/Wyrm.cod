@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Wyrm</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Count Vladimir Rustovitch"/>
+        <card number="1" name="Longtooth Soulkiller"/>
+        <card number="1" name="Lotus"/>
+        <card number="2" name="Fooled You!"/>
+        <card number="1" name="Legal Chicanery"/>
+        <card number="2" name="Sneak Attack"/>
+        <card number="2" name="Caern of Rytthiku"/>
+        <card number="1" name="Pipe Bomb"/>
+        <card number="3" name="Skin of the Hellbound"/>
+        <card number="3" name="Vampire Blood"/>
+        <card number="1" name="War Knife of Benning Simon"/>
+        <card number="2" name="Beast-of-War"/>
+        <card number="1" name="Kirijama, 'The Hidden Foe'"/>
+        <card number="3" name="Visit from White Father"/>
+        <card number="3" name="Air of Authority"/>
+        <card number="1" name="Consumption of Gaia"/>
+        <card number="1" name="Gaia's Will Corrupted"/>
+        <card number="1" name="Kiss of the Wyrm"/>
+        <card number="3" name="Psychotic Hallucinations"/>
+        <card number="1" name="Subjugation of Gaia"/>
+        <card number="1" name="A Bus Full of People"/>
+        <card number="2" name="Sidhe Knight"/>
+        <card number="2" name="Beat Unmerciful"/>
+        <card number="2" name="Dry Gulch"/>
+        <card number="2" name="Evasion"/>
+        <card number="2" name="Fancy Footwork"/>
+        <card number="2" name="Fast Strike"/>
+        <card number="1" name="Head Wound"/>
+        <card number="2" name="Massive Wound"/>
+        <card number="2" name="Mangle"/>
+        <card number="1" name="Spine Crushed"/>
+        <card number="1" name="Surprise Attack"/>
+        <card number="1" name="Battle Fervor"/>
+        <card number="2" name="Frenzy"/>
+    </zone>
+</cockatrice_deck>

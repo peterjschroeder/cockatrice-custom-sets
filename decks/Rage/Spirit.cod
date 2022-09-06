@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Spirit</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Joseph Roars-as-Bull"/>
+        <card number="1" name="Dreams-of-Wonder"/>
+        <card number="1" name="Mizrait"/>
+        <card number="1" name="Rene the Demonkeeper"/>
+        <card number="3" name="Flame Spirit"/>
+        <card number="3" name="Spirit Tiger"/>
+        <card number="3" name="Wolf-Spirit"/>
+        <card number="3" name="Gaffling Pest"/>
+        <card number="1" name="Akashic Brother"/>
+        <card number="3" name="Water Spirit"/>
+        <card number="3" name="Stormcrow"/>
+        <card number="3" name="Ka Spirit"/>
+        <card number="2" name="Kithain Freehold"/>
+        <card number="3" name="Sidhe Knight"/>
+        <card number="3" name="Crescent Moon"/>
+        <card number="2" name="Step Sideways"/>
+        <card number="3" name="Distractions"/>
+        <card number="1" name="Dark Moon's Femur"/>
+        <card number="2" name="Ancestral Burial Mounds"/>
+        <card number="3" name="Deep Journey"/>
+        <card number="2" name="Mangle"/>
+        <card number="2" name="Body Blow"/>
+        <card number="1" name="Spine Crushed"/>
+        <card number="1" name="Feint"/>
+        <card number="1" name="Frenzy"/>
+        <card number="1" name="Umbral Escape"/>
+        <card number="2" name="Reckless Swing"/>
+        <card number="2" name="Overextended Attack"/>
+        <card number="1" name="Pack Defense"/>
+        <card number="3" name="Surprise Ally"/>
+        <card number="2" name="Head Wound"/>
+        <card number="1" name="Entrail Rend"/>
+        <card number="2" name="Evasion"/>
+        <card number="2" name="Lucky Blow"/>
+        <card number="1" name="Taking the Death Blow"/>
+        <card number="1" name="Massive Wound"/>
+        <card number="1" name="Hunting Party"/>
+        <card number="2" name="Bite"/>
+    </zone>
+</cockatrice_deck>

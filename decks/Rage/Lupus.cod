@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Lupus</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Old Storm-Chaser"/>
+        <card number="1" name="Fireclaw"/>
+        <card number="1" name="Growls-at-Moon"/>
+        <card number="1" name="Amari Howls-from-soul"/>
+        <card number="1" name="Passer"/>
+        <card number="2" name="Stinging Wound"/>
+        <card number="1" name="Bitch Slap"/>
+        <card number="1" name="Off-balanced Attack"/>
+        <card number="1" name="Surprise Attack"/>
+        <card number="2" name="Bite"/>
+        <card number="2" name="Lucky Blow"/>
+        <card number="2" name="Overextended Attack"/>
+        <card number="1" name="Reckless Swing"/>
+        <card number="1" name="Telling Blow"/>
+        <card number="1" name="Frenzy"/>
+        <card number="2" name="Pack Defense"/>
+        <card number="2" name="Hunting Party"/>
+        <card number="2" name="Attacking the Wyrm"/>
+        <card number="3" name="Catfeet"/>
+        <card number="3" name="True Fear"/>
+        <card number="2" name="Scream of Gaia"/>
+        <card number="3" name="Trackless Waste"/>
+        <card number="2" name="Beastmind"/>
+        <card number="1" name="Dreamspeaker Mage"/>
+        <card number="2" name="Gaia's Vengeance"/>
+        <card number="3" name="Wolf-Spirit"/>
+        <card number="1" name="Impergium"/>
+        <card number="1" name="Sept of the Five Winds"/>
+        <card number="1" name="Caern of the Weeping Daughter"/>
+        <card number="1" name="Kinfolk Den"/>
+        <card number="1" name="Old Wolf of the Woods"/>
+        <card number="3" name="Deranged Mokole"/>
+        <card number="2" name="Pentex Refinery"/>
+        <card number="1" name="Nexus Crawler"/>
+    </zone>
+</cockatrice_deck>

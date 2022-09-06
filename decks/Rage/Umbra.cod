@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Shakey Mac"/>
+        <card number="1" name="Naomi"/>
+        <card number="1" name="Laughs-at-Death"/>
+        <card number="3" name="Pattern Spider"/>
+        <card number="3" name="Wyldling"/>
+        <card number="1" name="Bottlecap of Shakey Mac"/>
+        <card number="2" name="Redirected Attack"/>
+        <card number="2" name="Umbral Flurry"/>
+        <card number="2" name="Sap Spirit"/>
+        <card number="2" name="Lucky Blow"/>
+        <card number="2" name="Head Wound"/>
+        <card number="2" name="Overextended Attack"/>
+        <card number="2" name="Bite"/>
+        <card number="2" name="Body Blow"/>
+        <card number="1" name="Caern of Awakening"/>
+        <card number="2" name="Rite of Realm Binding"/>
+        <card number="2" name="Gaia's Breath"/>
+        <card number="3" name="Wyrm Skin"/>
+        <card number="2" name="Stuck Sideways"/>
+        <card number="3" name="Voracious Spectre"/>
+        <card number="3" name="Drattosi"/>
+        <card number="1" name="Fist of the Comet"/>
+        <card number="1" name="Dreamspeaker Mage"/>
+        <card number="2" name="Gooshy Gooze"/>
+        <card number="3" name="Faerie Armor"/>
+        <card number="2" name="Swipe"/>
+        <card number="2" name="Evasion"/>
+    </zone>
+</cockatrice_deck>
