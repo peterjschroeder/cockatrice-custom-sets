@@ -13,7 +13,7 @@
       <name>Bart</name>
       <text>Bart doesn't count as 1 of your 2 Characters for this turn.</text>
       <prop>
-        <maintype>Character</maintype>
+        <maintype>Star Character</maintype>
         <type>Character - Star - Tough - Rascal - Family - Kid</type>
       </prop>
       <set rarity="rare" num="1" picurl="https://api.ccgtrader.co.uk/_/assets/s65k8h9qoao0ocs0">The Simpsons</set>
@@ -23,7 +23,7 @@
       <name>Homer</name>
       <text>Homer doesn't count as 1 of your 2 Characters for this turn.</text>
       <prop>
-        <maintype>Character</maintype>
+        <maintype>Star Character</maintype>
         <type>Character - Star - Fat - Lazy - Family - Idiot</type>
       </prop>
       <set rarity="rare" num="2" picurl="https://api.ccgtrader.co.uk/_/assets/q53jiczx8mos444c">The Simpsons</set>
@@ -33,7 +33,7 @@
       <name>Krusty</name>
       <text>Krusty doesn't count as 1 of your 2 Characters for this turn.</text>
       <prop>
-        <maintype>Character</maintype>
+        <maintype>Star Character</maintype>
         <type>Character - Star - Fat - Oddball - Lazy - Celebrity</type>
       </prop>
       <set rarity="rare" num="3" picurl="https://api.ccgtrader.co.uk/_/assets/lt58p9wz3e8swogc">The Simpsons</set>
@@ -43,7 +43,7 @@
       <name>Lisa</name>
       <text>Lisa doesn't count as 1 of your 2 Characters for this turn.</text>
       <prop>
-        <maintype>Character</maintype>
+        <maintype>Star Character</maintype>
         <type>Character - Star - Brainy - Family - Upstanding - Kid</type>
       </prop>
       <set rarity="rare" num="4" picurl="https://api.ccgtrader.co.uk/_/assets/t6037hbgxeog8cw8">The Simpsons</set>
@@ -53,7 +53,7 @@
       <name>Mr. Burns</name>
       <text>Mr. Burns doesn't count as 1 of your 2 Characters for this turn.</text>
       <prop>
-        <maintype>Character</maintype>
+        <maintype>Star Character</maintype>
         <type>Character - Star - Tough - Old - Uptight - Rascal</type>
       </prop>
       <set rarity="rare" num="5" picurl="https://api.ccgtrader.co.uk/_/assets/jo2e21iqkeg4gogg">The Simpsons</set>

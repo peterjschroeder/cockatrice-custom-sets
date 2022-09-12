@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Homer</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Homer"/>
+        <card number="2" name="All Mine"/>
+        <card number="2" name="Parental Control"/>
+        <card number="1" name="Dumb Luck"/>
+        <card number="2" name="Off Limits"/>
+        <card number="2" name="Parade of Idiots"/>
+        <card number="3" name="Hullabalooza"/>
+        <card number="3" name="Kwik-E-Mart"/>
+        <card number="3" name="Moe's Tavern"/>
+        <card number="1" name="Springfield Isotopes Game"/>
+        <card number="3" name="Apu Nahasapeemapetilon"/>
+        <card number="3" name="Barney Gumble"/>
+        <card number="1" name="Dr. Nick Riviera"/>
+        <card number="1" name="Duffman"/>
+        <card number="3" name="Grampa Simpson"/>
+        <card number="3" name="Herb Powell"/>
+        <card number="1" name="Marge Simpson (1)"/>
+        <card number="1" name="Marge Simpson (2)"/>
+        <card number="1" name="Marge Simpson (3)"/>
+        <card number="3" name="Moe Szyslak"/>
+    </zone>
+</cockatrice_deck>

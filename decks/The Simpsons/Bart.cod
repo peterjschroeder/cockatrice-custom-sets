@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Bart</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Bart"/>
+        <card number="2" name="Bait and Switch"/>
+        <card number="1" name="Trading Up"/>
+        <card number="2" name="Search and Destroy"/>
+        <card number="2" name="Slimy Tactics"/>
+        <card number="1" name="The Android's Dungeon"/>
+        <card number="3" name="Phineas Q. Butterfat's 5600 Flavors Ice Cream Parlor"/>
+        <card number="3" name="Bart's Treehouse"/>
+        <card number="3" name="Kamp Krusty"/>
+        <card number="1" name="Jimbo Jones"/>
+        <card number="3" name="Milhouse Van Houten"/>
+        <card number="3" name="Nelson Muntz"/>
+        <card number="3" name="Otto Mann"/>
+        <card number="1" name="Rainier Wolfcastle"/>
+        <card number="3" name="Santa's Little Helper"/>
+        <card number="3" name="Sherri &amp; Terri"/>
+        <card number="3" name="Uter"/>
+        <card number="2" name="Sneak Attack"/>
+    </zone>
+</cockatrice_deck>

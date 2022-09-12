@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mr. Burns</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Mr. Burns"/>
+        <card number="1" name="Poison Pill"/>
+        <card number="2" name="Fine Print"/>
+        <card number="2" name="Executive Privilege"/>
+        <card number="2" name="Staff Review"/>
+        <card number="2" name="You're Fired"/>
+        <card number="3" name="Burns Manor"/>
+        <card number="3" name="Mr. Burns's Office"/>
+        <card number="1" name="Springfield Nuclear Plant"/>
+        <card number="3" name="Springfield Town Hall"/>
+        <card number="3" name="Carl Carlson"/>
+        <card number="3" name="Chief Clancy Wiggum"/>
+        <card number="1" name="Kearney"/>
+        <card number="3" name="Lenny"/>
+        <card number="1" name="Mayor Quimby"/>
+        <card number="3" name="Officer Lou"/>
+        <card number="3" name="Snake"/>
+        <card number="3" name="Waylon Smithers"/>
+    </zone>
+</cockatrice_deck>

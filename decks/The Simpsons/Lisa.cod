@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Lisa</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Lisa"/>
+        <card number="1" name="Butting In"/>
+        <card number="2" name="Exposed"/>
+        <card number="2" name="Know-It-All"/>
+        <card number="2" name="Healthy Choice"/>
+        <card number="2" name="Trading Places"/>
+        <card number="3" name="The Playground"/>
+        <card number="1" name="Science Fair"/>
+        <card number="3" name="Springfield Elementary"/>
+        <card number="3" name="Springfield Library"/>
+        <card number="3" name="Dr. Julius Hibbert"/>
+        <card number="1" name="Janey Powell"/>
+        <card number="1" name="Maggie Simpson (1)"/>
+        <card number="1" name="Maggie Simpson (2)"/>
+        <card number="1" name="Maggie Simpson (3)"/>
+        <card number="3" name="Martin Prince"/>
+        <card number="3" name="Principal Skinner"/>
+        <card number="1" name="Professor John Frink"/>
+        <card number="3" name="Ralph Wiggum"/>
+        <card number="3" name="Rod Todd Flanders"/>
+    </zone>
+</cockatrice_deck>
