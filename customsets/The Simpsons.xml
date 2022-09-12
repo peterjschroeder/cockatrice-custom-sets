@@ -1,0 +1,1649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>The Simpsons</name>
+      <longname>The Simpsons</longname>
+      <settype>Custom</settype>
+      <releasedate>2003</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Bart</name>
+      <text>Bart doesn't count as 1 of your 2 Characters for this turn.</text>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Star - Tough - Rascal - Family - Kid</type>
+      </prop>
+      <set rarity="rare" num="1" picurl="https://api.ccgtrader.co.uk/_/assets/s65k8h9qoao0ocs0">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Homer</name>
+      <text>Homer doesn't count as 1 of your 2 Characters for this turn.</text>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Star - Fat - Lazy - Family - Idiot</type>
+      </prop>
+      <set rarity="rare" num="2" picurl="https://api.ccgtrader.co.uk/_/assets/q53jiczx8mos444c">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Krusty</name>
+      <text>Krusty doesn't count as 1 of your 2 Characters for this turn.</text>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Star - Fat - Oddball - Lazy - Celebrity</type>
+      </prop>
+      <set rarity="rare" num="3" picurl="https://api.ccgtrader.co.uk/_/assets/lt58p9wz3e8swogc">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Lisa</name>
+      <text>Lisa doesn't count as 1 of your 2 Characters for this turn.</text>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Star - Brainy - Family - Upstanding - Kid</type>
+      </prop>
+      <set rarity="rare" num="4" picurl="https://api.ccgtrader.co.uk/_/assets/t6037hbgxeog8cw8">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Mr. Burns</name>
+      <text>Mr. Burns doesn't count as 1 of your 2 Characters for this turn.</text>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Star - Tough - Old - Uptight - Rascal</type>
+      </prop>
+      <set rarity="rare" num="5" picurl="https://api.ccgtrader.co.uk/_/assets/jo2e21iqkeg4gogg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>The Android's Dungeon</name>
+      <text>If this Scene is completed, only the player with the most Characters on it gets points. If there's a tie, no one gets any points.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Brainy - Idiot - Oddball</type>
+        <manacost>5</manacost>
+        <loyalty>4</loyalty>
+      </prop>
+      <set rarity="rare" num="81" picurl="http://karcianki.pl/pics/games/smp/smp/theandroidsdungeon.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Professor John Frink</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Brainy - Oddball - Flaven</type>
+      </prop>
+      <set rarity="rare" num="62" picurl="http://karcianki.pl/pics/games/smp/smp/professorjohnfrink.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Grampa Simpson</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Bitter - Old - Family - Idiot</type>
+      </prop>
+      <set rarity="common" num="30" picurl="http://karcianki.pl/pics/games/smp/smp/grampasimpson.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Maggie Simpson (1)</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Upstanding - Downfalling - Family - Kid</type>
+      </prop>
+      <set rarity="common" num="45a" picurl="http://karcianki.pl/pics/games/smp/smp/maggiesimpson1.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Dr. Marvin Monroe</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Uptight - Fat - Celebrity - Doctor</type>
+      </prop>
+      <set rarity="common" num="23" picurl="http://karcianki.pl/pics/games/smp/smp/drmarvinmonroe.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Kent Brockman</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Uptight - Celebrity - Idiot</type>
+      </prop>
+      <set rarity="common" num="41" picurl="http://karcianki.pl/pics/games/smp/smp/kentbrockman.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Take a Peek</name>
+      <text>Use at the start of another player's turn.
+Look at that player's hand and play any Characters in it on any Scenes you choose. (They don't count against the 2 Character per turn limit.)</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Bart</type>
+      </prop>
+      <set rarity="common" num="118" picurl="http://karcianki.pl/pics/games/smp/smp/takeapeek.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Search and Destroy</name>
+      <text>Use when an Uptight Character is played.
+All Uptight Characters are discarded from play.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Bart</type>
+      </prop>
+      <set rarity="common" num="116" picurl="http://karcianki.pl/pics/games/smp/smp/searchanddestroy.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>The Itchy &amp; Scratchy Store</name>
+      <text>If this Scene is completed, all Uptight Characters on other Scenes are discarded from play.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Celebrity - Kid</type>
+        <manacost>6</manacost>
+        <loyalty>4</loyalty>
+      </prop>
+      <set rarity="common" num="88" picurl="http://karcianki.pl/pics/games/smp/smp/theitchyscratchystore.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bait and Switch</name>
+      <text>Use when a Character is played.
+Choose a Scene. Move that Character to that Scene.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Bart</type>
+      </prop>
+      <set rarity="common" num="115" picurl="http://karcianki.pl/pics/games/smp/smp/baitandswitch.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Number One</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Nameless - Tough - Rascal</type>
+      </prop>
+      <set rarity="common" num="56" picurl="http://karcianki.pl/pics/games/smp/smp/numberone.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Milhouse Van Houten</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Uptight - Kid - Lackey</type>
+      </prop>
+      <set rarity="common" num="49" picurl="http://karcianki.pl/pics/games/smp/smp/milhousevanhouten.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Snake</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Tough - Rascal</type>
+      </prop>
+      <set rarity="common" num="73" picurl="http://karcianki.pl/pics/games/smp/smp/snake.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Come from Behind</name>
+      <text>Use during your turn if you have fewer points than each other player.
+Take an extra turn after this one.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Homer</type>
+      </prop>
+      <set rarity="common" num="127" picurl="http://karcianki.pl/pics/games/smp/smp/comefrombehind.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Save the Animals</name>
+      <text>Use during your turn
+Play all Animal Characters in your discard pile on any Scenes. (They don't count against the 2 Character per turn limit.)</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Lisa</type>
+      </prop>
+      <set rarity="common" num="145" picurl="http://karcianki.pl/pics/games/smp/smp/savetheanimals.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Guilt By Association</name>
+      <text>Use when a Character is played.
+That Character and all Characters with any of its traits are discarded from play.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Bart</type>
+      </prop>
+      <set rarity="rare" num="112" picurl="http://karcianki.pl/pics/games/smp/smp/guiltbyassociation.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Barney Gumble</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Fat - Lazy - Slobbering - Idiot</type>
+      </prop>
+      <set rarity="common" num="7" picurl="http://karcianki.pl/pics/games/smp/smp/barneygumble.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Stampy</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Pachyderm - Family - Animal</type>
+      </prop>
+      <set rarity="rare" num="76" picurl="http://karcianki.pl/pics/games/smp/smp/stampy.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Wendell</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Sickly - Oddball - Kid</type>
+      </prop>
+      <set rarity="common" num="79" picurl="http://karcianki.pl/pics/games/smp/smp/wendell.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Ralph Wiggum</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Fat - Oddball - Idiot - Kid</type>
+      </prop>
+      <set rarity="common" num="64" picurl="http://karcianki.pl/pics/games/smp/smp/ralphwiggum.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Bonus Play</name>
+      <text>Use any time.
+You draw 3 cards.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Lisa</type>
+      </prop>
+      <set rarity="common" num="139" picurl="http://karcianki.pl/pics/games/smp/smp/bonusplay.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Taste of Victory</name>
+      <text>Use during your turn.
+Move all Characters that match your Scene to it.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Homer</type>
+      </prop>
+      <set rarity="common" num="124" picurl="http://karcianki.pl/pics/games/smp/smp/tasteofvictory.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>The Couch</name>
+      <text>Family Characters can't be played to any other Scene.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Family - Oddball</type>
+        <manacost>5</manacost>
+        <loyalty>5</loyalty>
+      </prop>
+      <set rarity="common" num="86" picurl="http://karcianki.pl/pics/games/smp/smp/thecouch.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Playground</name>
+      <text>When this Scene is played, move all Kid Characters from other Scenes to this one.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Tough - Faculty - Kid</type>
+        <manacost>6</manacost>
+        <loyalty>4</loyalty>
+      </prop>
+      <set rarity="common" num="99" picurl="http://karcianki.pl/pics/games/smp/smp/theplayground.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dr. Julius Hibbert</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Upstanding - Fat - Brainy - Doctor</type>
+      </prop>
+      <set rarity="common" num="22" picurl="http://karcianki.pl/pics/games/smp/smp/drjuliushibbert.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Springfield Town Hall</name>
+      <text>While this Scene is in play, each other Scene needs 1 more Character to complete it.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Tough - Uptight - Celebrity - Rascal</type>
+        <manacost>5</manacost>
+        <loyalty>4</loyalty>
+      </prop>
+      <set rarity="common" num="109" picurl="http://karcianki.pl/pics/games/smp/smp/springfieldtownhall.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Know-It-All</name>
+      <text>Use when another player tries to play an Action.
+That Action does nothing and is discarded.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Lisa</type>
+      </prop>
+      <set rarity="common" num="143" picurl="http://karcianki.pl/pics/games/smp/smp/knowitall.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Martin Prince</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Brainy - Oddball - Fat - Kid</type>
+      </prop>
+      <set rarity="common" num="47" picurl="http://karcianki.pl/pics/games/smp/smp/martinprince.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Helen Lovejoy</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Upstanding - Uptight - Gossiping - Mom</type>
+      </prop>
+      <set rarity="common" num="53" picurl="http://karcianki.pl/pics/games/smp/smp/helenlovejoy.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Executive Privilege</name>
+      <text>Use when another player completes a Scene that has a Rascal Character on it.
+You get 1 point.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Mr. Burns</type>
+      </prop>
+      <set rarity="common" num="154" picurl="http://karcianki.pl/pics/games/smp/smp/executiveprivilege.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Mr. Burns's Office</name>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Rascal - Lackey</type>
+        <manacost>4</manacost>
+        <loyalty>4</loyalty>
+      </prop>
+      <set rarity="common" num="96" picurl="http://karcianki.pl/pics/games/smp/smp/mrburnssoffice.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Principal Skinner</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Brainy - Uptight - Faculty - Stickler</type>
+      </prop>
+      <set rarity="common" num="61" picurl="http://karcianki.pl/pics/games/smp/smp/principalskinner.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Dumb Luck</name>
+      <text>Use when another player completes a Scene that has an Idiot Character on it.
+If that player would get points from that scene, you get those points instead.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Homer</type>
+      </prop>
+      <set rarity="rare" num="123" picurl="http://karcianki.pl/pics/games/smp/smp/dumbluck.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Disco Stu</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Uptight - Funkadelic - Oddball</type>
+      </prop>
+      <set rarity="common" num="20" picurl="http://karcianki.pl/pics/games/smp/smp/discostu.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Noise Land Video Arcade</name>
+      <text>If this Scene is completed, all Characters on other Scenes that match the Scenes they're on are discarded from play.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Kid - Idiot</type>
+        <manacost>5</manacost>
+        <loyalty>4</loyalty>
+      </prop>
+      <set rarity="common" num="97" picurl="http://karcianki.pl/pics/games/smp/smp/noiselandvideoarcade.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bartman</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Oddball - Kid - Family - Celebrity</type>
+      </prop>
+      <set rarity="rare" num="8" picurl="http://karcianki.pl/pics/games/smp/smp/bartman.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Poochie</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Oddball - Idiot - Cartoon - Animal</type>
+      </prop>
+      <set rarity="rare" num="60" picurl="http://karcianki.pl/pics/games/smp/smp/poochie.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Whacking Day</name>
+      <text>If this Scene is trashed, each player with Animal Characters on it may move them to other Scenes.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Oddball - Animal</type>
+        <manacost>5</manacost>
+        <loyalty>4</loyalty>
+      </prop>
+      <set rarity="common" num="110" picurl="http://karcianki.pl/pics/games/smp/smp/whackingday.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Misalignment</name>
+      <text>Use during your turn.
+All characters move 1 Scene to the left.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Krusty</type>
+      </prop>
+      <set rarity="common" num="136" picurl="http://karcianki.pl/pics/games/smp/smp/misalignment.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Game Over</name>
+      <text>Use if you have 6 points.
+You win the game.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Homer</type>
+      </prop>
+      <set rarity="rare" num="125" picurl="http://karcianki.pl/pics/games/smp/smp/gameover.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Hullabalooza</name>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Family - Idiot</type>
+        <manacost>4</manacost>
+        <loyalty>4</loyalty>
+      </prop>
+      <set rarity="common" num="87" picurl="http://karcianki.pl/pics/games/smp/smp/hullabalooza.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sideshow Mel</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Uptight - Celebrity - Lackey</type>
+      </prop>
+      <set rarity="common" num="71" picurl="http://karcianki.pl/pics/games/smp/smp/sideshowmel.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Springfield Nuclear Plant</name>
+      <text>The player who completes this Scene may choose another Scene in play. That Scene and all Characters on it are discarded from play.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Uptight - Lackey</type>
+        <manacost>6</manacost>
+        <loyalty>5</loyalty>
+      </prop>
+      <set rarity="rare" num="107" picurl="http://karcianki.pl/pics/games/smp/smp/springfieldnuclearplant.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Stand and Deliver</name>
+      <text>Use during your turn.
+Play all Rascal Characters in your discard pile on your scene. (They don't count against the 2 Character per turn limit.)</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Mr. Burns</type>
+      </prop>
+      <set rarity="rare" num="148" picurl="http://karcianki.pl/pics/games/smp/smp/standanddeliver.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Bart's Treehouse</name>
+      <text>If this Scene is completed using Bart, the player who played this Scene gets 1 extra point.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Kid - Family</type>
+        <manacost>5</manacost>
+        <loyalty>4</loyalty>
+      </prop>
+      <set rarity="common" num="83" picurl="http://karcianki.pl/pics/games/smp/smp/bartstreehouse.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dancin' Homer</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Fat - Celebrity - Family - Idiot</type>
+      </prop>
+      <set rarity="rare" num="19" picurl="http://karcianki.pl/pics/games/smp/smp/dancinhomer.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Who Shot Mr. Burns</name>
+      <text>No Characters match this Scene. The player who trashes this Scene gets 1 extra point and takes an extra turn after this one.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene</type>
+        <manacost>-</manacost>
+        <loyalty>8</loyalty>
+      </prop>
+      <set rarity="rare" num="111" picurl="http://karcianki.pl/pics/games/smp/smp/whoshotmrburns.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bobo</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Old - Upstanding - Oddball - Animal</type>
+      </prop>
+      <set rarity="common" num="11" picurl="http://karcianki.pl/pics/games/smp/smp/bobo.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Chief Clancy Wiggum</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Lazy - Fat - Tough - Idiot</type>
+      </prop>
+      <set rarity="common" num="16" picurl="http://karcianki.pl/pics/games/smp/smp/chiefclancywiggum.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Itchy Scratchy</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Oddball - Celebrity - Cartoon - Animal</type>
+      </prop>
+      <set rarity="rare" num="35" picurl="http://karcianki.pl/pics/games/smp/smp/itchyscratchy.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Springfield Mall</name>
+      <text>The player who trashes this Scene may return up to 2 cards in his or her discard pile to his or her hand.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Old - Family - Oddball</type>
+        <manacost>4</manacost>
+        <loyalty>5</loyalty>
+      </prop>
+      <set rarity="common" num="106" picurl="http://karcianki.pl/pics/games/smp/smp/springfieldmall.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>742 Evergreen Terrace</name>
+      <text>The player who completes this Scene gets 1 extra point.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Family - Animal</type>
+        <manacost>6</manacost>
+        <loyalty>5</loyalty>
+      </prop>
+      <set rarity="common" num="101" picurl="http://karcianki.pl/pics/games/smp/smp/742evergreenterrace.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Barney's Bowl-A-Rama</name>
+      <text>The player who completes this Scene may choose 1 character in his or her discard pile and either return it to his or her hand or play it on another scene. (It doesn't count against the 2 Character per turn limit.)</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Fat - Lazy</type>
+        <manacost>6</manacost>
+        <loyalty>4</loyalty>
+      </prop>
+      <set rarity="common" num="82" picurl="http://karcianki.pl/pics/games/smp/smp/barneysbowlarama.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Healthy Choice</name>
+      <text>Use when a Fat Character is played.
+All Fat Characters are discarded from play.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Lisa</type>
+      </prop>
+      <set rarity="common" num="147" picurl="http://karcianki.pl/pics/games/smp/smp/healthychoice.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Future Burns</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Old - Oddball - Robot - Rascal</type>
+      </prop>
+      <set rarity="rare" num="28" picurl="http://karcianki.pl/pics/games/smp/smp/futureburns.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Maggie Simpson (3)</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Upstanding - Downfalling - Family - Kid</type>
+      </prop>
+      <set rarity="common" num="45c" picurl="http://karcianki.pl/pics/games/smp/smp/maggiesimpson3.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>The Collector</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Fat - Brainy - Bitter - Oddball</type>
+      </prop>
+      <set rarity="P" num="18a" picurl="http://karcianki.pl/pics/games/smp/smp/thecollector.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Butting In</name>
+      <text>Use when another player tries to complete or trash a scene.
+You choose which Characters are used to complete or trash it.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Lisa</type>
+      </prop>
+      <set rarity="rare" num="146" picurl="http://karcianki.pl/pics/games/smp/smp/buttingin.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Lunchlady Doris</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Bitter - Fat - Hashslinger - Faculty</type>
+      </prop>
+      <set rarity="common" num="43" picurl="http://karcianki.pl/pics/games/smp/smp/lunchladydoris.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Mayor Quimby</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Tough - Fat - Celebrity - Rascal</type>
+      </prop>
+      <set rarity="rare" num="48" picurl="http://karcianki.pl/pics/games/smp/smp/mayorquimby.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Hank Scorpio</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Tough - Brainy - Rascal - Celebrity</type>
+      </prop>
+      <set rarity="rare" num="32" picurl="http://karcianki.pl/pics/games/smp/smp/hankscorpio.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Parental Control</name>
+      <text>Use when a Kid Character is played.
+All Kid Characters are discarded from play.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Homer</type>
+      </prop>
+      <set rarity="common" num="122" picurl="http://karcianki.pl/pics/games/smp/smp/parentalcontrol.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Springfield Isotopes Game</name>
+      <text>If this Scene is trashed, no one gets any points.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Family - Celebrity - Oddball</type>
+        <manacost>5</manacost>
+        <loyalty>3</loyalty>
+      </prop>
+      <set rarity="rare" num="104" picurl="http://karcianki.pl/pics/games/smp/smp/springfieldisotopesgame.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Back to Square One</name>
+      <text>Use when a Character is played to a scene it matches.
+All Characters that match the Scenes they're on are discarded from play.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Krusty</type>
+      </prop>
+      <set rarity="common" num="137" picurl="http://karcianki.pl/pics/games/smp/smp/backtosquareone.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Duffman</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Celebrity - Idiot</type>
+      </prop>
+      <set rarity="rare" num="25" picurl="http://karcianki.pl/pics/games/smp/smp/duffman.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Staff Review</name>
+      <text>Use during your turn.
+Move all Characters on your Scene to any Scenes you choose.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Mr. Burns</type>
+      </prop>
+      <set rarity="common" num="155" picurl="http://karcianki.pl/pics/games/smp/smp/staffreview.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Mr. Teeny</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Brainy - Animal - Celebrity - Lackey</type>
+      </prop>
+      <set rarity="rare" num="52" picurl="http://karcianki.pl/pics/games/smp/smp/mrteeny.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Squeaky-Voiced Teen</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Uptight - Kid - Lackey</type>
+      </prop>
+      <set rarity="common" num="75" picurl="http://karcianki.pl/pics/games/smp/smp/squeakyvoicedteen.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Kwik-E-Mart</name>
+      <text>While Apu Nahasapeemapetilon is on this Scene, this Scene needs 1 less Character to complete it, and 1 more to trash it.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Fat - Idiot - Oddball</type>
+        <manacost>4</manacost>
+        <loyalty>4</loyalty>
+      </prop>
+      <set rarity="common" num="93" picurl="http://karcianki.pl/pics/games/smp/smp/kwikemart.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fine Print</name>
+      <text>Use at the start of any player's turn.
+Choose a player. That player can't get points this turn.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Mr. Burns</type>
+      </prop>
+      <set rarity="common" num="153" picurl="http://karcianki.pl/pics/games/smp/smp/fineprint.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Kearney</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Tough - Lackey - Rascal - Kid</type>
+      </prop>
+      <set rarity="rare" num="40" picurl="http://karcianki.pl/pics/games/smp/smp/kearney.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Share the Wealth</name>
+      <text>Use when another player completes a Scene and you don't get any points.
+You get 1 point.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Krusty</type>
+      </prop>
+      <set rarity="common" num="130" picurl="http://karcianki.pl/pics/games/smp/smp/sharethewealth.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>No Eggheads</name>
+      <text>Use when an Oddball or Brainy Character is played.
+All Oddball Characters and Brainy Characters are discarded from play.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Mr. Burns</type>
+      </prop>
+      <set rarity="common" num="151" picurl="http://karcianki.pl/pics/games/smp/smp/noeggheads.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Mojo the Helper Monkey</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Upstanding - Lazy - Family - Animal</type>
+      </prop>
+      <set rarity="common" num="51" picurl="http://karcianki.pl/pics/games/smp/smp/mojothehelpermonkey.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Trapped Like a Rat</name>
+      <text>Use when another player tries to play a Scene.
+That Scene is discarded.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Krusty</type>
+      </prop>
+      <set rarity="common" num="138" picurl="http://karcianki.pl/pics/games/smp/smp/trappedlikearat.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Everyone's a Winner</name>
+      <text>Use during your turn.
+Take an extra turn after this one. Each player with fewer points than you gets one point.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Krusty</type>
+      </prop>
+      <set rarity="common" num="131" picurl="http://karcianki.pl/pics/games/smp/smp/everyonesawinner.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Dolph</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Bitter - Lackey - Rascal - Kid</type>
+      </prop>
+      <set rarity="rare" num="21" picurl="http://karcianki.pl/pics/games/smp/smp/dolph.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Jimbo Jones</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Tough - Rascal - Kid</type>
+      </prop>
+      <set rarity="rare" num="38" picurl="http://karcianki.pl/pics/games/smp/smp/jimbojones.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Reverend Lovejoy</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Upstanding - Uptight - Lazy - Reverend</type>
+      </prop>
+      <set rarity="common" num="65" picurl="http://karcianki.pl/pics/games/smp/smp/reverendlovejoy.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Science Fair</name>
+      <text>You may play this Scene even if you have a Scene in play. Discard your old scene, but move all Characters on it to this one.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Brainy - Kid</type>
+        <manacost>5</manacost>
+        <loyalty>5</loyalty>
+      </prop>
+      <set rarity="rare" num="100" picurl="http://karcianki.pl/pics/games/smp/smp/sciencefair.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Leftorium</name>
+      <text>If this Scene is completed or trashed, reverse the direction of play.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Uptight - Upstanding</type>
+        <manacost>5</manacost>
+        <loyalty>5</loyalty>
+      </prop>
+      <set rarity="common" num="94" picurl="http://karcianki.pl/pics/games/smp/smp/theleftorium.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gil</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Uptight - Bitter - Idiot</type>
+      </prop>
+      <set rarity="common" num="29" picurl="http://karcianki.pl/pics/games/smp/smp/gil.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Moe's Tavern</name>
+      <text>If this Scene is completed using Homer, the player who played this Scene gets 1 extra point.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Lazy - Idiot</type>
+        <manacost>5</manacost>
+        <loyalty>4</loyalty>
+      </prop>
+      <set rarity="common" num="95" picurl="http://karcianki.pl/pics/games/smp/smp/moestavern.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jasper</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Bitter - Old - Uptight - Coot</type>
+      </prop>
+      <set rarity="common" num="37" picurl="http://karcianki.pl/pics/games/smp/smp/jasper.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Sideshow Bob Terwilliger</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Bitter - Brainy - Celebrity - Rascal</type>
+      </prop>
+      <set rarity="rare" num="70" picurl="http://karcianki.pl/pics/games/smp/smp/sideshowbobterwilliger.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Check the Rules</name>
+      <text>Use at any time.
+Flip over the top 3 cards of your deck. Play any Characters flipped over on a single Scene and discard the rest. (They don't count against the 2 Character per turn limit.)</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Homer</type>
+      </prop>
+      <set rarity="common" num="126" picurl="http://karcianki.pl/pics/games/smp/smp/checktherules.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Star Power</name>
+      <text>Use any time.
+Flip over the top 3 cards of your deck. Play any Celebrity Characters flipped over on any Scenes you choose and discard the rest. (They don't count against the 2 Character per turn limit.)</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Krusty</type>
+      </prop>
+      <set rarity="common" num="134" picurl="http://karcianki.pl/pics/games/smp/smp/starpower.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>All Creatures Great and Cheap</name>
+      <text>This scene needs 1 less Character to complete it for each Animal Character on it.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Upstanding - Animal</type>
+        <manacost>8</manacost>
+        <loyalty>5</loyalty>
+      </prop>
+      <set rarity="common" num="80" picurl="http://karcianki.pl/pics/games/smp/smp/allcreaturesgreatandcheap.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Smoke 'Em If You Got 'Em</name>
+      <text>Use during your turn.
+For each scene in play, if you have a Character in your hand that matches the Scene, you may play that Character on it. (It doesn't count against the 2 Character per turn limit.)</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Krusty</type>
+      </prop>
+      <set rarity="rare" num="135" picurl="http://karcianki.pl/pics/games/smp/smp/smokeemifyougotem.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Uter</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Fat - Oddball - Kid</type>
+      </prop>
+      <set rarity="common" num="78" picurl="http://karcianki.pl/pics/games/smp/smp/uter.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Selma Bouvier</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Bitter - Fat - Family - Oddball</type>
+      </prop>
+      <set rarity="common" num="68" picurl="http://karcianki.pl/pics/games/smp/smp/selmabouvier.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Parade of Idiots</name>
+      <text>Use when an Idiot Character is played.
+Choose a Scene. Move all Idiot Characters to that Scene.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Homer</type>
+      </prop>
+      <set rarity="common" num="129" picurl="http://karcianki.pl/pics/games/smp/smp/paradeofidiots.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>All Mine</name>
+      <text>Use when another player trashes a scene.
+Only you can get points from that Scene.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Homer</type>
+      </prop>
+      <set rarity="common" num="121" picurl="http://karcianki.pl/pics/games/smp/smp/allmine.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Sherri &amp; Terri</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Tough - Kid - Duo</type>
+      </prop>
+      <set rarity="common" num="69" picurl="http://karcianki.pl/pics/games/smp/smp/sherriterri.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Kid Stuff</name>
+      <text>Use during your turn.
+Except for Kid Characters, all Characters are discarded from play.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Bart</type>
+      </prop>
+      <set rarity="common" num="113" picurl="http://karcianki.pl/pics/games/smp/smp/kidstuff.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Groundskeeper Willie</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Uptight - Bitter - Faculty - Scot</type>
+      </prop>
+      <set rarity="rare" num="31" picurl="http://karcianki.pl/pics/games/smp/smp/groundskeeperwillie.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Bleeding Gums Murphy</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Fat - Upstanding - Celebrity</type>
+      </prop>
+      <set rarity="rare" num="9" picurl="http://karcianki.pl/pics/games/smp/smp/bleedinggumsmurphy.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Rainier Wolfcastle</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Celebrity - Idiot</type>
+      </prop>
+      <set rarity="rare" num="63" picurl="http://karcianki.pl/pics/games/smp/smp/rainierwolfcastle.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Comic Book Guy</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Fat - Brainy - Bitter - Oddball</type>
+      </prop>
+      <set rarity="rare" num="18" picurl="http://karcianki.pl/pics/games/smp/smp/comicbookguy.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Edna Krabappel</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Bitter - Uptight - Faculty - Flirt</type>
+      </prop>
+      <set rarity="common" num="26" picurl="http://karcianki.pl/pics/games/smp/smp/ednakrabappel.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Marge Simpson (1)</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Upstanding - Uptight - Family - Mom</type>
+      </prop>
+      <set rarity="common" num="46a" picurl="http://karcianki.pl/pics/games/smp/smp/margesimpson1.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Carl Carlson</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Uptight - Lackey</type>
+      </prop>
+      <set rarity="common" num="15" picurl="http://karcianki.pl/pics/games/smp/smp/carlcarlson.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Ned Flanders</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Upstanding - Uptight - Old - Zealot</type>
+      </prop>
+      <set rarity="common" num="54" picurl="http://karcianki.pl/pics/games/smp/smp/nedflanders.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Dr. Nick Riviera</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Celebrity - Idiot - Doctor</type>
+      </prop>
+      <set rarity="rare" num="24" picurl="http://karcianki.pl/pics/games/smp/smp/drnickriviera.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Apu Nahasapeemapetilon</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Upstanding - Curried - Oddball</type>
+      </prop>
+      <set rarity="common" num="6" picurl="http://karcianki.pl/pics/games/smp/smp/apunahasapeemapetilon.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Captain McCallister</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Bitter - Old - Fat - Idiot</type>
+      </prop>
+      <set rarity="common" num="14" picurl="http://karcianki.pl/pics/games/smp/smp/captainmccallister.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Krusty's Clown College</name>
+      <text>When this Scene is played. move all Oddball Characters on other Scenes to this one.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Fat - Idiot - Oddball</type>
+        <manacost>6</manacost>
+        <loyalty>4</loyalty>
+      </prop>
+      <set rarity="common" num="92" picurl="http://karcianki.pl/pics/games/smp/smp/krustysclowncollege.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Phineas Q. Butterfat's 5600 Flavors Ice Cream Parlor</name>
+      <text>While this Scene is in play, each other Scene needs 1 less character to complete it.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Fat - Idiot - Kid</type>
+        <manacost>4</manacost>
+        <loyalty>6</loyalty>
+      </prop>
+      <set rarity="common" num="98" picurl="http://karcianki.pl/pics/games/smp/smp/phineasqbutterfats5600flavorsicecreamparlor.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Trading Up</name>
+      <text>Use when a Kid Character is played.
+Choose a Scene. Move all Kid Characters to that Scene.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Bart</type>
+      </prop>
+      <set rarity="rare" num="117" picurl="http://karcianki.pl/pics/games/smp/smp/tradingup.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Maggie Simpson (2)</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Upstanding - Downfalling - Family - Kid</type>
+      </prop>
+      <set rarity="common" num="45b" picurl="http://karcianki.pl/pics/games/smp/smp/maggiesimpson2.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Rod Todd Flanders</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Upstanding - Uptight - Oddball - Kid</type>
+      </prop>
+      <set rarity="common" num="66" picurl="http://karcianki.pl/pics/games/smp/smp/rodtoddflanders.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Sneak Attack</name>
+      <text>Use when another player tries to complete a Scene.
+That player doesn't get any points from that Scene.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Bart</type>
+      </prop>
+      <set rarity="common" num="120" picurl="http://karcianki.pl/pics/games/smp/smp/sneakattack.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Patty Bouvier</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Bitter - Fat - Family - Oddball</type>
+      </prop>
+      <set rarity="common" num="59" picurl="http://karcianki.pl/pics/games/smp/smp/pattybouvier.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Kamp Krusty</name>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Kid - Idiot</type>
+        <manacost>4</manacost>
+        <loyalty>4</loyalty>
+      </prop>
+      <set rarity="common" num="89" picurl="http://karcianki.pl/pics/games/smp/smp/kampkrusty.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Helping Hands</name>
+      <text>Use during your turn.
+Look through your deck for up to 3 Characters and put them in your hand. Shuffle your deck.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Krusty</type>
+      </prop>
+      <set rarity="common" num="132" picurl="http://karcianki.pl/pics/games/smp/smp/helpinghands.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Trading Places</name>
+      <text>Use during your turn.
+Choose 2 Scenes. Switch all Characters on those 2 Scenes.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Lisa</type>
+      </prop>
+      <set rarity="common" num="142" picurl="http://karcianki.pl/pics/games/smp/smp/tradingplaces.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>He Ain't Heavy</name>
+      <text>Use during your turn.
+You can play any number of Characters this turn.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Lisa</type>
+      </prop>
+      <set rarity="rare" num="141" picurl="http://karcianki.pl/pics/games/smp/smp/heaintheavy.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Same as It Ever Was</name>
+      <text>Use during your turn.
+Return a Character in your discard pile to your hand.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Lisa</type>
+      </prop>
+      <set rarity="common" num="140" picurl="http://karcianki.pl/pics/games/smp/smp/sameasiteverwas.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Otto Mann</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Lazy - Idiot - Oddball</type>
+      </prop>
+      <set rarity="common" num="58" picurl="http://karcianki.pl/pics/games/smp/smp/ottomann.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Springfield Elementary</name>
+      <text>If this Scene is completed using Lisa, the player who played this Scene gets 1 extra point.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Kid - Brainy - Faculty - Tough</type>
+        <manacost>5</manacost>
+        <loyalty>4</loyalty>
+      </prop>
+      <set rarity="common" num="103" picurl="http://karcianki.pl/pics/games/smp/smp/springfieldelementary.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Marge Simpson (2)</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Upstanding - Uptight - Family - Mom</type>
+      </prop>
+      <set rarity="common" num="46b" picurl="http://karcianki.pl/pics/games/smp/smp/margesimpson2.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Nelson Muntz</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Tough - Rascal - Kid</type>
+      </prop>
+      <set rarity="common" num="55" picurl="http://karcianki.pl/pics/games/smp/smp/nelsonmuntz.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>You're Fired</name>
+      <text>Use when a Character card is played. That Character is discarded from play.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Mr. Burns</type>
+      </prop>
+      <set rarity="common" num="156" picurl="http://karcianki.pl/pics/games/smp/smp/yourefired.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Exposed</name>
+      <text>Use when a Character is played to a Scene it doesn't match.
+All Characters that don't match the Scenes they're on are discarded from play.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Lisa</type>
+      </prop>
+      <set rarity="common" num="144" picurl="http://karcianki.pl/pics/games/smp/smp/exposed.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Springfield Retirement Castle</name>
+      <text>On each player's turn, playing Old Characters doesn't count against the 2 Character per turn limit.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Old</type>
+        <manacost>5</manacost>
+        <loyalty>4</loyalty>
+      </prop>
+      <set rarity="common" num="108" picurl="http://karcianki.pl/pics/games/smp/smp/springfieldretirementcastle.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Officer Lou</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Uptight - Lackey</type>
+      </prop>
+      <set rarity="common" num="57" picurl="http://karcianki.pl/pics/games/smp/smp/officerlou.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Poison Pill</name>
+      <text>Use when a Character is played on a Scene.
+That Scene and all Characters on it are discarded from play.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Mr. Burns</type>
+      </prop>
+      <set rarity="rare" num="149" picurl="http://karcianki.pl/pics/games/smp/smp/poisonpill.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Springfield Library</name>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Brainy - Uptight</type>
+        <manacost>4</manacost>
+        <loyalty>4</loyalty>
+      </prop>
+      <set rarity="common" num="105" picurl="http://karcianki.pl/pics/games/smp/smp/springfieldlibrary.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Melt Down</name>
+      <text>Use during your turn.
+All Scenes and Characters are discarded from play.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Mr. Burns</type>
+      </prop>
+      <set rarity="common" num="152" picurl="http://karcianki.pl/pics/games/smp/smp/meltdown.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Fat Tony D'Amico</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Fat - Uptight - Tough - Rascal</type>
+      </prop>
+      <set rarity="rare" num="27" picurl="http://karcianki.pl/pics/games/smp/smp/fattonydamico.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Blinky</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Oddball - Celebrity - Animal - Mutant</type>
+      </prop>
+      <set rarity="common" num="10" picurl="http://karcianki.pl/pics/games/smp/smp/blinky.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Lurleen Lumpkin</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Uptight - Upstanging - Celebrity - Flirt</type>
+      </prop>
+      <set rarity="rare" num="44" picurl="http://karcianki.pl/pics/games/smp/smp/lurleenlumpkin.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Janey Powell</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Tough - Kid</type>
+      </prop>
+      <set rarity="rare" num="36" picurl="http://karcianki.pl/pics/games/smp/smp/janeypowell.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Wipe Out</name>
+      <text>Use during your turn.
+Choose a trait. All Characters with that trait are discarded from play.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Krusty</type>
+      </prop>
+      <set rarity="common" num="133" picurl="http://karcianki.pl/pics/games/smp/smp/wipeout.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Christmas</name>
+      <text>Rascal Characters don't match this Scene.
+All other Characters match it.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene</type>
+        <manacost>9</manacost>
+        <loyalty>4</loyalty>
+      </prop>
+      <set rarity="rare" num="85" picurl="http://karcianki.pl/pics/games/smp/smp/christmas.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Knocked down a Peg</name>
+      <text>Use any time.
+Each player with more points than you loses a point.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Mr. Burns</type>
+      </prop>
+      <set rarity="common" num="150" picurl="http://karcianki.pl/pics/games/smp/smp/knockeddownapeg.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Snowball II</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Feline - Family - Animal</type>
+      </prop>
+      <set rarity="common" num="74" picurl="http://karcianki.pl/pics/games/smp/smp/snowballii.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Off Limits</name>
+      <text>Use at the start of another player's turn.
+Choose a Scene. Characters can't be played on that Scene this turn.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Homer</type>
+      </prop>
+      <set rarity="common" num="128" picurl="http://karcianki.pl/pics/games/smp/smp/offlimits.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Bumblebee Man</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Fat - Oddball - Celebrity</type>
+      </prop>
+      <set rarity="common" num="13" picurl="http://karcianki.pl/pics/games/smp/smp/bumblebeeman.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Moe Szyslak</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Bitter - Uptight - Idiot - Barkeep</type>
+      </prop>
+      <set rarity="common" num="50" picurl="http://karcianki.pl/pics/games/smp/smp/moeszyslak.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Herb Powell</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Brainy - Upstanding - Entrepreneur - Family</type>
+      </prop>
+      <set rarity="common" num="34" picurl="http://karcianki.pl/pics/games/smp/smp/herbpowell.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Hans Moleman</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Old - Old - Old - Oddball</type>
+      </prop>
+      <set rarity="common" num="33" picurl="http://karcianki.pl/pics/games/smp/smp/hansmoleman.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Lenny</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Idiot - Lackey</type>
+      </prop>
+      <set rarity="common" num="42" picurl="http://karcianki.pl/pics/games/smp/smp/lenny.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Krusty Burger</name>
+      <text>If this Scene is completed or trashed, the player who played it draws 3 cards.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Fat - Family - Idiot</type>
+        <manacost>5</manacost>
+        <loyalty>5</loyalty>
+      </prop>
+      <set rarity="common" num="90" picurl="http://karcianki.pl/pics/games/smp/smp/krustyburger.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cletus Del Roy</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Lazy - Slack-Jawed - Yokel - Idiot</type>
+      </prop>
+      <set rarity="common" num="17" picurl="http://karcianki.pl/pics/games/smp/smp/cletusdelroy.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Losers Pay</name>
+      <text>Use at the start of another player's turn.
+ Choose a trait. Characters with that trait can't be played this turn.</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Bart</type>
+      </prop>
+      <set rarity="common" num="114" picurl="http://karcianki.pl/pics/games/smp/smp/loserspay.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Krustylu Studios</name>
+      <text>If this Scene is completed using Krusty, the player who played this Scene gets 1 extra point.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Idiot - Celebrity</type>
+        <manacost>5</manacost>
+        <loyalty>4</loyalty>
+      </prop>
+      <set rarity="common" num="91" picurl="http://karcianki.pl/pics/games/smp/smp/krustylustudios.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Brad Goodman</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Upstanding - Brainy - Celebrity</type>
+      </prop>
+      <set rarity="common" num="12" picurl="http://karcianki.pl/pics/games/smp/smp/bradgoodman.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Slimy Tactics</name>
+      <text>Use when another player tries to complete a Scene.
+That Scene can't be completed this turn (and the Characters on it stay there).</text>
+      <prop>
+        <maintype>Action</maintype>
+        <type>Action - Bart</type>
+      </prop>
+      <set rarity="common" num="119" picurl="http://karcianki.pl/pics/games/smp/smp/slimytactics.jpg">The Simpsons</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Kang Kodos</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Alien - Oddball - Duo</type>
+      </prop>
+      <set rarity="rare" num="39" picurl="http://karcianki.pl/pics/games/smp/smp/kangkodos.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Burns Manor</name>
+      <text>If this Scene is completed using Mr. Burns, the player who played this Scene gets 1 extra point.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Old - Rascal</type>
+        <manacost>5</manacost>
+        <loyalty>4</loyalty>
+      </prop>
+      <set rarity="common" num="84" picurl="http://karcianki.pl/pics/games/smp/smp/burnsmanor.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Springfield Church</name>
+      <text>Other scenes can't be trashed.</text>
+      <prop>
+        <maintype>Scene</maintype>
+        <type>Scene - Uptight - Upstanding - Family</type>
+        <manacost>4</manacost>
+        <loyalty>6</loyalty>
+      </prop>
+      <set rarity="common" num="102" picurl="http://karcianki.pl/pics/games/smp/smp/springfieldchurch.jpg">The Simpsons</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Santa's Little Helper</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Devoted - Family - Idiot - Animal</type>
+      </prop>
+      <set rarity="common" num="67" picurl="http://karcianki.pl/pics/games/smp/smp/santaslittlehelper.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Superintendent Chalmers</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Uptight - Old - Faculty - Tough</type>
+      </prop>
+      <set rarity="common" num="77" picurl="http://karcianki.pl/pics/games/smp/smp/superintendentchalmers.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Marge Simpson (3)</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Upstanding - Uptight - Family - Mom</type>
+      </prop>
+      <set rarity="common" num="46c" picurl="http://karcianki.pl/pics/games/smp/smp/margesimpson3.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Waylon Smithers</name>
+      <prop>
+        <maintype>Character</maintype>
+        <type>Character - Upstanding - Uptight - Devoted - Lackey</type>
+      </prop>
+      <set rarity="common" num="72" picurl="http://karcianki.pl/pics/games/smp/smp/waylonsmithers.jpg">The Simpsons</set>
+      <tablerow>0</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>
