@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Predator: Prey</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Anna (PRD-039)"/>
+        <card number="3" name="Hawkins (PRD-046)"/>
+        <card number="2" name="Billy (PRD-040)"/>
+        <card number="2" name="Edwin (PRD-044)"/>
+        <card number="3" name="Poncho (PRD-051)"/>
+        <card number="2" name="Blain (PRD-041)"/>
+        <card number="3" name="Lambert (PRD-049)"/>
+        <card number="2" name="Keyes (PRD-048)"/>
+        <card number="2" name="Mac (PRD-050)"/>
+        <card number="2" name="Dillon (PRD-042)"/>
+        <card number="2" name="Isabelle (PRD-047)"/>
+        <card number="2" name="Royce (PRD-052)"/>
+        <card number="2" name="Harrigan (PRD-045)"/>
+        <card number="3" name="Dutch (PRD-043)"/>
+        <card number="3" name="M134 Minigun (PRD-056)"/>
+        <card number="3" name="Death Trap (PRD-053)"/>
+        <card number="3" name="He Couldn't See Me (PRD-054)"/>
+        <card number="3" name="S*** Happens (PRD-055)"/>
+        <card number="4" name="Headquarters (PRD-057)"/>
+        <card number="3" name="Earth (PRD-064)"/>
+        <card number="3" name="The Game Preserve (PRD-062)"/>
+        <card number="3" name="Val Verdan Jungle (PRD-063)"/>
+        <card number="3" name="Los Angeles (PRD-059)"/>
+    </zone>
+</cockatrice_deck>

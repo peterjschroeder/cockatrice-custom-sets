@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Marvel: Civil War - Iron Man</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Iron Man (CIV-003)"/>
+        <card number="1" name="Iron Man (CIV-004)"/>
+        <card number="2" name="Misty Knight (CIV-009)"/>
+        <card number="3" name="Superhuman Restraint Unit (CIV-010)"/>
+        <card number="3" name="Black Cat (CIV-011)"/>
+        <card number="2" name="Bishop (CIV-013)"/>
+        <card number="2" name="Wasp (CIV-012)"/>
+        <card number="2" name="Black Widow (CIV-014)"/>
+        <card number="2" name="Maria Hill (CIV-015)"/>
+        <card number="2" name="Nighthawk (CIV-016)"/>
+        <card number="2" name="Doc Samson (CIV-017)"/>
+        <card number="2" name="Spider-Man (CIV-018)"/>
+        <card number="2" name="She-Hulk (CIV-019)"/>
+        <card number="2" name="Wonder Man (CIV-020)"/>
+        <card number="3" name="Ms. Marvel (CIV-022)"/>
+        <card number="2" name="Sentry (CIV-023)"/>
+        <card number="3" name="50-State Initiative (CIV-024)"/>
+        <card number="3" name="Hunt Them Down (CIV-025)"/>
+        <card number="3" name="We're Super Heroes (CIV-026)"/>
+        <card number="4" name="Prison 42 (CIV-027)"/>
+        <card number="4" name="Academy (CIV-055)"/>
+        <card number="4" name="Fortress (CIV-056)"/>
+        <card number="4" name="Laboratory (CIV-057)"/>
+        <card number="4" name="Training Ground (CIV-058)"/>
+    </zone>
+</cockatrice_deck>

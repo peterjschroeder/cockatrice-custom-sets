@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Predator: Predators</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Falcon Drone (PRD-009)"/>
+        <card number="3" name="Primeval Hunter (PRD-017)"/>
+        <card number="2" name="Yautja Prisoner (PRD-019)"/>
+        <card number="3" name="Tracker (PRD-018)"/>
+        <card number="3" name="Falconer (PRD-010)"/>
+        <card number="2" name="Greyback (PRD-012)"/>
+        <card number="3" name="Hellhound (PRD-014)"/>
+        <card number="2" name="Gunslinger (PRD-013)"/>
+        <card number="2" name="Mr. Black (PRD-016)"/>
+        <card number="3" name="Ghost (PRD-011)"/>
+        <card number="3" name="Jungle Hunter (PRD-015)"/>
+        <card number="3" name="Combistick (PRD-025)"/>
+        <card number="2" name="Smart Disc (PRD-029)"/>
+        <card number="2" name="Active Camouflage (PRD-024)"/>
+        <card number="2" name="Net Launcher (PRD-027)"/>
+        <card number="1" name="Self-Destruct Device (PRD-028)"/>
+        <card number="1" name="Medikit (PRD-026)"/>
+        <card number="1" name="Anytime (PRD-020)"/>
+        <card number="1" name="Over Here (PRD-021)"/>
+        <card number="1" name="Turn Around (PRD-022)"/>
+        <card number="1" name="Vocal Mimicry (PRD-023)"/>
+        <card number="4" name="Trophy Area (PRD-030)"/>
+        <card number="3" name="Space (PRD-065)"/>
+        <card number="3" name="The Game Preserve (PRD-062)"/>
+        <card number="3" name="Val Verdan Jungle (PRD-063)"/>
+        <card number="3" name="Predator Ship (PRD-060)"/>
+    </zone>
+</cockatrice_deck>

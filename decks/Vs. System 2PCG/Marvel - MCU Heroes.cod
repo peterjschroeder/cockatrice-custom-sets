@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Marvel: MCU Heroes</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Baby Groot (MCU1-011)"/>
+        <card number="2" name="Heimdall (MCU1-012)"/>
+        <card number="2" name="Black Widow (MCU1-013)"/>
+        <card number="2" name="Captain America (MCU1-015)"/>
+        <card number="2" name="Rocket (MCU1-014)"/>
+        <card number="2" name="Falcon (MCU1-016)"/>
+        <card number="2" name="Nick Fury (MCU1-017)"/>
+        <card number="2" name="Iron Man (MCU1-018)"/>
+        <card number="2" name="Winter Soldier (MCU1-058)"/>
+        <card number="2" name="Star-Lord (MCU1-019)"/>
+        <card number="2" name="Gamora (MCU1-020)"/>
+        <card number="2" name="War Machine (MCU1-021)"/>
+        <card number="2" name="Drax (MCU1-022)"/>
+        <card number="2" name="Thor (MCU1-023)"/>
+        <card number="2" name="Hulk (MCU1-024)"/>
+        <card number="4" name="No, You Move. (MCU1-030)"/>
+        <card number="2" name="Sokovia Accords (MCU1-029)"/>
+        <card number="2" name="He's a Friend From Work! (MCU1-062)"/>
+        <card number="4" name="Avengers Tower (MCU1-031)"/>
+        <card number="4" name="Academy (MCU1-064)"/>
+        <card number="4" name="Fortress (MCU1-065)"/>
+        <card number="4" name="Laboratory (MCU1-063)"/>
+        <card number="4" name="Training Ground (MCU1-066)"/>
+    </zone>
+</cockatrice_deck>

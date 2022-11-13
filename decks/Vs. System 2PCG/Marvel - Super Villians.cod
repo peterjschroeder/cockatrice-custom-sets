@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Marvel: Super Villians</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Mystique (MNB-088)"/>
+        <card number="2" name="Ronan (MNB-087)"/>
+        <card number="2" name="Doctor Octopus (MNB-089)"/>
+        <card number="2" name="Green Goblin (MNB-090)"/>
+        <card number="2" name="Red Skull (MNB-091)"/>
+        <card number="2" name="Sabretooth (MNB-092)"/>
+        <card number="3" name="Ultron (MNB-093)"/>
+        <card number="2" name="Abomination (MNB-094)"/>
+        <card number="2" name="Mandarin (MNB-095)"/>
+        <card number="2" name="Juggernaut (MNB-096)"/>
+        <card number="2" name="Magneto (MNB-097)"/>
+        <card number="2" name="Dormammu (MNB-099)"/>
+        <card number="2" name="Loki (MNB-098)"/>
+        <card number="2" name="Thanos (MNB-100)"/>
+        <card number="4" name="Metal and Fire (MNB-102)"/>
+        <card number="4" name="Trickster God (MNB-103)"/>
+        <card number="3" name="Extinguish (MNB-101)"/>
+        <card number="1" name="Open Fire (MNB-105)"/>
+        <card number="1" name="Best Offense Is A Good Defense (MNB-106)"/>
+        <card number="1" name="Savage Surprise (MNB-107)"/>
+        <card number="1" name="Find Cover (MNB-108)"/>
+        <card number="4" name="The Vault (MNB-104)"/>
+        <card number="3" name="Academy (MNB-111)"/>
+        <card number="3" name="Fortress (MNB-112)"/>
+        <card number="3" name="Laboratory (MNB-110)"/>
+        <card number="3" name="Training Ground (MNB-109)"/>
+    </zone>
+</cockatrice_deck>

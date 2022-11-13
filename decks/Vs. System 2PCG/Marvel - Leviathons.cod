@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Marvel: Leviathons</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="8" name="Leviathon Servitor (MMU-072)"/>
+        <card number="1" name="Leviathon Beast (MMU-089)"/>
+        <card number="1" name="Leviathon Brute (MMU-091)"/>
+        <card number="1" name="Leviathon Crusher (MMU-077)"/>
+        <card number="1" name="Leviathon Demolisher (MMU-073)"/>
+        <card number="1" name="Leviathon Hydra (MMU-081)"/>
+        <card number="1" name="Leviathon Mother (MMU-070)"/>
+        <card number="1" name="Leviathon Mother (MMU-071)"/>
+        <card number="1" name="Leviathon Shambler (MMU-084)"/>
+        <card number="1" name="Leviathon Vanguard (MMU-085)"/>
+        <card number="1" name="Blazing Leviathon (MMU-087)"/>
+        <card number="1" name="Charging Leviathon (MMU-083)"/>
+        <card number="1" name="Death's Head Leviathon (MMU-088)"/>
+        <card number="1" name="Dual Maw Leviathon (MMU-090)"/>
+        <card number="1" name="Eggplant Leviathon (MMU-079)"/>
+        <card number="1" name="Fanged Leviathon (MMU-076)"/>
+        <card number="1" name="Furnace Chest Leviathon (MMU-080)"/>
+        <card number="1" name="Plasma Throat Leviathon (MMU-074)"/>
+        <card number="1" name="Rampaging Leviathon (MMU-092)"/>
+        <card number="1" name="Savage Leviathon (MMU-082)"/>
+        <card number="1" name="Serpentine Leviathon (MMU-075)"/>
+        <card number="1" name="Spiked Leviathon (MMU-086)"/>
+        <card number="1" name="Turtle Shell Leviathon (MMU-078)"/>
+        <card number="4" name="The Desecrated Nest (MMU-096)"/>
+        <card number="4" name="Training Ground (MMU-130)"/>
+        <card number="4" name="Academy (MMU-133)"/>
+        <card number="4" name="Fortress (MMU-132)"/>
+        <card number="4" name="Space (MMU-135)"/>
+        <card number="4" name="Property Damage (MMU-093)"/>
+        <card number="4" name="The Leviathon Tide (MMU-094)"/>
+        <card number="4" name="The Queen Demands Tribute! (MMU-095)"/>
+    </zone>
+</cockatrice_deck>

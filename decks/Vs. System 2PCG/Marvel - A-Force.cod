@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Marvel: A-Force</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Sister Grimm (AFF-010)"/>
+        <card number="2" name="Wasp (AFF-009)"/>
+        <card number="2" name="Meggan (AFF-013)"/>
+        <card number="2" name="Pixie (AFF-011)"/>
+        <card number="2" name="Spider-Woman (AFF-012)"/>
+        <card number="3" name="Medusa (AFF-014)"/>
+        <card number="2" name="Singularity (AFF-015)"/>
+        <card number="2" name="Dazzler (AFF-016)"/>
+        <card number="3" name="She-Hulk (AFF-017)"/>
+        <card number="2" name="Miss America (AFF-019)"/>
+        <card number="2" name="Spectrum (AFF-018)"/>
+        <card number="2" name="Loki (AFF-020)"/>
+        <card number="2" name="Rogue (AFF-021)"/>
+        <card number="2" name="Phoenix (AFF-022)"/>
+        <card number="4" name="Heroines of Arcadia (AFF-023)"/>
+        <card number="4" name="You Won't Like Her When She's Angry (AFF-024)"/>
+        <card number="4" name="Build a Better World (AFF-025)"/>
+        <card number="2" name="Main Strength (AFF-053)"/>
+        <card number="4" name="Arcadia (AFF-026)"/>
+        <card number="3" name="Academy (AFF-055)"/>
+        <card number="3" name="Fortress (AFF-056)"/>
+        <card number="3" name="Laboratory (AFF-057)"/>
+        <card number="3" name="Training Ground (AFF-058)"/>
+    </zone>
+</cockatrice_deck>

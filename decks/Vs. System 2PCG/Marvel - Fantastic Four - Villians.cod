@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Marvel: Fantastic Four - Villians</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="The Wizard (FAN-037)"/>
+        <card number="1" name="The Wizard (FAN-038)"/>
+        <card number="4" name="Mole Man (FAN-039)"/>
+        <card number="3" name="Mad Thinker (FAN-040)"/>
+        <card number="3" name="Puppet Master (FAN-041)"/>
+        <card number="3" name="Awesome Andriod (FAN-042)"/>
+        <card number="3" name="Diablo (FAN-043)"/>
+        <card number="3" name="Blastaar (FAN-044)"/>
+        <card number="3" name="Thundra (FAN-046)"/>
+        <card number="4" name="Kristoff Vernard (FAN-047)"/>
+        <card number="4" name="The Wizard (FAN-048)"/>
+        <card number="3" name="Molecule Man (FAN-050)"/>
+        <card number="3" name="Doctor Doom (FAN-051)"/>
+        <card number="2" name="Super-Skrull (FAN-052)"/>
+        <card number="2" name="Mephisto (FAN-053)"/>
+        <card number="4" name="Backup Plan (FAN-054)"/>
+        <card number="4" name="Latveria (FAN-057)"/>
+        <card number="3" name="Academy (FAN-058)"/>
+        <card number="3" name="Fortress (FAN-059)"/>
+        <card number="3" name="Laboratory (FAN-060)"/>
+        <card number="3" name="Training Ground (FAN-061)"/>
+        <card number="4" name="Moloids (FAN-056)"/>
+        <card number="1" name="Automaton (FAN-025)"/>
+        <card number="1" name="Gadget (FAN-023)"/>
+        <card number="1" name="Machine (FAN-024)"/>
+        <card number="1" name="Weapon (FAN-026)"/>
+        <card number="4" name="Doombot (FAN-045)"/>
+    </zone>
+</cockatrice_deck>

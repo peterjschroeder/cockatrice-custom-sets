@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Marvel: The Underground</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Carnage (DEF-035)"/>
+        <card number="2" name="Helmut Zemo (DEF-036)"/>
+        <card number="2" name="Electro (DEF-037)"/>
+        <card number="4" name="Mary Walker (DEF-038)"/>
+        <card number="2" name="Rhino (DEF-039)"/>
+        <card number="3" name="Hellstrom (DEF-040)"/>
+        <card number="2" name="Winter Soldier (DEF-041)"/>
+        <card number="2" name="M.O.D.O.K. (DEF-042)"/>
+        <card number="2" name="Venom (DEF-043)"/>
+        <card number="2" name="Bullseye (DEF-044)"/>
+        <card number="2" name="Purple Man (DEF-045)"/>
+        <card number="2" name="Baron Mordo (DEF-046)"/>
+        <card number="2" name="Kingpin (DEF-047)"/>
+        <card number="2" name="Blackheart (DEF-048)"/>
+        <card number="4" name="Fair and Balanced (DEF-049)"/>
+        <card number="3" name="Pain and Suffering (DEF-050)"/>
+        <card number="2" name="Play Dead (DEF-051)"/>
+        <card number="2" name="Loyal Soldiers (DEF-053)"/>
+        <card number="2" name="Shock to the System (DEF-054)"/>
+        <card number="4" name="Fisk Tower (DEF-052)"/>
+        <card number="3" name="Academy (DEF-055)"/>
+        <card number="3" name="Fortress (DEF-056)"/>
+        <card number="3" name="Laboratory (DEF-057)"/>
+        <card number="3" name="Training Ground (DEF-058)"/>
+    </zone>
+</cockatrice_deck>

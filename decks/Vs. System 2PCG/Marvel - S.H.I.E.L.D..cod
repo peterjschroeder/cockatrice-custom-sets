@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Marvel: S.H.I.E.L.D.</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="S.H.I.E.L.D. Agent (SVH-037)"/>
+        <card number="2" name="Slingshot (SVH-038)"/>
+        <card number="2" name="FitzSimmons (SVH-039)"/>
+        <card number="2" name="Sharon Carter (SVH-040)"/>
+        <card number="2" name="Maria Hill (SVH-041)"/>
+        <card number="3" name="Phil Coulson (SVH-042)"/>
+        <card number="2" name="*Captain America* (SVH-043)"/>
+        <card number="2" name="Grant Ward (SVH-050)"/>
+        <card number="3" name="Dum Dum Dugan (SVH-044)"/>
+        <card number="2" name="Melinda May (SVH-045)"/>
+        <card number="2" name="Hawkeye (SVH-046)"/>
+        <card number="2" name="Man-Thing (SVH-047)"/>
+        <card number="2" name="Iron Man (SVH-048)"/>
+        <card number="2" name="Nick Fury (SVH-049)"/>
+        <card number="2" name="Plasma Beam Handgun (SVH-051)"/>
+        <card number="2" name="Quinjet (SVH-052)"/>
+        <card number="1" name="Book of the Vishanti (SVH-058)"/>
+        <card number="1" name="The Nullifier (SVH-057)"/>
+        <card number="4" name="Strategic Homeland Intervention (SVH-053)"/>
+        <card number="2" name="Unwavering Loyalty (SVH-059)"/>
+        <card number="4" name="Helicarrier (SVH-054)"/>
+        <card number="3" name="Academy (SVH-060)"/>
+        <card number="3" name="Fortress (SVH-061)"/>
+        <card number="3" name="Laboratory (SVH-062)"/>
+        <card number="3" name="Training Ground (SVH-063)"/>
+    </zone>
+</cockatrice_deck>

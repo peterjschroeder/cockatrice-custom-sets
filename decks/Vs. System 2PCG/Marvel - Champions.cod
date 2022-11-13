@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Marvel: Champions</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="*Cyclops* (MMU-011)"/>
+        <card number="2" name="Dinah Soar (MMU-012)"/>
+        <card number="2" name="Big Bertha (MMU-014)"/>
+        <card number="2" name="Darkstar (MMU-015)"/>
+        <card number="2" name="Black Widow (MMU-017)"/>
+        <card number="2" name="Doorman (MMU-016)"/>
+        <card number="2" name="*Ms. Marvel* (MMU-013)"/>
+        <card number="2" name="Flatman (MMU-018)"/>
+        <card number="2" name="Iceman (MMU-019)"/>
+        <card number="2" name="*Spider-Man* (MMU-020)"/>
+        <card number="2" name="Angel (MMU-021)"/>
+        <card number="2" name="Viv Vision (MMU-022)"/>
+        <card number="1" name="Gwenpool (MMU-023)"/>
+        <card number="2" name="Mister Immortal (MMU-027)"/>
+        <card number="2" name="Nova (MMU-028)"/>
+        <card number="2" name="*Hulk* (MMU-029)"/>
+        <card number="2" name="Ghost Rider (MMU-030)"/>
+        <card number="2" name="Hercules (MMU-031)"/>
+        <card number="2" name="Baby Avengers (MMU-032)"/>
+        <card number="2" name="Tough Kids (MMU-034)"/>
+        <card number="2" name="Fall Back (MMU-033)"/>
+        <card number="2" name="Change the World (MMU-035)"/>
+        <card number="4" name="Jersey City (MMU-036)"/>
+        <card number="2" name="Training Ground (MMU-130)"/>
+        <card number="1" name="Gwenpool (MMU-024)"/>
+        <card number="4" name="Academy (MMU-133)"/>
+        <card number="3" name="Fortress (MMU-132)"/>
+        <card number="3" name="Laboratory (MMU-131)"/>
+    </zone>
+</cockatrice_deck>

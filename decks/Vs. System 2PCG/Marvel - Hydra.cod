@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Marvel: Hydra</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Arnim Zola (SVH-009)"/>
+        <card number="3" name="Hydra Soldier (SVH-010)"/>
+        <card number="2" name="Doctor Faustus (SVH-011)"/>
+        <card number="2" name="Fixer (SVH-012)"/>
+        <card number="2" name="*Gorgon* (SVH-013)"/>
+        <card number="2" name="Baron von Strucker (SVH-014)"/>
+        <card number="2" name="Grant Ward (SVH-050)"/>
+        <card number="2" name="Hive (SVH-016)"/>
+        <card number="2" name="Viper (SVH-015)"/>
+        <card number="2" name="Magneto (SVH-017)"/>
+        <card number="2" name="Kraken (SVH-018)"/>
+        <card number="2" name="Madame Hydra (SVH-019)"/>
+        <card number="2" name="Red Skull (SVH-020)"/>
+        <card number="2" name="Supreme Leader (SVH-021)"/>
+        <card number="2" name="Hydra Assault Rifle (SVH-022)"/>
+        <card number="1" name="Cosmic Cube (SVH-023)"/>
+        <card number="1" name="Cosmic Cube (SVH-024)"/>
+        <card number="1" name="Cosmic Cube (SVH-025)"/>
+        <card number="1" name="Cosmic Cube (SVH-026)"/>
+        <card number="1" name="Darkhold (SVH-055)"/>
+        <card number="1" name="Serpent Crown (SVH-056)"/>
+        <card number="4" name="Strength Above All Else (SVH-027)"/>
+        <card number="2" name="Unwavering Loyalty (SVH-059)"/>
+        <card number="4" name="Gehenna (SVH-028)"/>
+        <card number="3" name="Academy (SVH-060)"/>
+        <card number="3" name="Fortress (SVH-061)"/>
+        <card number="3" name="Laboratory (SVH-062)"/>
+        <card number="3" name="Training Ground (SVH-063)"/>
+    </zone>
+</cockatrice_deck>

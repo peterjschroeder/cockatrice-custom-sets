@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Marvel: X-Men</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Iceman (MNB-035)"/>
+        <card number="2" name="Magik (MNB-036)"/>
+        <card number="2" name="Cyclops (MNB-038)"/>
+        <card number="2" name="Hope Summers (MNB-037)"/>
+        <card number="2" name="Namor (MNB-040)"/>
+        <card number="2" name="Deadpool (MNB-039)"/>
+        <card number="3" name="Gambit (MNB-041)"/>
+        <card number="2" name="Beast (MNB-043)"/>
+        <card number="2" name="Storm (MNB-042)"/>
+        <card number="2" name="Cable (MNB-045)"/>
+        <card number="2" name="Wolverine (MNB-044)"/>
+        <card number="2" name="Colossus (MNB-046)"/>
+        <card number="2" name="Emma Frost (MNB-047)"/>
+        <card number="2" name="Professor X (MNB-048)"/>
+        <card number="4" name="Uncanny Defense (MNB-051)"/>
+        <card number="4" name="Squad Tactics (MNB-050)"/>
+        <card number="3" name="X-Factor (MNB-049)"/>
+        <card number="1" name="Open Fire (MNB-105)"/>
+        <card number="1" name="Best Offense Is A Good Defense (MNB-106)"/>
+        <card number="1" name="Savage Surprise (MNB-107)"/>
+        <card number="1" name="Find Cover (MNB-108)"/>
+        <card number="4" name="School for Gifted Youngsters (MNB-052)"/>
+        <card number="3" name="Academy (MNB-111)"/>
+        <card number="3" name="Fortress (MNB-112)"/>
+        <card number="3" name="Laboratory (MNB-110)"/>
+        <card number="3" name="Training Ground (MNB-109)"/>
+    </zone>
+</cockatrice_deck>

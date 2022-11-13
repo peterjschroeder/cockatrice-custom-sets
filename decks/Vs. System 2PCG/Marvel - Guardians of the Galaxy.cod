@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Marvel: Guardians of the Galaxy</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Yondu (MNB-062)"/>
+        <card number="2" name="Cosmo (MNB-061)"/>
+        <card number="2" name="Agent Venom (MNB-065)"/>
+        <card number="2" name="Major Victory (MNB-063)"/>
+        <card number="2" name="Mantis (MNB-064)"/>
+        <card number="3" name="Gamora (MNB-067)"/>
+        <card number="2" name="Rocket (MNB-066)"/>
+        <card number="2" name="Nova (MNB-068)"/>
+        <card number="2" name="Star-Lord (MNB-069)"/>
+        <card number="2" name="Groot (MNB-070)"/>
+        <card number="2" name="Moondragon (MNB-071)"/>
+        <card number="2" name="Drax (MNB-073)"/>
+        <card number="2" name="Quasar (MNB-072)"/>
+        <card number="2" name="Adam Warlock (MNB-074)"/>
+        <card number="4" name="Even The Odds (MNB-076)"/>
+        <card number="4" name="Vigilante Justice (MNB-075)"/>
+        <card number="3" name="Give 'Em a Lift (MNB-077)"/>
+        <card number="1" name="Open Fire (MNB-105)"/>
+        <card number="1" name="Best Offense Is A Good Defense (MNB-106)"/>
+        <card number="1" name="Find Cover (MNB-108)"/>
+        <card number="1" name="Savage Surprise (MNB-107)"/>
+        <card number="4" name="Knowhere (MNB-078)"/>
+        <card number="3" name="Academy (MNB-111)"/>
+        <card number="3" name="Fortress (MNB-112)"/>
+        <card number="3" name="Laboratory (MNB-110)"/>
+        <card number="3" name="Training Ground (MNB-109)"/>
+    </zone>
+</cockatrice_deck>

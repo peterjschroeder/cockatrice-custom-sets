@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Marvel: Avengers</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Ant Man (MNB-009)"/>
+        <card number="2" name="Black Widow (MNB-010)"/>
+        <card number="2" name="Black Panther (MNB-011)"/>
+        <card number="2" name="Daredevil (MNB-012)"/>
+        <card number="2" name="Hawkeye (MNB-013)"/>
+        <card number="2" name="Captain America (MNB-015)"/>
+        <card number="3" name="Nick Fury (MNB-014)"/>
+        <card number="2" name="Ms. Marvel (MNB-017)"/>
+        <card number="2" name="Spider-Man (MNB-016)"/>
+        <card number="2" name="Dr. Strange (MNB-019)"/>
+        <card number="2" name="Luke Cage (MNB-018)"/>
+        <card number="2" name="Iron Man (MNB-020)"/>
+        <card number="2" name="Thor (MNB-021)"/>
+        <card number="2" name="Hulk (MNB-022)"/>
+        <card number="4" name="Earth's Mightiest Heroes (MNB-023)"/>
+        <card number="4" name="Think Again (MNB-024)"/>
+        <card number="3" name="Stark Tech (MNB-025)"/>
+        <card number="1" name="Open Fire (MNB-105)"/>
+        <card number="1" name="Best Offense Is A Good Defense (MNB-106)"/>
+        <card number="1" name="Savage Surprise (MNB-107)"/>
+        <card number="1" name="Find Cover (MNB-108)"/>
+        <card number="4" name="Avengers Mansion (MNB-026)"/>
+        <card number="3" name="Academy (MNB-111)"/>
+        <card number="3" name="Fortress (MNB-112)"/>
+        <card number="3" name="Laboratory (MNB-110)"/>
+        <card number="3" name="Training Ground (MNB-109)"/>
+    </zone>
+</cockatrice_deck>

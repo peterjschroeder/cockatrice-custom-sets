@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Marvel: Civil War - Captain America</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Captain America (CIV-030)"/>
+        <card number="1" name="Captain America (CIV-031)"/>
+        <card number="2" name="Falcon (CIV-036)"/>
+        <card number="3" name="Prowler (CIV-037)"/>
+        <card number="2" name="Dagger (CIV-038)"/>
+        <card number="3" name="Storm (CIV-039)"/>
+        <card number="2" name="Cloak (CIV-040)"/>
+        <card number="2" name="Spider-Man (CIV-041)"/>
+        <card number="3" name="Goliath (CIV-042)"/>
+        <card number="1" name="Ultragirl (CIV-043)"/>
+        <card number="2" name="Black Panther (CIV-044)"/>
+        <card number="2" name="Luke Cage (CIV-045)"/>
+        <card number="2" name="Cable (CIV-046)"/>
+        <card number="2" name="Hercules (CIV-047)"/>
+        <card number="3" name="Spider-Woman (CIV-049)"/>
+        <card number="2" name="Namor (CIV-050)"/>
+        <card number="3" name="Go Underground (CIV-051)"/>
+        <card number="3" name="On the Run (CIV-052)"/>
+        <card number="3" name="Secret Avengers (CIV-053)"/>
+        <card number="4" name="SHIELD Safehouse (CIV-054)"/>
+        <card number="4" name="Academy (CIV-055)"/>
+        <card number="4" name="Fortress (CIV-056)"/>
+        <card number="4" name="Laboratory (CIV-057)"/>
+        <card number="4" name="Training Ground (CIV-058)"/>
+    </zone>
+</cockatrice_deck>

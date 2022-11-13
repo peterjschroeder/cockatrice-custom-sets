@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Marvel: Monsters Unleashed</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Tim Boo Ba (MMU-107)"/>
+        <card number="2" name="Creature from the Black Bog (MMU-108)"/>
+        <card number="2" name="Googam (MMU-109)"/>
+        <card number="2" name="Hi-Vo (MMU-110)"/>
+        <card number="2" name="Devil Dinosaur (MMU-113)"/>
+        <card number="2" name="Elsa Bloodstone (MMU-111)"/>
+        <card number="2" name="Scragg (MMU-112)"/>
+        <card number="2" name="Aegis (MMU-114)"/>
+        <card number="2" name="Kid Kaiju (MMU-115)"/>
+        <card number="2" name="Pildor (MMU-116)"/>
+        <card number="2" name="Goom (MMU-117)"/>
+        <card number="2" name="Mekara (MMU-118)"/>
+        <card number="2" name="Monstro (MMU-119)"/>
+        <card number="2" name="Slizzik (MMU-120)"/>
+        <card number="2" name="Thing That Crawls By Night (MMU-121)"/>
+        <card number="2" name="Fireclaw (MMU-122)"/>
+        <card number="2" name="Fin Fang Foom (MMU-123)"/>
+        <card number="2" name="Zzutak (MMU-124)"/>
+        <card number="1" name="Moon Girl (MMU-054)"/>
+        <card number="2" name="Krakkle-Thoom! (MMU-125)"/>
+        <card number="2" name="Monsters Unleashed! (MMU-126)"/>
+        <card number="2" name="The Fight is Finished (MMU-127)"/>
+        <card number="2" name="Flatten (MMU-128)"/>
+        <card number="4" name="Mu (MMU-129)"/>
+        <card number="2" name="Academy (MMU-133)"/>
+        <card number="3" name="Fortress (MMU-132)"/>
+        <card number="2" name="Laboratory (MMU-131)"/>
+        <card number="4" name="Earth (MMU-134)"/>
+    </zone>
+</cockatrice_deck>

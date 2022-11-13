@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Marvel: Femme Fatales</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Black Cat (AFF-035)"/>
+        <card number="4" name="Madame Masque (AFF-036)"/>
+        <card number="2" name="Moonstone (AFF-039)"/>
+        <card number="2" name="Sin (AFF-038)"/>
+        <card number="2" name="Titania (AFF-037)"/>
+        <card number="2" name="Nebula (AFF-041)"/>
+        <card number="2" name="Silver Sable (AFF-040)"/>
+        <card number="2" name="Goblin Queen (AFF-042)"/>
+        <card number="2" name="Spiral (AFF-043)"/>
+        <card number="2" name="Satana (AFF-045)"/>
+        <card number="2" name="Viper (AFF-044)"/>
+        <card number="2" name="Lady Deathstrike (AFF-046)"/>
+        <card number="2" name="Morgan le Fay (AFF-047)"/>
+        <card number="2" name="Enchantress (AFF-048)"/>
+        <card number="4" name="Femme Fatality (AFF-049)"/>
+        <card number="4" name="Dramatic Entrance (AFF-050)"/>
+        <card number="4" name="Cat Fight (AFF-051)"/>
+        <card number="2" name="Main Strength (AFF-053)"/>
+        <card number="4" name="Madripoor (AFF-052)"/>
+        <card number="3" name="Academy (AFF-055)"/>
+        <card number="3" name="Fortress (AFF-056)"/>
+        <card number="3" name="Laboratory (AFF-057)"/>
+        <card number="3" name="Training Ground (AFF-058)"/>
+    </zone>
+</cockatrice_deck>
