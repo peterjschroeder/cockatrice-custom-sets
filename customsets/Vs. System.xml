@@ -172,17 +172,6 @@
   </sets>
   <cards>
     <card>
-      <name>Name</name>
-      <text>Text</text>
-      <prop>
-        <maintype>Card Type</maintype>
-        <type>Card Type - Team - Traits</type>
-        <manacost>Cost</manacost>
-      </prop>
-      <set rarity="rarity" num="ImageFile" picurl="http://theari.com/~jamie/vs/dload/ImageFile.jpg">Set</set>
-      <tablerow>1</tablerow>
-    </card>
-    <card>
       <name>Barbara Gordon - Oracle, Bird of Prey</name>
       <text>Activate -&gt; Draw a card.
 Activate -&gt; Barbara Gordon gets +3 ATK this attack.</text>
