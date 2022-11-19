@@ -450,7 +450,7 @@ Friendly Neighbor
       <tablerow>3</tablerow>
     </card>
     <card>
-      <name>Ant Man (MNB-009)</name>
+      <name>Ant-Man (MNB-009)</name>
       <text>Shrink
 When Ant-Man is attacked for the first time each
 turn, you may cancel the attack.</text>
@@ -2681,7 +2681,7 @@ character that costs 2 or less.</text>
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>Mary Walker (DEF-038)</name>
+      <name>Mary Walker (DEF-038A)</name>
       <text>Bloody Mary
 While Mary is attacking, a defender with a -1/-1
 counter can't strike back against her.
@@ -2694,7 +2694,55 @@ You may only have one of this card in your deck.</text>
         <loyalty>1</loyalty>
         <pt>4/2</pt>
       </prop>
-      <set picurl="http://vs.tcgbrowser.com/images/cards/big/DEF-038.jpg">DEF</set>
+      <set picurl="http://vs.tcgbrowser.com/images/cards/big/def-038a.jpg">DEF</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Mary Walker (DEF-038B)</name>
+      <text>Typhoid Mary
+When Mary attacks, put a -1/-1 counter on up to two enemy characters.
+One of a Kind
+You may only have one of this card in your deck.</text>
+      <prop>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Underworld</type>
+        <manacost>2</manacost>
+        <loyalty>1</loyalty>
+        <pt>3/3</pt>
+      </prop>
+      <set picurl="http://vs.tcgbrowser.com/images/cards/big/def-038b.jpg">DEF</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Mary Walker (DEF-038C)</name>
+      <text>Innocent Mary
+While Mary is defending, each attacker with a -1/-1 counter can't strike her.
+One of a Kind
+You may only have one of this card in your deck.</text>
+      <prop>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Underworld</type>
+        <manacost>2</manacost>
+        <loyalty>1</loyalty>
+        <pt>2/4</pt>
+      </prop>
+      <set picurl="http://vs.tcgbrowser.com/images/cards/big/def-038c.jpg">DEF</set>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Mary Walker (DEF-038D)</name>
+      <text>Composite Personality
+Mary has all the powers of cards named Mary Walker in your KO pile.
+One of a Kind
+You may only have one of this card in your deck.</text>
+      <prop>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Underworld</type>
+        <manacost>2</manacost>
+        <loyalty>1</loyalty>
+        <pt>4/4</pt>
+      </prop>
+      <set picurl="http://vs.tcgbrowser.com/images/cards/big/def-038d.jpg">DEF</set>
       <tablerow>3</tablerow>
     </card>
     <card>
@@ -11144,6 +11192,25 @@ Equipped character has +4/+4, and if it would wound a defending supporting chara
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/NEW-019.jpg">NEW</set>
       <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Forge (NEW-020)</name>
+      <text>[Skill] Spellcaster
+Magik can cast [Skill] Spells
+Stroke of Genius
+At the start of your turn, draw a card or Forge creates an Invention.
+[Note: Despite the card number, this card is in the "Into the Darkness" set, set code DAR.]</text>
+      <prop>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
+	<colors>S</colors>
+	<manacost>3</manacost>
+        <loyalty>1</loyalty>
+	<pt>2/5</pt>
+	<coloridentity>Range</coloridentity>
+      </prop>
+      <set picurl="http://vs.tcgbrowser.com/images/cards/big/NEW-020.jpg">MCU1</set>
+      <tablerow>2</tablerow>
     </card>
     <card>
       <name>Captain America (MCU1-001)</name>
