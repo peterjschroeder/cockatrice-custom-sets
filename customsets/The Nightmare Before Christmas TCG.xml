@@ -3274,11 +3274,19 @@
     </card>
     <card>
       <name>Pumpkin King</name>
+      <prop>
+        <maintype>Player Aids</maintype>
+        <type>Player Aids</type>
+      </prop>
       <set picurl="https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/sets/setimages//PlayerAids/pumpkin_king.jpg">Player Aids</set>
       <tablerow>0</tablerow>
     </card>
     <card>
       <name>Pumpkin Points</name>
+      <prop>
+        <maintype>Player Aids</maintype>
+        <type>Player Aids</type>
+      </prop>
       <set picurl="https://raw.githubusercontent.com/wishmstr/Nightmare-Before-Christmas-CCG/main/sets/setimages//PlayerAids/pumpkin_points.jpg">Player Aids</set>
       <tablerow>0</tablerow>
     </card>
