@@ -31,7 +31,7 @@
       <name>A Good Scare</name>
       <text>Search 3, Corpse Kid, Winged Demon OR If the Corpse Kid and Winged Demon are both at your Guillotine Area, cut your opponents deck, and then remove the top card from the game.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -42,7 +42,7 @@
       <name>Accordion Player</name>
       <text>When the Accordion Player is played, if another Character at his Locale has the word Player in his name, Draw 1 Card.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -53,7 +53,7 @@
       <name>Ain't Goin' Nowhere</name>
       <text>If your Oogie is in play, Stack this Surprise on another Character at his Locale. While this Surprise is Stacked on that Character, that Character cannot be discarded from play, and cannot move.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -64,7 +64,7 @@
       <name>Alas! Poor Jack!</name>
       <text>Search Discard Pile, Jack OR Stack this card on your Jack. He cannot be returned to your hand by an opponent.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -75,7 +75,7 @@
       <name>Alto Ghost</name>
       <text>When the Alto Ghost is played, if another Character at her Locale has the word Ghost in his or her name, Search Discard Pile, 1 Surprise</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -86,7 +86,7 @@
       <name>Armed Assault</name>
       <text>Search 6, Sallys Arm OR Discard your Sallys Arm from play, and then send an opponents Character with a Scare Number of 2 back to its owners hand.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -97,7 +97,7 @@
       <name>Back Alley</name>
       <text>FUNCTION: Draw 2 Cards and Move 3 Cards</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -108,7 +108,7 @@
       <name>Baritone Ghost</name>
       <text>If the Baritone Ghost is played to The Well, you may immediately discard 1 card from your hand to Search Discard Pile, 1 Card</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -119,7 +119,7 @@
       <name>Barrel - Dopey Trick-or-Treater</name>
       <text>HEX: Once during your turn, after Barrel moves to a Locale, Draw 1 Card.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -130,7 +130,7 @@
       <name>Barrel - Guinea Pig</name>
       <text>May travel between Holiday Towns. During your turn, if Barrel is at the Tree House, you may return him to your hand to Search 2, 1 Character</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -141,7 +141,7 @@
       <name>Barrel - Little Skeleton</name>
       <text>During your turn, if Barrel is at the same Locale as Lock and Shock, you may discard a copy of Barrel from your hand to Draw 1 Card.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -152,7 +152,7 @@
       <name>Barry the Elf</name>
       <text>If Barry is played to the Cookie Factory, you may immediately discard 1 card from your hand to Draw 2 Cards.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -163,7 +163,7 @@
       <name>Bass Ghost</name>
       <text>When the Bass Ghost is played, you may Search 5, Ghosts</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -174,7 +174,7 @@
       <name>Bass Player</name>
       <text>When the Bass Player is played, if another Character at his Locale has the word Player in his name, Draw 1 Card.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -185,7 +185,7 @@
       <name>Beaker of Joy</name>
       <text>If your Jack is at his House when this Creation is played, you may discard 1 card from your hand to Add 2p. This creation does not count when determining if you have the most Creations. Making Christmas cannot lower the Cost of this Creation.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -196,7 +196,7 @@
       <name>Behemoth</name>
       <text>During your turn, you may discard Behemoth from play to force all opponents to discard 1 card of their choice from their hands.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -207,7 +207,7 @@
       <name>Big Witch</name>
       <text>You may spend 1 Movement to Move the Big Witch to any other Locale in your Halloweentown.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -218,7 +218,7 @@
       <name>Black Cat</name>
       <text>If played to the same Locale as Sally, Draw 2 Cards. If played to any other Locale, discard 2 cards from your hand.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -229,7 +229,7 @@
       <name>Bone Daddy</name>
       <text>Search 3, Jack, The Players OR Play Jack from your hand to a Locale in your Halloweentown; Jacks Cost is -1 for every Character at that Locale with the word Player in his name.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -240,7 +240,7 @@
       <name>Bun-ny!</name>
       <text>Search, 4 Behemoth, Easter Bunny OR If Behemoth and the Easter Bunny are at the same Locale in your Halloweentown, discard that Easter Bunny and Draw 4 Cards.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -251,7 +251,7 @@
       <name>Candy Shop</name>
       <text>BONUS: Whenever the opponent to your left plays a Creation, Draw 1 Card. </text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -262,7 +262,7 @@
       <name>Captive Audience</name>
       <text>Search 6, 1 Character OR If Jack is at your Town Hall, Draw 1 Card for every additional Character there (maximum of 6 cards).</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -273,7 +273,7 @@
       <name>Carousel</name>
       <text>BONUS: After you perform a Function, you may discard up to 2 cards from your hand, and then draw an equal number of new cards.</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -284,7 +284,7 @@
       <name>Castle Finklestein</name>
       <text>FUNCTION: Discard 1 Card from hand to Add 5p</text>
       <prop>
-        <manacost>5</manacost>
+        <Scare_Threshold>5</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -295,7 +295,7 @@
       <name>Choo Choo Train</name>
       <text>Move any number of your Christmas Characters from any one Christmas Town Locale to any one other of your Christmas Town Locales.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -306,7 +306,7 @@
       <name>Christmas Cafe</name>
       <text>BONUS: While the Cafe is Active, whenever you play an Elf here, every player may Draw 1 Card.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -317,7 +317,7 @@
       <name>Christmas Casket</name>
       <text>When playing this Creation, if Jack is in your Town Square, you may draw until you have 7 cards in your hand.</text>
       <prop>
-        <manacost>6</manacost>
+        <Scare_Threshold>6</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -328,7 +328,7 @@
       <name>Christmas Equation</name>
       <text>Search 6, Jack OR If your Jack is at his House, Stack this card on him, and then perform the card text on three of your Creations in play that have a Scare Number of 1, as if those Creations were just being played.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -339,7 +339,7 @@
       <name>Christmas Supplies</name>
       <text>-1 Cost for every Character at your Well with the word Ghost in his or her name.</text>
       <prop>
-        <manacost>6</manacost>
+        <Scare_Threshold>6</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -350,7 +350,7 @@
       <name>Christmas Town Gates</name>
       <text>Place this Surprise on the table as part of your Christmas Town. All Characters in your Christmas Town may ignore any Surprises played by your opponents. Devil cannot draw a card when one of your Christmas Characters is discarded.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -361,7 +361,7 @@
       <name>Christmas Tree Bats</name>
       <text>-2 Cost if Corpse Mom and the Bass Player are at the same Locale in your Halloweentown.</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -372,7 +372,7 @@
       <name>Chucky the Elf</name>
       <text>If Chucky is played to the Candy Shop, Draw 1 Card</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -383,7 +383,7 @@
       <name>Claw Catapult</name>
       <text>If Lock, Shock, and Barren are in your Halloweentown when this Creation is played, move a Character in an opponents Halloweentown up to three Locales away.</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -394,7 +394,7 @@
       <name>Clown</name>
       <text>During your turn, you may discard the Clown from play, and then discard an opponents Character with a Scare Number of 1 from play.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -405,7 +405,7 @@
       <name>Conversations Worth Having</name>
       <text>Search 5, Finklestein, Jewel OR Stack this Surprise on your Finklestein, and then, if Jewel is at his Locale, Search Discard Pile, 1 Card</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -416,7 +416,7 @@
       <name>Cookie Factory</name>
       <text>BONUS: During your turn, you may discard a Creation from your hand to Draw 1 Card.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -427,7 +427,7 @@
       <name>Corpse Dad</name>
       <text>When Corpse Dad is played, Add 1p for every other Character at his Locale with the word Corpse in his or her name.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -438,7 +438,7 @@
       <name>Corpse Family Bonding</name>
       <text>Search 4, The Corpse Family OR If your Corpse Dad, Corpse Mom, and Corpse Kid are at 3 different Locales, move them all to any one Locale in your Halloweentown, and Add 3p</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -449,7 +449,7 @@
       <name>Corpse Kid</name>
       <text>HEX: Once during your turn, after you play a Surprise, you may discard 1 card from your hand to Add 1p</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -460,7 +460,7 @@
       <name>Corpse Mom</name>
       <text>When Corpse Mom is played, Add 1p for every other Character at her Locale with the word Corpse in his or her name</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -471,7 +471,7 @@
       <name>Cute Puppy</name>
       <text>Play this Creation to an opponents Halloweentown. Cost = 3 (-1 for each Active Locale in your Christmas Town with a Joy Threshold of 2 or higher).</text>
       <prop>
-        <manacost>-3</manacost>
+        <Scare_Threshold>-3</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -482,7 +482,7 @@
       <name>Cyclops</name>
       <text>When the Cyclops is played, you may discard 1 card from your hand to Draw 1 Card.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -493,7 +493,7 @@
       <name>Dark Alley</name>
       <text>Search 5, Wolfman, Decomposing Guy, Harlequinn Demon OR If Wolfman, Decomposing Guy, and Harlequinn Demon are in play, flip an opponents Locale face down (out of play) until the End Phase.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -504,7 +504,7 @@
       <name>Dead Head</name>
       <text>When this Creation is played, if the Undersea Gal is in your Halloweentown, Search Discard Pile, 1 Card</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -515,7 +515,7 @@
       <name>Dead Rooster</name>
       <text>During your turn, you may discard Dead Rooster from play to move any players Vampire to any other Locale in the same Halloweentown.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -526,7 +526,7 @@
       <name>Deadly Nightshade</name>
       <text>Search 3, Sally OR If your Sally is in play, return an opponents Dr. Finkelstein to its owners hand.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -537,7 +537,7 @@
       <name>Decomposing Guy</name>
       <text>During your turn, you may discard Decomposing Guy from play to Search 3, 1 Card.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -548,7 +548,7 @@
       <name>Delightful Hat</name>
       <text>When playing this Creation, if the Harlequinn Demon is in your Halloweentown, you may discard 1 card from your hand to reduce the Cost of this Creation by 2.</text>
       <prop>
-        <manacost>4</manacost>
+        <Scare_Threshold>4</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -559,7 +559,7 @@
       <name>Demented Shadow</name>
       <text>If the Demented Shadow is played to the Graveyard, you may immediately Draw 1 Card and Move 1 Card.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -570,7 +570,7 @@
       <name>Depraved Offering</name>
       <text>If your Oogie is at his Lair and your Lock, Shock, and Barrel are at the Tree House, discard any number of Christmas Characters who are at your Tree House from play.  Add 1p for each such Character discarded.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -581,7 +581,7 @@
       <name>Devil</name>
       <text>Every time an opponents Character is discarded from play, Draw 1 Card.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -592,7 +592,7 @@
       <name>Dissected Teddy</name>
       <text>If your Jack is at his House when this Creation is played, Search Discard Pile, 1 Card. This Creation does not count when determining if you have the most Creations. Making Christmas cannot lower the Cost of this Creation.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -603,7 +603,7 @@
       <name>Doll Factory</name>
       <text>BONUS: Whenever you play a Creation, Draw 1 Card.</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -614,7 +614,7 @@
       <name>Domain of Shadows</name>
       <text>Search 6, Shadows OR If 3 Characters with the word Shadow in their name are at your Graveyard, Add 3p</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -625,7 +625,7 @@
       <name>Double Dead</name>
       <text>Name a Card Title. All players must reveal all copies of that Card Title in their discard piles, and then remove the revealed cards from the game.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -636,7 +636,7 @@
       <name>Dr. Finklestein - Brainy Inventor</name>
       <text>HEX: Once during your turn, if Finklestein is at Finklestein Hall, you may discard 1 of your Creations in play to draw a number of cards equal to its Scare Number.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -647,7 +647,7 @@
       <name>Dr. Finklestein - Desperate Lover</name>
       <text>HEX: Once during your turn, if Finklestein is not at the same Locale as your Sally, you may move him to her Locale (for free) and then Draw 1 Card.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -658,7 +658,7 @@
       <name>Dr. Finklestein - Mad Scientist</name>
       <text>While Finklestein is at the Laboratory, draw 1 card each time you play a Creation.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -669,7 +669,7 @@
       <name>Droopy Cane</name>
       <text>If your Jack is at his House when this Creation is played, Draw 1 Card. This Creation does not count when determining if you have the most Creations. Making Christmas cannot lower the Cost of this Creation.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -680,7 +680,7 @@
       <name>Eager Anaconda</name>
       <text>When playing this Creation, you may discard Corpse Dad (or 2 other Characters) from your Halloweentown to reduce the Cost of this Creation by 3.</text>
       <prop>
-        <manacost>5</manacost>
+        <Scare_Threshold>5</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -691,7 +691,7 @@
       <name>Easter Bunny</name>
       <text>This card may be played for a Cost of 2 to an opponents non-Starting Locale, or for free to one of your Locales. Cannot Move.</text>
       <prop>
-        <manacost>-1</manacost>
+        <Scare_Threshold>-1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -702,7 +702,7 @@
       <name>Easter Door</name>
       <text>Search 6, Easter Bunny OR Discard any players Easter Bunny from play, and then Draw 2 Cards.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -713,7 +713,7 @@
       <name>Eddy the Elf</name>
       <text>When Eddy is played, every player may immediately Draw 1 Card.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -724,7 +724,7 @@
       <name>Electric Lights</name>
       <text>Search 6, Jack OR Move your Jack from one Christmas Town Locale to another of your Christmas Town Locales.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -735,7 +735,7 @@
       <name>Elven Bedchamber</name>
       <text>BONUS: Whenever an Elf is discarded from your Christmas Town, Draw 1 Card.</text>
       <prop>
-        <manacost>4</manacost>
+        <Scare_Threshold>4</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -746,7 +746,7 @@
       <name>Eureka!</name>
       <text>If Jack is at his House in your Halloweentown, you may remove any number of Pumpkin Points from your Pumpkin Points card (all at once) to draw a number of cards equal to the number of Pumpkin Points removed.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -757,7 +757,7 @@
       <name>Everybody make a scene</name>
       <text>Draw 1 Card for every Active Locale in your Halloweentown with a Scare Threshold of 2 or higher (1 or higher if the Mayor is in your Halloweentown).</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -768,7 +768,7 @@
       <name>Everybody Scream!</name>
       <text>During your turn, play this card instead of performing a Function. Total up the Scare Numbers of all your Characters and divide by 4 (round down). You may divide by 3 if your Hanging Tree is in play. Add that many Pumpkin Points to your Pumpkin Points card.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -779,7 +779,7 @@
       <name>Evil Eye</name>
       <text>If Cyclops is in your Halloweentown, flip an opponents Character with a Scare Number of 2 or less face down (out of play) until the End Phase. The opponent cannot play that Character again for the rest of this Round.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -790,7 +790,7 @@
       <name>Extendable Arm</name>
       <text>If your Clown is at Town Hall, you may play this Creation to your opponents Halloweentown, and then steal one Creation from that opponents Halloweentown and place it in your own.</text>
       <prop>
-        <manacost>4</manacost>
+        <Scare_Threshold>4</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -801,7 +801,7 @@
       <name>Eyes Glowing Red</name>
       <text>Search 6, Monster under the Bed OR If the Monster under the Bed is at your Scary Bed, discard any number of cards from beneath your Scary Bed. Add 1p for each such card discarded.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -812,7 +812,7 @@
       <name>Falling to Pieces</name>
       <text>Search 3, Sally, Sallys Arm, Sallys Leg OR If Sally, Sallys Arm, and Sallys Leg are at three different Locales in your Halloweentown, Draw 2 Cards and Move 2 Cards.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -823,7 +823,7 @@
       <name>Fear the Reaper</name>
       <text>Search 6, The Reaper OR Discard your Reaper from play, and then discard an opponents Character from play.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -834,7 +834,7 @@
       <name>Fender Bender</name>
       <text>If Corpse Kid is in your Halloweentown when you play this Creation, send an opponents Creation with a Scare Number of 3 or less back into its owners hand.</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -845,7 +845,7 @@
       <name>Fetch</name>
       <text>Search 6, Zero OR If Jack and Zero are at the same Locale in your Halloweentown, Search 6, 1 Card</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -856,7 +856,7 @@
       <name>Fingers Like Snakes</name>
       <text>Search 6, Monster under the Stairs OR If the Monster under the Stairs is at your Scary Staircase, draw until you have 4 cards in your hand.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -867,7 +867,7 @@
       <name>Finklestein Hall</name>
       <text>STARTING HAND: 7 Cards, FUNCTION: Draw 3 Cards, FUNCTION: Add 2p, FUNCTION: Move 2 Cards</text>
       <prop>
-        <manacost>0*</manacost>
+        <Scare_Threshold>0*</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -878,7 +878,7 @@
       <name>Fire!</name>
       <text>Discard an opponents Creation from play.</text>
       <prop>
-        <manacost>5</manacost>
+        <Scare_Threshold>5</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -889,7 +889,7 @@
       <name>Formaldetoys</name>
       <text>If your Jack is at his House when this Creation is played, you may discard 1 card from your hand to Draw 2 Cards. This Creation does not count when determining if you have the most Creations. Making Christmas cannot lower the Cost of this Creation.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -900,7 +900,7 @@
       <name>Frog's Breath</name>
       <text>Search 3, Sally OR If your Sally is in her Room, discard Deadly Nightshade from your hand, and then Draw 3 Cards.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -911,7 +911,7 @@
       <name>Gate Keeper</name>
       <text>Discard an opponents Surprise which has been placed on the table (but not Stacked). OR Switch the positions of two empty Locales in any players Halloweentown.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -922,7 +922,7 @@
       <name>Give It All Up</name>
       <text>Stack this Surprise on your Jack, and then discard all other Surprises that are Stacked on Characters in all Halloweentowns. Draw 1 card for every Surprise discarded in this way.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -933,7 +933,7 @@
       <name>Give Up the Ghost</name>
       <text>Move 1 or 2 of your Characters to your Pumpkin Patch. OR Draw 1 Character of your choice from beneath your Pumpkin Patch.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -944,7 +944,7 @@
       <name>Grand Marshall</name>
       <text>Search 4, The Hyde Family OR Move a Character in your Halloweentown to the same Locale as one of your Characters with the word Hyde in his name.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -955,7 +955,7 @@
       <name>Guillotine Area</name>
       <text>FUNCTION: Discard 1 Character from this Locale to Add 2p and force each opponent to discard 1 Character of his choice from his own Halloweentown.</text>
       <prop>
-        <manacost>5</manacost>
+        <Scare_Threshold>5</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -966,7 +966,7 @@
       <name>Halloween Plans</name>
       <text>Search 6, The Mayor OR If the Mayor is at your Mayor-mobile or at the same Locale as Jack in your Halloweentown, Draw 2 Cards</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -977,7 +977,7 @@
       <name>Halloweentown Bell</name>
       <text>-2 Cost if the Mayor is at your Mayor-mobile., -1 Cost if the Mummy Boy is at the same Locale as your Mayor. These effects are cumulative.</text>
       <prop>
-        <manacost>5</manacost>
+        <Scare_Threshold>5</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -988,7 +988,7 @@
       <name>Halloweentown Gates</name>
       <text>Place this card on the table as part of your Halloweentown. Whenever an opponent plays a Surprise that affects one of your Characters in play, you may immediately return this card to your hand to ignore that Surprise.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -999,7 +999,7 @@
       <name>Hanging Tree</name>
       <text>When playing this card, you may discard Characters from your hand to reduce the Hanging Trees Cost by 1 for each Character discarded.</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1010,7 +1010,7 @@
       <name>Harlequin Demon</name>
       <text>-1 Cost at the Back Alley.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1021,7 +1021,7 @@
       <name>He can fit down here!</name>
       <text>Move Lock, Shock and/or Barrel from your Oogies Lair to your Tree House. OR If Lock, Shock, and Barrel are in your Halloweentown, move your Sandy to your Oogies Lair.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1032,7 +1032,7 @@
       <name>Headhunter</name>
       <text>Search 6, Undersea Gal OR If your Undersea Gal is in play, Search Discard Pile, 1 Surprise</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1043,7 +1043,7 @@
       <name>Hello, Oogie</name>
       <text>If your Jack is in play, return an opponents Character to its owners hand. OR Discard an opponents Jack and Oogie if they are both in the same Halloweentown.</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1054,7 +1054,7 @@
       <name>Here Comes Sandy Claws</name>
       <text>When this Creation is played, if The Bass and all 3 Players are in your Town Square, you may immediately play another Creation from your hand (for free).</text>
       <prop>
-        <manacost>4</manacost>
+        <Scare_Threshold>4</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -1065,7 +1065,7 @@
       <name>Hiding Under Your Bed</name>
       <text>Discard all cards that are currently beneath your Scary Bed. OR If the Monster Under the Bed is at your Scary Bed, draw up to 2 cards of your choice from beneath your Scary Bed.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1076,7 +1076,7 @@
       <name>Hitch a Ride</name>
       <text>Move any number of Characters from your Mayor-mobile to any one other Locale in your Halloweentown. OR Move any number of Characters from any one of your Locales to your Mayor-mobile.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1087,7 +1087,7 @@
       <name>Holly Jolly Roger</name>
       <text>When this Creation is played, if your Devil is in play, you may discard a Character with a Scare Number of 1 from an opponents Halloweentown.</text>
       <prop>
-        <manacost>4</manacost>
+        <Scare_Threshold>4</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -1098,7 +1098,7 @@
       <name>House of Cards</name>
       <text>Add +2 to the Scare Number of the House of Cards for each card face down beneath it placed there through the use of I Think Ive Got It.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -1109,7 +1109,7 @@
       <name>How dare you!</name>
       <text>During your opponents turn, after that opponent discards a Surprise into his Surprise Discard Pile, place this card on the table as part of your Halloweentown, and then grab the opponents Surprise and stack it on this card. That Surprise is now +1 Cost for all players.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1120,7 +1120,7 @@
       <name>Hyde and Seek</name>
       <text>Search 4, The Hyde Family OR During an opponents turn, play this card to ignore a card that discards card(s) from your hand, and, if you also reveal a Hyde Character in your hand, Draw 2 Cards.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1131,7 +1131,7 @@
       <name>I am not the one</name>
       <text>Search 3, 1 Surprise OR If Sally is in an opponents Halloweentown, move her to an adjacent Locale of your choice.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1142,7 +1142,7 @@
       <name>I am the Pumpkin King!</name>
       <text>If your Jack is in play, seize the Pumpkin King card and choose one of the cards three activities. Every player in order may perform the chosen activity just as in the Start Phase. When finished, return the Pumpkin King card to its previous holder.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1153,7 +1153,7 @@
       <name>I Can't Believe My Eyes</name>
       <text>Every player must peek at the hand of the player to his left, and then force that player to discard 1 card of the peeking players choice.  Players with Jack in their Christmas Town may then Draw 1 Card.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1164,7 +1164,7 @@
       <name>I can't make decisions!</name>
       <text>Search 6, Mayor OR If your Mayor is at the Mayor-mobile, peek at an opponents hand and reveal one card of your choice to all players. No player can play that Card Title for the remainder of this Round.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1175,7 +1175,7 @@
       <name>I never realized</name>
       <text>Search 3, Jack, Sally OR If Jack and Sally are at the same Locale in your Halloweentown, Draw 2 Cards</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1186,7 +1186,7 @@
       <name>I think I've got it</name>
       <text>Search 6, House of Cards OR Flip the top card of your Main Deck face up. If it is a Surprise, discard it and all cards placed beneath your House of Cards. Otherwise, place the card face down beneath your House of Cards.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1197,7 +1197,7 @@
       <name>I told you!</name>
       <text>Search 5, Lock, Shock, Barrel OR If Lock, Shock, and Barrel are at the same Locale in your Halloweentown, Stack this Surprise on Shock and Add 2p</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1208,7 +1208,7 @@
       <name>I wanna do it!</name>
       <text>Search 5, Lock, Shock, Barrel OR If Lock, Shock, and Barrel are at the same Locale in your Halloweentown, Stack this Surprise on Lock and force one opponent to discard a random card from his hand.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1219,7 +1219,7 @@
       <name>I want it for my own</name>
       <text>If Jack is at an Active Locale in your Christmas Town with a Joy Threshold of 3 or higher, discard an opponents Creation from play.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1230,7 +1230,7 @@
       <name>Iggy the Elf</name>
       <text>When Iggy is played, if Jack is at his Locale, Add 1p</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1241,7 +1241,7 @@
       <name>Igor</name>
       <text>During your turn, you may discard Igor from play and then Move 2 Cards.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1252,7 +1252,7 @@
       <name>I'm not the dumb one</name>
       <text>Search 5, Lock, Shock, Barrel OR If Lock, Shock, and Barrel are at the same Locale in your Halloweentown, Stack this Surprise on Barrel and Draw 1 Card.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1263,7 +1263,7 @@
       <name>I'm Santa Claus!</name>
       <text>Search 6, Sandy Claws OR Stack this card on your Sandy, and then, if Sandy is in Oogies Lair in your Halloweentown, discard an opponents Creation from play.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1274,7 +1274,7 @@
       <name>I'm the Boogie Man!</name>
       <text>Each player targets a Character with a Scare number of 1 belonging to the player on his left and sends the Character back into its owners hand. If Oogie is in any players Halloweentown, those players also Draw 1 Card.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1285,7 +1285,7 @@
       <name>It's a phase, my dear</name>
       <text>Search 3, Finklestein, Sally OR If Finklestein and Sally are at the same Locale in your Halloweentown, Add 1p</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1296,7 +1296,7 @@
       <name>It's Alive!</name>
       <text>If Finklestein is at your Laboratory, Stack this Surprise on one of your Creations in play, and then place that Creation in your Laboratory.  That Creation is now considered both a Character and a Creation.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1307,7 +1307,7 @@
       <name>It's time to party!</name>
       <text>Search 6, Devil OR If your Devil is in play, Draw 1 Card for every Creation in your Halloweentown.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1318,7 +1318,7 @@
       <name>It's Time You Begun</name>
       <text>Choose an inactive Locale in your Halloweentown. Discard a number of cards from your hand equal to the number of Scare Points still needed to activate that Locale, and then perform a Function on that Locale. You may still perform only one Function during your turn.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1329,7 +1329,7 @@
       <name>Jack in the Box</name>
       <text>When this Creation is played, if the Clown is in your Halloweentown, you may Search 6, 1 Surprise</text>
       <prop>
-        <manacost>4</manacost>
+        <Scare_Threshold>4</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -1340,7 +1340,7 @@
       <name>Jack Skellington - Demon of Light</name>
       <text>When Jack, Demon of Light, is played, the player(s) with the most Characters in play draw until they have 7 cards in their hands.</text>
       <prop>
-        <manacost>6</manacost>
+        <Scare_Threshold>6</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1351,7 +1351,7 @@
       <name>Jack Skellington - Explorer of Unknown Realms</name>
       <text>May travel between Holiday Towns. HEX: Once during your turn, after Jack moves to a Christmas Town Locale, Add 1p</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1362,7 +1362,7 @@
       <name>Jack Skellington - Master of Fright</name>
       <text>When Jack, Master of Fright, is played, you must discard another Character at his Locale (or discard this card).</text>
       <prop>
-        <manacost>5</manacost>
+        <Scare_Threshold>5</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1373,7 +1373,7 @@
       <name>Jack Skellington - Motivational Spooker</name>
       <text>During your turn, you may discard a card from your hand to move another Halloween Character at Jacks Locale to an adjacent Locale.</text>
       <prop>
-        <manacost>4</manacost>
+        <Scare_Threshold>4</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1384,7 +1384,7 @@
       <name>Jack Skellington - Santa Jack</name>
       <text>Whenever you Stack a Surprise on a Creation, Draw 2 Cards.</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1395,7 +1395,7 @@
       <name>Jack Skellington - The Pumpkin King</name>
       <text>-1 Cost at Jacks House.</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1406,7 +1406,7 @@
       <name>Jack's Bedroom</name>
       <text>FUNCTION: Draw until you have a number of cards in your hand equal to your Starting Hand (as indicated on your Starting Locale).</text>
       <prop>
-        <manacost>4</manacost>
+        <Scare_Threshold>4</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -1417,7 +1417,7 @@
       <name>Jack's House</name>
       <text>STARTING HAND: 7 Cards, FUNCTION: Draw 2 Cards, FUNCTION: Add 2p, FUNCTION: Move 4 Cards</text>
       <prop>
-        <manacost>0*</manacost>
+        <Scare_Threshold>0*</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -1428,7 +1428,7 @@
       <name>Jewel</name>
       <text>If Finklestein is about to be discarded while at the same Locale as Jewel, you may discard Jewel instead.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1439,7 +1439,7 @@
       <name>Jingle Bells</name>
       <text>This Creation is -1 Cost for each Character in your Halloweentown with the word Player in his name.</text>
       <prop>
-        <manacost>4</manacost>
+        <Scare_Threshold>4</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -1450,7 +1450,7 @@
       <name>Jumbo Treat Bag</name>
       <text>-3 Cost if Lock, Shock, and Barrel are at the same Locale in your Halloweentown.</text>
       <prop>
-        <manacost>5</manacost>
+        <Scare_Threshold>5</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -1461,7 +1461,7 @@
       <name>Juxtaposition</name>
       <text>Add 1p for every Halloween Character (not including Jack, Lock, Shock, and Barrel) at an Active Locale in your Christmas Town (maximum of 4 Pumpkin Points).</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1472,7 +1472,7 @@
       <name>Kidnap Mr. Sandy Claws</name>
       <text>Every player draws 1 card, plus an additional card for each of the following Characters in their Halloweentown: Lock, Shock, Barrel, Sandy Claws</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1483,7 +1483,7 @@
       <name>Languid Larry</name>
       <text>When Larry is played, Draw 2 Cards if Nelly is at his Locale. Cannot Move.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1494,7 +1494,7 @@
       <name>Let's Play!</name>
       <text>Search 6, Sound of Rollin Dice OR If Oogie is in your Halloweentown, play this card after playing Sound of Rollin Dice to discard a second card from the top of the opponents deck. Add its Scare Number to the first cards Scare Number.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1505,7 +1505,7 @@
       <name>Little Henchmen</name>
       <text>Search 6, Oogie, Lock, Shock, Barrel OR Search 6, Depraved Offering</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1516,7 +1516,7 @@
       <name>Little Witch</name>
       <text>During your turn, you may Move the Little Witch to the same Locale as the Big Witch in your Halloweentown (for free).</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1527,7 +1527,7 @@
       <name>Loading Zone</name>
       <text>BONUS: Whenever you perform a Function, you may Search 4, 1 Creation.</text>
       <prop>
-        <manacost>4</manacost>
+        <Scare_Threshold>4</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -1538,7 +1538,7 @@
       <name>Lock - Impish Trick-or-Treater</name>
       <text>HEX: Once during your turn, after Lock moves to a Locale, you may discard 2 cards from your hand to force 1 player to discard a random card from his hand.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1549,7 +1549,7 @@
       <name>Lock - Little Devil</name>
       <text>During your turn, if Lock is at the Tree House, you may discard a copy of Lock from your hand to Search 3, Shock, Barrel</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1560,7 +1560,7 @@
       <name>Lock - Savage Captor</name>
       <text>May travel between Holiday towns. During your turn, if Lock is at the Tree House, you may discard another Character there to Draw 1 Card.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1571,7 +1571,7 @@
       <name>Loco-motive</name>
       <text>If your Mummy Boy is in play when this Creation is played, you may immediately move 1 Character in any players Halloweentown to an adjacent Locale.</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -1582,7 +1582,7 @@
       <name>Look what you've done</name>
       <text>Search 3, Jack OR Stack this card on your Jack or Sandy, and then, if an opponents Oogie is in play, send that Oogie to its owners hand.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1593,7 +1593,7 @@
       <name>Lovely!</name>
       <text>Search 4, Sallys Leg OR If your Sallys Leg is in play, place this Surprise on the table in front of an opponent. That opponents Surprises are +1 Cost. Discard this Surprise during the End Phase.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1604,7 +1604,7 @@
       <name>Mad Genius</name>
       <text>Force an opponent to discard 1 random card from his hand. OR If Finklestein is at the Laboratory in your Halloweentown, peek at an opponents hand and discard 1 card of your choice.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1615,7 +1615,7 @@
       <name>Magical Journey</name>
       <text>Move a Halloween Character from your Tree Circle to one of your Christmas Town Locales (or from one of your Christmas Town Locales to your Tree Circle). This Character is considered to have the text May travel between Holiday Towns during this Movement.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1626,7 +1626,7 @@
       <name>Making Christmas</name>
       <text>All Creations are -1 Cost. All Characters are +1 Cost. Place this card in the center of the table. No other copies can be played while this is on the table. Discard during the End Phase.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1637,7 +1637,7 @@
       <name>Marie Antoinette Doll</name>
       <text>When this Creation is played, if the Mummy Boy is in your Halloweentown, force one player to discard a random card from his hand.</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -1648,7 +1648,7 @@
       <name>Master! The Plans!</name>
       <text>Search 5, Finklestein, Igor OR If Finklestein and Igor are at the same Locale in your Halloweentown, Draw 2 Cards</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1659,7 +1659,7 @@
       <name>Mayor-mobile</name>
       <text>STARTING HAND: 6 Cards, FUNCTION: Draw 3 Cards, FUNCTION: Add 2p, FUNCTION: Move 5 Cards</text>
       <prop>
-        <manacost>0*</manacost>
+        <Scare_Threshold>0*</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -1670,7 +1670,7 @@
       <name>Mellow Trio</name>
       <text>Search 6, The Players OR Choose a Locale in your Halloweentown and Draw 1 Card for every Character at that Locale with the word Player in his name.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1681,7 +1681,7 @@
       <name>Mirror, Mirror</name>
       <text>During an opponents turn, play this card after one of your Characters is discarded from play to discard from play any one of that opponents Characters with an equal or lower Scare Number.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1692,7 +1692,7 @@
       <name>Mission of Menace</name>
       <text>If your Lock, Shock, and Barrel are at the same Christmas Town Locale, move them and any number of other Characters at the same Locale to your Tree House. These Characters may all travel between Holiday Towns.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1703,7 +1703,7 @@
       <name>Mistletoe</name>
       <text>Search 6, Elves OR Discard 2 Elves who are at the same Locale in an opponents Christmas Town.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1714,7 +1714,7 @@
       <name>Monster Under the Bed</name>
       <text>Cannot Move. Whenever a Function at his Locale is performed, you may discard 1 card from your hand to Add 1p</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1725,7 +1725,7 @@
       <name>Monster Under the Stairs</name>
       <text>Whenever a Function at his Locale is performed, you may discard 1 card from your hand to Draw 1 Card.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1736,7 +1736,7 @@
       <name>Moody Mayor</name>
       <text>Search 3, Mayor, Lock, Shock, Barrel OR Double the Mayors Scare Number when determining if his current Locale is Active.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1747,7 +1747,7 @@
       <name>Morning Rounds</name>
       <text>Search 6, Mayor OR If your Mayor-mobile is in play, switch the positions of two Locales in your Halloweentown, making sure that all Characters remain with their current Locales.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1758,7 +1758,7 @@
       <name>Most Blood Drained</name>
       <text>Search 4, Vampires OR Return one of your Vampires in play to your hand, and then discard an opponents Character with a Scare Number of 3 of less from play.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1769,7 +1769,7 @@
       <name>Mournful Howl</name>
       <text>Search 6, Wolfman OR If your Wolfman is in play, reveal a Character in your discard pile and draw a number of cards equal to that Characters Scare Number (maximum of 4 cards).</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1780,7 +1780,7 @@
       <name>Mr. Hyde</name>
       <text>During your turn, you may send Mr. Hyde into your hand and then peek at an opponents hand.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1791,7 +1791,7 @@
       <name>Mr. Hyde II</name>
       <text>During your turn, you may send Mr. Hyde II into your hand and then discard 1 card from your hand to Draw 1 Card.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1802,7 +1802,7 @@
       <name>Mr. Hyde III</name>
       <text>During an opponents turn, you may send Mr. Hyde III into your hand to ignore a card that discard card(s) from your hand.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1813,7 +1813,7 @@
       <name>Mrs. Claus</name>
       <text>HEX: Once during your turn, you may discard 1 Elf from Mrs. Claus Locale, and then, if the Elf was discarded from the Bakery, Draw 1 Card.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1824,7 +1824,7 @@
       <name>Mummy Boy</name>
       <text>When the Mummy Boy is played, if the Corpse Kid is at his Locale, you may Move 2 Cards.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1835,7 +1835,7 @@
       <name>My Fantasies</name>
       <text>Search 6, Jack OR If Jack is in your Halloweentown, Search 6, 1 Creation</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1846,7 +1846,7 @@
       <name>Mystic Cauldron</name>
       <text>Peek at an opponents hand. OR If the Big Witch or Little Witch are in your Halloweentown, peek at the top 6 cards in your Main Deck and return them in any order.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1857,7 +1857,7 @@
       <name>Nelly the Elf</name>
       <text>When Nelly is played, you may immediately discard your entire hand, and then Draw 1 Card for every additional Elf at her Locale.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1868,7 +1868,7 @@
       <name>Night of Festivities</name>
       <text>Search 3, 1 or 2 Characters OR If an opponents Town Square has more than 4 Characters in it, flip that Town Square face down (out of play) until the End Phase.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1879,7 +1879,7 @@
       <name>Nightmare Before Christmas</name>
       <text>Every player draws 1 card for each of the following Characters in their Halloweentown: Jack, Sally, Mayor, Oogie Boogie, Dr. Finklestein</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1890,7 +1890,7 @@
       <name>Nothing Underneath</name>
       <text>Discard one Surprise that is Stacked on a card in your Halloweentown. OR Stack this card on one of your Creations, and then, if an opponents Monster under the Bed is not at the Scary Bed, return that Monster to its owners hand.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -1901,7 +1901,7 @@
       <name>Nutcracker</name>
       <text>If Behemoth is in your Halloweentown when you play the Nutcracker, you may immediately discard any number of cards from your hand (all at once) and then draw new cards to replace those discarded.</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -1912,7 +1912,7 @@
       <name>Old Sparkly</name>
       <text>-4 Cost if there are 6 Active Locales in your Halloweentown (including your Starting Locale, which is always Active).</text>
       <prop>
-        <manacost>5</manacost>
+        <Scare_Threshold>5</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -1923,7 +1923,7 @@
       <name>Oogie Boogie - Eight Ball</name>
       <text>When Oogie, Eight Ball, is played, the player(s) with the least number of Active Locales must discard half of the cards in their hands (round up).</text>
       <prop>
-        <manacost>6</manacost>
+        <Scare_Threshold>6</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1934,7 +1934,7 @@
       <name>Oogie Boogie - Gamblin' Boogie Man</name>
       <text>When Oogie, Gamblin Boogie Man, is played, you must discard your entire hand and then draw an equal number of new cards.</text>
       <prop>
-        <manacost>5</manacost>
+        <Scare_Threshold>5</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1945,7 +1945,7 @@
       <name>Oogie Boogie - Meanest Guy Around</name>
       <text>-1 Cost at Oogies Lair. Must spend 2 Movement to Move Oogie out of his Lair.</text>
       <prop>
-        <manacost>4</manacost>
+        <Scare_Threshold>4</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1956,7 +1956,7 @@
       <name>Oogie Boogie - Voracious Villain</name>
       <text>HEX: Once during your turn, you may discard another Character at his Locale to Add a number of Pumpkin Points equal to that Characters Scare Number (max of 2).</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -1967,7 +1967,7 @@
       <name>Oogie's Dice</name>
       <text>When playing this Creation, if Oogie is in his Lair in your Halloweentown, you may immediately move him (for free) to any other Locale in your Halloweentown.</text>
       <prop>
-        <manacost>4</manacost>
+        <Scare_Threshold>4</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -1978,7 +1978,7 @@
       <name>Oogie's Lair</name>
       <text>STARTING HAND: 5 Cards, FUNCTION: Draw 2 Cards, FUNCTION: Add 3p, FUNCTION: Move 1 Card</text>
       <prop>
-        <manacost>0*</manacost>
+        <Scare_Threshold>0*</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -1989,7 +1989,7 @@
       <name>Oogie's turn to boogie</name>
       <text>Search 3, Oogie, Sandy Claws OR If Oogie and Sandy Claws are in Oogies Lair in your Halloweentown, draw until you have 7 cards in your hand.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2000,7 +2000,7 @@
       <name>Organ Donor</name>
       <text>Each player, starting with the Pumpkin King and continuing clockwise around the table, may choose to discard Finklestein (or 3 other Characters) from his own Halloweentown, and then play 1 Creation from hand for free.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2011,7 +2011,7 @@
       <name>Parasols</name>
       <text>Place this Surprise on the table as part of your Halloweentown. Each of your opponents can only affect your Characters in play (or the cards in your hand) one time during each of his Player Turns. The card text on Parasols is inactive on Days 10 through 12.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2022,7 +2022,7 @@
       <name>Pauly the Elf</name>
       <text>If Pauly is played to the Hangar, you may immediately Move 2 Cards.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -2033,7 +2033,7 @@
       <name>Penguin Rally</name>
       <text>Search 6, Penguins OR If Weary Willy and Languid Larry are both in your Christmas Town, every player must immediately draw cards (or discard cards) until they have exactly 4 cards in their hands.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2044,7 +2044,7 @@
       <name>Public Transportation</name>
       <text>Each player targets a Character belonging to the player on his left and moves the Character to an adjacent Locale. Characters at the same Locale as the Mayor are not affected by this Surprise.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2055,7 +2055,7 @@
       <name>Pull Yourself Together</name>
       <text>Search 6, Sally OR During an opponents turn, play this card to ignore a card that affects one of your Characters in play. You may play this card for free if your Sally is in play.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2066,7 +2066,7 @@
       <name>Pumpkin Patch</name>
       <text>FUNCTION: Place 1 Character (who is at this Locale) face down beneath this Locale to Add 6p</text>
       <prop>
-        <manacost>6</manacost>
+        <Scare_Threshold>6</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2077,7 +2077,7 @@
       <name>Putrid Playmates</name>
       <text>Search 6, Corpse Kid, Mummy Boy OR If Corpse Kid and Mummy Boy are at the same Locale in your Halloweentown, Add </text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2088,7 +2088,7 @@
       <name>Ravenous Fiend</name>
       <text>Search 6, Eager Anaconda OR Discard your Eager Anaconda from play, and then discard an opponents Creation from play.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2099,7 +2099,7 @@
       <name>Reaper</name>
       <text>When the Reaper is played, every player must discard 1 Character from his own hand or from his own Halloweentown.</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -2110,7 +2110,7 @@
       <name>Renowned Talents</name>
       <text>Search 6, Jack OR If Jack is in your Halloweentown, move an opponents Character to an adjacent Locale. If your Jack has the Alias Master of Fright, Draw 2 Cards.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2121,7 +2121,7 @@
       <name>Road Kill</name>
       <text>If the Decomposing Guy is in your Halloweentown when you play Road Kill, Draw 2 Cards.</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -2132,7 +2132,7 @@
       <name>Ruptured Berry</name>
       <text>If your Jack is at his House when this Creation is played, you may Move 2 Cards. This Creation does not count when determining if you have the most Creations. Making Christmas cannot lower the Cost of this Creation.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -2143,7 +2143,7 @@
       <name>Sackful of Mischief</name>
       <text>Allow the opponent to your right to cut your Main Deck. Afterwards, flip the top card of the deck face up. If the card is a Creation that is not yet in your Halloweentown, you may play it for free. Otherwise, discard it.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2154,7 +2154,7 @@
       <name>Safety in Numbers</name>
       <text>Place this card on the table as part of your Halloweentown. During an opponents turn, if your Lock, Shock, or Barrel are about to be discarded from play, you may return him or her to your hand instead.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2165,7 +2165,7 @@
       <name>Sally - Restless Spirit</name>
       <text>HEX: Once during your turn, you may move Sally to an adjacent Locale.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -2176,7 +2176,7 @@
       <name>Sally - Shy Creature</name>
       <text>During your turn, if Sally is at the same Locale as Jack, you may discard her from play to draw 3 cards.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -2187,7 +2187,7 @@
       <name>Sally - Skilled Alchemist</name>
       <text>HEX: Once during your turn, if Sally is at her Room, you may discard 1 card from your hand to Draw 1 Card.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -2198,7 +2198,7 @@
       <name>Sally's Arm</name>
       <text>-1 Cost at Sallys Room.  Sallys Arm satisfies any card text that requires Sally to be in play at a particular Locale.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -2209,7 +2209,7 @@
       <name>Sally's Leg</name>
       <text>-1 Cost at Sallys Room.  Sallys Leg satisfies any card text that requires Sally to be in play at a particular Locale.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -2220,7 +2220,7 @@
       <name>Sally's Room</name>
       <text>FUNCTION: Add 2p and Move 3 Cards</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2231,7 +2231,7 @@
       <name>Same Routine</name>
       <text>During the Start Phase, play this card to perform the Pumpkin Kings chosen activity one additional time (paying for it separately each time). You cannot play this card if you are the Pumpkin King.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2242,7 +2242,7 @@
       <name>Sandy Claws</name>
       <text>Must be played to the Tree Circle or Tree House. Can only move if Lock, Shock, and Barrel are in play.  Cannot be discarded from play.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -2253,7 +2253,7 @@
       <name>Sandy Claws Outfit</name>
       <text>-3 Cost if Jack and Sally are at the same Locale in your Halloweentown.</text>
       <prop>
-        <manacost>6</manacost>
+        <Scare_Threshold>6</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -2264,7 +2264,7 @@
       <name>Santa Claus</name>
       <text>HEX: Once during your turn, you may Search 6, Elves. Cannot be played if your Sandy Claws is in play (and vice versa).</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -2275,7 +2275,7 @@
       <name>Santa's House</name>
       <text>BONUS: While Santa is here, Santas Workshop and each of your Christmas Town Factories require 1 less Christmas Character to become Active.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2286,7 +2286,7 @@
       <name>Santa's Workshop</name>
       <text>BONUS: At the start of the End Phase, if you have no cards left in your hand, Draw 4 Cards.</text>
       <prop>
-        <manacost>5</manacost>
+        <Scare_Threshold>5</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2297,7 +2297,7 @@
       <name>Sax Player</name>
       <text>When the Sax Player is played, if another Character at his Locale has the word Player in his name, Draw 1 Card.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -2308,7 +2308,7 @@
       <name>Say It Twice</name>
       <text>Search 6, Big Witch, Little Witch OR If the Big Witch and Little Witch are at one of your active Locales, you may perform one of the Functions at that Locale as an extra Function this turn.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2319,7 +2319,7 @@
       <name>Scared Stiff</name>
       <text>Search 3, Jack OR If your Jack in play has the Alias Master of Fright, discard an opponents Character with a Scare Number of 1.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2330,7 +2330,7 @@
       <name>Scary Bed</name>
       <text>FUNCTION: Place up to 2 cards from your hand face down beneath the Scary Bed, and then Add 2p for each card you just placed.</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2341,7 +2341,7 @@
       <name>Scary Staircase</name>
       <text>FUNCTION: Discard up to 2 cards from your hand, and then draw 3 cards for every card you just discarded.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2352,7 +2352,7 @@
       <name>Scary Teddy</name>
       <text>This Creation is -1 Cost for each of the following Characters in your Halloweentown: Corpse Dad, Devil, and Wolfman</text>
       <prop>
-        <manacost>4</manacost>
+        <Scare_Threshold>4</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -2363,7 +2363,7 @@
       <name>Scorpion Surprise</name>
       <text>This Creation is -1 Cost for each Character in your Halloweentown with the word Hyde in his name.</text>
       <prop>
-        <manacost>4</manacost>
+        <Scare_Threshold>4</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -2374,7 +2374,7 @@
       <name>Search Lights</name>
       <text>Search 6, 1 Card OR Place this card on the table as part of your Halloweentown. While this card is in play, you may play the card Fire! at -2 Cost.</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2385,7 +2385,7 @@
       <name>Series of Experiments</name>
       <text>Search 5, Jack, Finklestein OR If Jack and Finklestein are both in your Halloweentown, Search 6, Creations with a Scare Number of 1</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2396,7 +2396,7 @@
       <name>Sewing Hut</name>
       <text>FUNCTION: Add 1p for every Active Locale in your Halloweentown (not including this Locale).</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2407,7 +2407,7 @@
       <name>Shadow on the Moon</name>
       <text>Cost = 2. Stack this Surprise on an opponents Character. You may play this card for free if your Oogie is in play.</text>
       <prop>
-        <manacost>-1</manacost>
+        <Scare_Threshold>-1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2418,7 +2418,7 @@
       <name>Shock - Bossy Trick-or-Treater</name>
       <text>HEX: Once during your turn, after Shock moves to a Locale, you may discard 1 card from your hand to Add 1p</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -2429,7 +2429,7 @@
       <name>Shock - Little Hag</name>
       <text>Whenever Shock leaves the same Locale as Lock and/or Barrel, you may move them to her new Locale for free.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -2440,7 +2440,7 @@
       <name>Shock - Mad Schemer</name>
       <text>May travel between Holiday Towns. During your turn, you may discard 1 card from your hand to Search 3, Mission of Menace</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -2451,7 +2451,7 @@
       <name>Siamese Shadow</name>
       <text>-1 Cost at the Graveyard.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -2462,7 +2462,7 @@
       <name>Skating Pond</name>
       <text>BONUS: Whenever you perform a Function, you may discard 1 card from your hand to Move 2 different Characters once each.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2473,7 +2473,7 @@
       <name>Skeletal Reindeer</name>
       <text>-2 Cost if Dr. Finkelstein is in your Laboratory. -1 Cost if Igor is in your Laboratory.  These effects are cumulative.</text>
       <prop>
-        <manacost>6</manacost>
+        <Scare_Threshold>6</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -2484,7 +2484,7 @@
       <name>Snake &amp; Spider Stew</name>
       <text>-5 Cost if Oogie and Sandy are in Oogies Lair in your Halloweentown.</text>
       <prop>
-        <manacost>6</manacost>
+        <Scare_Threshold>6</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -2495,7 +2495,7 @@
       <name>Snow Fort</name>
       <text>BONUS: While the Snow Fort is Active, whenever you play an Elf here, each opponent must discard 1 Elf of his choice from his own Christmas Town.</text>
       <prop>
-        <manacost>4</manacost>
+        <Scare_Threshold>4</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2506,7 +2506,7 @@
       <name>Snowmobile</name>
       <text>Search 6, Jack OR Move Jack (and up to 3 other Characters at his Locale) to any one other Locale in your Halloweentown.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2517,7 +2517,7 @@
       <name>Someplace New</name>
       <text>Move 2 Cards OR Examine the top two cards of your Locale Deck, and then place one (or both) of those Locales at the bottom of your Locale Deck.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2528,7 +2528,7 @@
       <name>Something's up with Jack</name>
       <text>All players must immediately choose half of the cards in their hands (round up) and discard them. If Jack is in any players Halloweentown, those players also Draw 1 Card.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2539,7 +2539,7 @@
       <name>Soprano Ghost</name>
       <text>When the Soprano Ghost is played, if another Character at her Locale has the word Ghost in his or her name, Search Discard Pile, 1 Character</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -2550,7 +2550,7 @@
       <name>Sound of Rollin' Dice</name>
       <text>Choose a Character belonging to an opponent and discard the top card from that opponents deck. If the Scare Number on the discarded card is higher than the Characters Scare Number, discard the Character as well.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2561,7 +2561,7 @@
       <name>Sound the Alarms!</name>
       <text>Search 3, Mayor, Mummy Boy OR During an opponents turn, play this card to ignore a card that affects one of your Creations, Locales, or Surprises in play.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2572,7 +2572,7 @@
       <name>Spider Flake</name>
       <text>If your Jack is at his House when this Creation is played, Add 1p. This Creation does not count when determining if you have the most Creations. Making Christmas cannot lower the Cost of this Creation.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -2583,7 +2583,7 @@
       <name>Subordinate Claus</name>
       <text>Move an Elf from one of your Christmas Town Locales to an adjacent Christmas Town Locale, and then, if Santa Claus or Mrs. Claus are at the new Locale, Draw 2 Cards.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2594,7 +2594,7 @@
       <name>Suzy the Elf</name>
       <text>When Suzy is played, Draw 2 Cards if your hand is empty.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -2605,7 +2605,7 @@
       <name>Takeoff Ramp</name>
       <text>If the Mayor is in your Town Square, this Creation is -1 Cost for every other Character at his Locale (not including the Mayor himself). Minimum Cost to play Takeoff Ramp = 1.</text>
       <prop>
-        <manacost>5</manacost>
+        <Scare_Threshold>5</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -2616,7 +2616,7 @@
       <name>Tenor Ghost</name>
       <text>When the Tenor Ghost is played, if another Character at his Locale has the word Ghost in his or her name, Search Discard Pile, 1 Creation</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -2627,7 +2627,7 @@
       <name>That's our Job</name>
       <text>Search 5, The Corpse Family OR If Corpse Dad and Corpse Mom are at the same Locale in your Halloweentown, Search Discard Pile, 1 Card</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2638,7 +2638,7 @@
       <name>The Bakery</name>
       <text>BONUS: Whenever you perform a Search, add 1 to the number of cards being searched.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2649,7 +2649,7 @@
       <name>The Bass</name>
       <text>When you play The Bass, you may Search 6, The Players The Bass is not a Player.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -2660,7 +2660,7 @@
       <name>The best I can</name>
       <text>Search 6, Oogie OR Stack this card on your Oogie and, if Oogie is in his Lair, discard an opponents Character with a Scare Number of 1 or less.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2671,7 +2671,7 @@
       <name>The Courtyard</name>
       <text>FUNCTION: Draw 2 Cards and Add 3p</text>
       <prop>
-        <manacost>6</manacost>
+        <Scare_Threshold>6</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2682,7 +2682,7 @@
       <name>The Crypt</name>
       <text>FUNCTION: Draw 4 Cards</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2693,7 +2693,7 @@
       <name>The Dark Wood</name>
       <text>FUNCTION: Draw 3 Cards OR Add 3p OR Move 3 Cards</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2704,7 +2704,7 @@
       <name>The Fountain</name>
       <text>FUNCTION: Search 3, 1 Character and Add 3p</text>
       <prop>
-        <manacost>4</manacost>
+        <Scare_Threshold>4</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2715,7 +2715,7 @@
       <name>The Graveyard</name>
       <text>FUNCTION: Search Discard Pile, 1 Card</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2726,7 +2726,7 @@
       <name>The Hangar</name>
       <text>BONUS: Whenever you play a Character to an empty Locale, Draw 1 Card.</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2737,7 +2737,7 @@
       <name>The Laboratory</name>
       <text>FUNCTION: Search 5, 1 Creation and Add 3p</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2748,7 +2748,7 @@
       <name>The Mayor - Elected Official</name>
       <text>While the Mayor is in Town Square, you may spend 1 Movement to move any number of your adjacent Characters there.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -2759,7 +2759,7 @@
       <name>The Mayor - Excitable Politician</name>
       <text>During your turn, if the Mayor is at the Mayor-mobile, you may return him to your hand to Draw 2 Cards.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -2770,7 +2770,7 @@
       <name>The Mayor - Lugubrious Leader</name>
       <text>Whenever a Character in your Halloweentown (other than the Mayor himself) is discarded, Draw 1 Card.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -2781,7 +2781,7 @@
       <name>The Observatory</name>
       <text>FUNCTION: Draw 3 Cards and Move 1 Card</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2792,7 +2792,7 @@
       <name>The Rat</name>
       <text>During an opponents turn, you may discard The Rat from play to ignore a card that affects another Character at his Locale.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -2803,7 +2803,7 @@
       <name>The Tree House</name>
       <text>FUNCTION: Draw 3 Cards and Add 1p</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2814,7 +2814,7 @@
       <name>The Well</name>
       <text>FUNCTION: Move 6 Cards</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2825,7 +2825,7 @@
       <name>This is Halloween!</name>
       <text>All Characters are -1 Cost. All Creations are +1 Cost. (Minimum Cost per Character = 1) Place this card in the center of the table .No other copies can be played while this is on the table. Discard during the End Phase.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2836,7 +2836,7 @@
       <name>Three of a Kind</name>
       <text>Search 6, Lock, Shock, Barrel OR If Lock, Shock, and Barrel are at the same Locale in your Halloweentown, force one opponent with 4 or more cards in his hand to discard all but 3 cards of his choice.  Draw 1 Card for each card discarded by your opponent.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2847,7 +2847,7 @@
       <name>Throw me a bone</name>
       <text>Search 6, Igor OR If Finklestein and Igor are in your Halloweentown, Search Discard Pile, 1 Creation</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2858,7 +2858,7 @@
       <name>Timmy the Elf</name>
       <text>If Timmy is played to the Toy Factory, you may immediately Search 6, 1 Creation.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -2869,7 +2869,7 @@
       <name>Town Center</name>
       <text>BONUS: Whenever you perform a Function, Draw 1 Card.</text>
       <prop>
-        <manacost>4</manacost>
+        <Scare_Threshold>4</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2880,7 +2880,7 @@
       <name>Town Hall</name>
       <text>FUNCTION: Draw 1 Card and Add 3p</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2891,7 +2891,7 @@
       <name>Town Meeting!</name>
       <text>Move 1 of your Characters to your Town Hall or Town Square. OR If the Mayor is at your Mayor-mobile, move any number of your Characters to either your Town Hall or Town Square.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2902,7 +2902,7 @@
       <name>Town Square</name>
       <text>FUNCTION: Add 4p</text>
       <prop>
-        <manacost>4</manacost>
+        <Scare_Threshold>4</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2913,7 +2913,7 @@
       <name>Toy Factory</name>
       <text>BONUS: All of your Creations are -1 Cost. (Minimum Cost per Creation = 1)</text>
       <prop>
-        <manacost>6</manacost>
+        <Scare_Threshold>6</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2924,7 +2924,7 @@
       <name>Tree Circle</name>
       <text>FUNCTION: Draw 2 Cards and Add 2p</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -2935,7 +2935,7 @@
       <name>Trick or Treat!</name>
       <text>If Lock, Shock, and Barrel are in your Christmas Town, discard an opponents Christmas Town Gates. Regardless of whether or not you discarded Gates, you may then discard 1 Character in that opponents Christmas Town. Add 2p if the discarded Character is Santa.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2946,7 +2946,7 @@
       <name>Tub of Terror</name>
       <text>Search 4, Lock, Shock, Barrel OR If Lock, Shock, and Barrel are at the same Locale in your Halloweentown, move them to any one other Locale in your Halloweentown.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2957,7 +2957,7 @@
       <name>Twilight Sun</name>
       <text>Draw 2 Cards OR Return any players Vampire to its owners hand, and then Draw 3 Cards.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -2968,7 +2968,7 @@
       <name>Undead Duck</name>
       <text>When this Creation is played, Draw 1 Card for every Vampire in your Halloweentown.</text>
       <prop>
-        <manacost>4</manacost>
+        <Scare_Threshold>4</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -2979,7 +2979,7 @@
       <name>Undersea Gal</name>
       <text>During your turn, you may discard the Undersea Gal from play and then Search Discard Pile, 1 Card</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -2990,7 +2990,7 @@
       <name>Uninvited Guest</name>
       <text>Play this card instead of performing a Function at one of your Active Locales. Discard a number of cards from your hand equal to the number of Active Locales controlled by one opponent, and then perform a Function at one of that opponents Active Locales.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -3001,7 +3001,7 @@
       <name>Vampire Baron</name>
       <text>* Cost = 3, * Scare Number = Number of Vampires in your Halloweentown</text>
       <prop>
-        <manacost>*</manacost>
+        <Scare_Threshold>*</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -3012,7 +3012,7 @@
       <name>Vampire Count</name>
       <text>* Cost = 3, * Scare Number = Number of Vampires in your Halloweentown</text>
       <prop>
-        <manacost>*</manacost>
+        <Scare_Threshold>*</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -3023,7 +3023,7 @@
       <name>Vampire Lord</name>
       <text>* Cost = 3, * Scare Number = Number of Vampires in your Halloweentown</text>
       <prop>
-        <manacost>*</manacost>
+        <Scare_Threshold>*</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -3034,7 +3034,7 @@
       <name>Vampire Prince</name>
       <text>* Cost = 3, * Scare Number = Number of Vampires in your Halloweentown</text>
       <prop>
-        <manacost>*</manacost>
+        <Scare_Threshold>*</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -3045,7 +3045,7 @@
       <name>We Bagged Him!</name>
       <text>Stack this card on your Jumbo Treat Bag. Your Jumbo Treat Bag cannot be affected by an opponent, and cannot be discarded from play. This Surprise is -1 Cost for every Christmas Character in your Halloweentown.</text>
       <prop>
-        <manacost>6</manacost>
+        <Scare_Threshold>6</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -3056,7 +3056,7 @@
       <name>We Did It!</name>
       <text>Search 5, Behemoth, Clown OR If your Behemoth and Clown are at the same Locale, force one opponent to discard one of his own Halloween Characters from his hand or from play (opponents choice).</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -3067,7 +3067,7 @@
       <name>Weary Willy</name>
       <text>When Willy is played, you may immediately Move 3 of your Christmas Characters.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -3078,7 +3078,7 @@
       <name>We've got to find Jack!</name>
       <text>Move one of your Characters (except Sandy or Oogie) to any empty Locale in your Halloweentown. You may not play this Surprise if Jack is in your Halloweentown.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -3089,7 +3089,7 @@
       <name>What a Night!</name>
       <text>Search 3, Cyclops, Mr. Hyde OR If your Cyclops and Mr. Hyde are at the same Locale, discard them both from play, and then play a Character from your hand to the same Locale for free.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -3100,7 +3100,7 @@
       <name>What Have I Done?</name>
       <text>Search Discard Pile, 1 Character OR Stack this card on one of your Creations, and then, if an opponents Jack is in play, send that Jack to its owners hand.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -3111,7 +3111,7 @@
       <name>What's This?</name>
       <text>Every player may immediately Draw 1 Card for every Active Locale in his or her Christmas Town. Players with Jack in their Christmas Town may then Add 1p</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -3122,7 +3122,7 @@
       <name>Wheel of Torture</name>
       <text>If your Oogie in play has the Alias Gamblin Boogie Man, discard the top card from an opponents deck. Discard one of that opponents Characters from play if that Character has the same exact Scare Number as the card discarded.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -3133,7 +3133,7 @@
       <name>Where is he?</name>
       <text>Search 5, Jack, Mayor OR If an opponents Mayor is in play but not at the same Locale as Jack, return that Mayor to its owners hand.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -3144,7 +3144,7 @@
       <name>Winged Demon</name>
       <text>During your turn, you may discard 1 card from hand to move the Winged Demon to any other Locale in your Halloweentown.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -3155,7 +3155,7 @@
       <name>Witch Hazel</name>
       <text>Search 3, Big Witch, Little Witch OR If the Big Witch and Little Witch are at your Wtiches Nook, play 1 Character from your hand at half of his or her Cost (round down).</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -3166,7 +3166,7 @@
       <name>Witches' Nook</name>
       <text>FUNCTION: Search 6, Surprises</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
@@ -3177,7 +3177,7 @@
       <name>Without a Trace</name>
       <text>Search 6, Clown OR Discard your Clown from play, and then discard an opponents Character with a Scare Number of 2 from play.</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -3188,7 +3188,7 @@
       <name>Wolf Shadow</name>
       <text>During your turn, you may discard the Wolf Shadow from your Graveyard to discard an opponents Character who is alone at a Halloweentown Locale.</text>
       <prop>
-        <manacost>3</manacost>
+        <Scare_Threshold>3</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -3199,7 +3199,7 @@
       <name>Wolfman</name>
       <text>When the Wolfman is played, you may discard another Character at his Locale to Draw 2 Cards.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -3210,7 +3210,7 @@
       <name>Worm's Wart</name>
       <text>Search 3, Sally OR If your Sally is in her Room, discard Deadly Nightshade and Frogs Breath from your hand, and then Add 3p</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -3221,7 +3221,7 @@
       <name>Worthy Accomplice</name>
       <text>Search 5, Finklestein, Igor OR Stack this card on your Igor, and then remove a Character in your Discard Pile from the game. Add a number of Pumpkin Points equal to the removed Characters Scare Number (max of 3).</text>
       <prop>
-        <manacost>1</manacost>
+        <Scare_Threshold>1</Scare_Threshold>
         <maintype>Surprises</maintype>
         <type>Surprises</type>
       </prop>
@@ -3232,7 +3232,7 @@
       <name>Wreath of Wrath</name>
       <text>When this Creation is played, every player must discard 1 Character from his Halloweentown.</text>
       <prop>
-        <manacost>5</manacost>
+        <Scare_Threshold>5</Scare_Threshold>
         <maintype>Creations</maintype>
         <type>Creations</type>
       </prop>
@@ -3243,7 +3243,7 @@
       <name>Zero</name>
       <text>Whenever Jack leaves the same Locale as Zero, you may move Zero to Jacks new Locale for free.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -3254,7 +3254,7 @@
       <name>Zero - Pale Retriever</name>
       <text>While Jack and Zero are at the Dark Wood, whenever you fail a Main Deck Search using a Surprise, you may keep any one of the searched cards.</text>
       <prop>
-        <manacost>0</manacost>
+        <Scare_Threshold>0</Scare_Threshold>
         <maintype>Character</maintype>
         <type>Character</type>
       </prop>
@@ -3265,7 +3265,7 @@
       <name>Zero's Doghouse</name>
       <text>FUNCTION: Draw 2 Cards, Add 1p and Move 1 Card. If Zero is here, Zeros Doghouse is considered Active.</text>
       <prop>
-        <manacost>2</manacost>
+        <Scare_Threshold>2</Scare_Threshold>
         <maintype>Locale</maintype>
         <type>Locale</type>
       </prop>
