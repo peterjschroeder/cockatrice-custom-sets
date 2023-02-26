@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>King of the Pumpkin Patch</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Jack Skellington - The Pumpkin King"/>
+        <card number="3" name="Zero"/>
+        <card number="2" name="Sally - Shy Creature"/>
+        <card number="2" name="Accordion Player"/>
+        <card number="2" name="Bass Player"/>
+        <card number="2" name="Sax Player"/>
+        <card number="2" name="Corpse Dad"/>
+        <card number="2" name="Corpse Kid"/>
+        <card number="2" name="Corpse Mom"/>
+        <card number="1" name="Black Cat"/>
+        <card number="1" name="Decomposing Guy"/>
+        <card number="1" name="Igor"/>
+        <card number="1" name="Mummy Boy"/>
+        <card number="1" name="Mr. Hyde"/>
+        <card number="1" name="Mr. Hyde II"/>
+        <card number="1" name="Mr. Hyde III"/>
+        <card number="1" name="Christmas Tree Bats"/>
+        <card number="1" name="Eager Anaconda"/>
+        <card number="1" name="Fender Bender"/>
+        <card number="1" name="Marie Antoinette Doll"/>
+        <card number="1" name="Jingle Bells"/>
+        <card number="1" name="Road Kill"/>
+        <card number="1" name="Sandy Claws Outfit"/>
+        <card number="1" name="Scary Teddy"/>
+        <card number="1" name="Scorpion Surprise"/>
+        <card number="4" name="Fetch"/>
+        <card number="2" name="Deadly Nightshade"/>
+        <card number="2" name="Mellow Trio"/>
+        <card number="2" name="My Fantasies"/>
+        <card number="1" name="Halloweentown Gates"/>
+        <card number="1" name="Pull Yourself Together"/>
+        <card number="1" name="Pumpkin Patch"/>
+        <card number="1" name="The Crypt"/>
+        <card number="1" name="The Fountain"/>
+        <card number="1" name="Town Hall"/>
+        <card number="1" name="Pumpkin Points"/>
+        <card number="1" name="Pumpkin King"/>
+        <card number="2" name="Hello, Oogie"/>
+        <card number="1" name="Jack's House"/>
+        <card number="1" name="Look what you've done"/>
+        <card number="1" name="Sally's Room"/>
+    </zone>
+</cockatrice_deck>
