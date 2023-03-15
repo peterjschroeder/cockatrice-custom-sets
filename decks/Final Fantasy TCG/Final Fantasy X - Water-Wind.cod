@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Final Fantasy X: Water/Wind</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Evoker (1-068C)"/>
+        <card number="2" name="Sylph (1-074R)"/>
+        <card number="2" name="Devout (1-077C)"/>
+        <card number="2" name="Ninja (1-077C)"/>
+        <card number="2" name="Archer (1-087C)"/>
+        <card number="2" name="Evoker (1-159C)"/>
+        <card number="2" name="Knight (1-165C)"/>
+        <card number="2" name="Viking (1-167C)"/>
+        <card number="2" name="Geomancer (1-168C)"/>
+        <card number="2" name="Leviathan (1-178R)"/>
+        <card number="3" name="Brother (1-197S)"/>
+        <card number="3" name="Valefor (1-198S)"/>
+        <card number="3" name="Paine (1-199S)"/>
+        <card number="3" name="Baralai (1-200S)"/>
+        <card number="3" name="Rikku (1-201S)"/>
+        <card number="3" name="Shuyin (1-212S)"/>
+        <card number="3" name="Tidus (1-213S)"/>
+        <card number="3" name="Yuna (1-214S)"/>
+        <card number="3" name="Lenne (1-215S)"/>
+        <card number="3" name="Wakka (1-216S)"/>
+    </zone>
+</cockatrice_deck>
