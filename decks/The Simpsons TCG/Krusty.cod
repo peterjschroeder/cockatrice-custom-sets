@@ -3,27 +3,22 @@
     <deckname>Krusty</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="2" name="Kamp Krusty"/>
         <card number="1" name="Krusty"/>
-        <card number="2" name="Krusty Burger"/>
-        <card number="2" name="Krusty's Clown College"/>
-        <card number="2" name="Krustylu Studios"/>
+        <card number="3" name="Krusty's Clown College"/>
+        <card number="3" name="Krustylu Studios"/>
         <card number="3" name="Sideshow Bob Terwilliger"/>
         <card number="3" name="Sideshow Mel"/>
         <card number="3" name="Poochie"/>
         <card number="3" name="Itchy Scratchy"/>
-        <card number="2" name="The Itchy &amp; Scratchy Store"/>
+        <card number="3" name="The Itchy &amp; Scratchy Store"/>
         <card number="3" name="Mr. Teeny"/>
-        <card number="1" name="Back to Square One"/>
-        <card number="1" name="Everyone's a Winner"/>
-        <card number="1" name="Helping Hands"/>
-        <card number="1" name="Misalignment"/>
-        <card number="1" name="Share the Wealth"/>
         <card number="1" name="Smoke 'Em If You Got 'Em"/>
-        <card number="1" name="Star Power"/>
-        <card number="1" name="Trapped Like a Rat"/>
-        <card number="1" name="Wipe Out"/>
-        <card number="3" name="Squeaky-Voiced Teen"/>
-        <card number="2" name="Bumblebee Man"/>
+        <card number="3" name="Bumblebee Man"/>
+        <card number="2" name="Wipe Out"/>
+        <card number="2" name="Back to Square One"/>
+        <card number="2" name="Star Power"/>
+        <card number="2" name="Share the Wealth"/>
+        <card number="1" name="Springfield Isotopes Game"/>
+        <card number="2" name="Rainier Wolfcastle"/>
     </zone>
 </cockatrice_deck>

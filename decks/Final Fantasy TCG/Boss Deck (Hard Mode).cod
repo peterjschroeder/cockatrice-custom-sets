@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Boss</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Chaos (B-001)"/>
+        <card number="1" name="Garland (B-003)"/>
+        <card number="3" name="Zenos (B-004)"/>
+        <card number="2" name="Nael (B-005)"/>
+        <card number="3" name="Vayne (B-022)"/>
+        <card number="3" name="Orphan (B-006)"/>
+        <card number="3" name="Kuja (B-023)"/>
+        <card number="3" name="Sephiroth (7-034L)"/>
+        <card number="3" name="Shadow Lord (B-007)"/>
+        <card number="3" name="Golbez (B-008)"/>
+        <card number="3" name="Garland (B-009)"/>
+        <card number="3" name="Galdes (B-025)"/>
+        <card number="3" name="Cloud of Darkness (B-012)"/>
+        <card number="3" name="Summoner (1-040C)"/>
+        <card number="3" name="Bard (4-027C)"/>
+        <card number="3" name="The Emperor (B-013)"/>
+        <card number="3" name="Kefka (B-014)"/>
+        <card number="3" name="Seymour (B-015)"/>
+        <card number="3" name="Summoner (1-138C)"/>
+        <card number="3" name="Exdeath (B-026)"/>
+        <card number="3" name="Ultimecia (B-016)"/>
+        <card number="2" name="Ifrit (B-017)"/>
+        <card number="2" name="Zalera, the Death Seraph (B-027)"/>
+        <card number="2" name="Diabolos (B-018)"/>
+        <card number="2" name="Leviathan (B-020)"/>
+        <card number="2" name="Zodiark, Keeper of Precepts (B-021)"/>
+        <card number="3" name="Ardyn (B-024)"/>
+        <card number="3" name="Feral Chaos (B-010)"/>
+        <card number="2" name="Mist Dragon (9-068H)"/>
+        <card number="2" name="Odin (B-019)"/>
+        <card number="2" name="Sage (1-133C)"/>
+        <card number="2" name="Sin (B-011)"/>
+        <card number="1" name="Spiritus (B-002)"/>
+    </zone>
+</cockatrice_deck>
