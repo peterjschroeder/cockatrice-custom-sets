@@ -1,2 +1,2 @@
 # cockatrice-custom-sets
-Digimon TCG
+Custom sets for Cockatrice.
