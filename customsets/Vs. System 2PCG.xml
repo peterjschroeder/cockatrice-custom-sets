@@ -4,307 +4,307 @@
     <set>
       <name>MNB</name>
       <longname>The Marvel Battles</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2015</releasedate>
     </set>
     <set>
       <name>DEF</name>
       <longname>The Defenders</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2016-04</releasedate>
     </set>
     <set>
       <name>AFF</name>
       <longname>A-Force</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2016-05</releasedate>
     </set>
     <set>
       <name>ALN</name>
       <longname>The Alien Battles</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2016-06</releasedate>
     </set>
     <set>
       <name>LEG</name>
       <longname>Legacy</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2017-05-24</releasedate>
     </set>
     <set>
       <name>MMU</name>
       <longname>Monsters Unleashed</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2017</releasedate>
     </set>
     <set>
       <name>PRD</name>
       <longname>The Predator Battles</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2017-08</releasedate>
     </set>
     <set>
       <name>SVH</name>
       <longname>S.H.I.E.L.D. vs. Hydra</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2017-11-29</releasedate>
     </set>
     <set>
       <name>MFM</name>
       <longname>Deadpool &amp; Friends</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2018</releasedate>
     </set>
     <set>
       <name>BOM</name>
       <longname>Brotherhood of Mutants</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2018</releasedate>
     </set>
     <set>
       <name>NEW</name>
       <longname>New Mutants</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2018</releasedate>
     </set>
     <set>
       <name>MCU1</name>
       <longname>The MCU Battles</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2018</releasedate>
     </set>
     <set>
       <name>MCU2</name>
       <longname>MCU Heroes</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2018</releasedate>
     </set>
     <set>
       <name>MCU3</name>
       <longname>MCU Villains</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2018</releasedate>
     </set>
     <set>
       <name>SPF</name>
       <longname>Spider-Friends</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2018-08</releasedate>
     </set>
     <set>
       <name>SYN</name>
       <longname>Sinister Syndicate</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2018-09</releasedate>
     </set>
     <set>
       <name>DFX</name>
       <longname>The New Defenders</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2018-10</releasedate>
     </set>
     <set>
       <name>TBB</name>
       <longname>The Buffy Battles</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate/>
     </set>
     <set>
       <name>CV1</name>
       <longname>Crossover v1</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2018-12</releasedate>
     </set>
     <set>
       <name>COS</name>
       <longname>Cosmic Avengers</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2019-02-27</releasedate>
     </set>
     <set>
       <name>GAL</name>
       <longname>Galactic Guardians</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2019-03-13</releasedate>
     </set>
     <set>
       <name>BLK</name>
       <longname>Black Order</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2019-04</releasedate>
     </set>
     <set>
       <name>TUB</name>
       <longname>The Utopia Battles</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2019-05</releasedate>
     </set>
     <set>
       <name>RES</name>
       <longname>Resistance</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2019-06</releasedate>
     </set>
     <set>
       <name>HAM</name>
       <longname>H.A.M.M.E.R.</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2019-07</releasedate>
     </set>
     <set>
       <name>MCU4</name>
       <longname>Power &amp; Reality</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2019-08</releasedate>
     </set>
     <set>
       <name>MCU6</name>
       <longname>Space &amp; Time</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2019-09</releasedate>
     </set>
     <set>
       <name>MCU5</name>
       <longname>Mind &amp; Soul</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2019-10</releasedate>
     </set>
     <set>
       <name>XFB</name>
       <longname>The X-Files Battles</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2019-11</releasedate>
     </set>
     <set>
       <name>CV2</name>
       <longname>Crossover v2</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2019-12</releasedate>
     </set>
     <set>
       <name>MCU7</name>
       <longname>Friendly Neighborhood</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2020-03-25</releasedate>
     </set>
     <set>
       <name>SFO</name>
       <longname>Spidey Foes</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2020-03-18</releasedate>
     </set>
     <set>
       <name>WEB</name>
       <longname>Web-Heads</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2020-04-15</releasedate>
     </set>
     <set>
       <name>FAN</name>
       <longname>The Fantastic Battles</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2020-05-13</releasedate>
     </set>
     <set>
       <name>HER</name>
       <longname>The Herald</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2020-06-17</releasedate>
     </set>
     <set>
       <name>FRI</name>
       <longname>The Frightful</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2020-07-15</releasedate>
     </set>
     <set>
       <name>FUT</name>
       <longname>Futures Past</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2020-08</releasedate>
     </set>
     <set>
       <name>FRE</name>
       <longname>Freedom Force</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2020-09</releasedate>
     </set>
     <set>
       <name>OGA</name>
       <longname>Omegas</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2020-10</releasedate>
     </set>
     <set>
       <name>CV3</name>
       <longname>Crossover v3</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2020-12-16</releasedate>
     </set>
     <set>
       <name>MOE</name>
       <longname>Masters of Evil</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2021-03-24</releasedate>
     </set>
     <set>
       <name>MYS</name>
       <longname>Mystic Arts</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2021-03-31</releasedate>
     </set>
     <set>
       <name>DAR</name>
       <longname>Into the Darkness</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2021-04-14</releasedate>
     </set>
     <set>
       <name>CIV</name>
       <longname>Civil War Battles</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2021-05-16</releasedate>
     </set>
     <set>
       <name>SEC</name>
       <longname>Secret Avengers</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2021-06-30</releasedate>
     </set>
     <set>
       <name>THU</name>
       <longname>Thunderbolts</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2021-07-14</releasedate>
     </set>
     <set>
       <name>LET</name>
       <longname>Lethal Protector</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2021-10-27</releasedate>
     </set>
     <set>
       <name>CAR</name>
       <longname>Maximum Carnage</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2021-11-17</releasedate>
     </set>
     <set>
       <name>VER</name>
       <longname>Spider-Verse</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2021-11-24</releasedate>
     </set>
     <set>
       <name>CV4</name>
       <longname>Crossover v4</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2022</releasedate>
     </set>
     <set>
       <name>WDV</name>
       <longname>Wandavision</longname>
-      <settype>Custom</settype>
+      <settype>Vs. System 2PCG</settype>
       <releasedate>2022-11-02</releasedate>
     </set>
   </sets>
