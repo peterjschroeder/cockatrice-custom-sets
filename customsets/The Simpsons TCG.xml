@@ -1136,7 +1136,7 @@ Except for Kid Characters, all Characters are discarded from play.</text>
     </card>
     <card>
       <name>Krusty's Clown College</name>
-      <text>When this Scene is played. move all Oddball Characters on other Scenes to this one.</text>
+      <text>When this Scene is played, move all Oddball Characters on other Scenes to this one.</text>
       <prop>
         <maintype>Scene</maintype>
         <type>Scene - Fat - Idiot - Oddball</type>
@@ -1398,7 +1398,7 @@ All Scenes and Characters are discarded from play.</text>
       <name>Lurleen Lumpkin</name>
       <prop>
         <maintype>Character</maintype>
-        <type>Character - Uptight - Upstanging - Celebrity - Flirt</type>
+        <type>Character - Uptight - Upstanding - Celebrity - Flirt</type>
       </prop>
       <set rarity="rare" num="44" picurl="http://karcianki.pl/pics/games/smp/smp/lurleenlumpkin.jpg">The Simpsons</set>
       <tablerow>0</tablerow>
@@ -1536,7 +1536,7 @@ Choose a Scene. Characters can't be played on that Scene this turn.</text>
     <card>
       <name>Losers Pay</name>
       <text>Use at the start of another player's turn.
- Choose a trait. Characters with that trait can't be played this turn.</text>
+Choose a trait. Characters with that trait can't be played this turn.</text>
       <prop>
         <maintype>Action</maintype>
         <type>Action - Bart</type>
@@ -1577,7 +1577,7 @@ That Scene can't be completed this turn (and the Characters on it stay there).</
       <tablerow>3</tablerow>
     </card>
     <card>
-      <name>Kang Kodos</name>
+      <name>Kang &amp; Kodos</name>
       <prop>
         <maintype>Character</maintype>
         <type>Character - Alien - Oddball - Duo</type>
