@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Dr. Britt Baker D.M.D.</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="HOOK (AEW-042)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Nyla Rose (AEW-043)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Matt Hardy (AEW-044)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Andrade El Idolo (AEW-045)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="4" name="Ethan Page (AEW-046)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="2" name="Ricky Starks (AEW-047)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Matt Jackson (AEW-048)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Nick Jackson (AEW-049)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="2" name="Scorpio Sky (AEW-050)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="2" name="Lance Archer (AEW-051)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="2" name="Miro (AEW-052)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="1" name="Wardlow (AEW-053)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Kenny Omega (AEW-054)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="1" name="AEW World Championship Belt (AEW-063)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="1" name="Table (AEW-064)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Dark (AEW-055)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Heat (AEW-056)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Rampage (AEW-057)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="4" name="Left Tunnel (AEW-058)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Revolution (AEW-067)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="All Out (AEW-068)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Double Or Nothing (AEW-070)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="1" name="Dr. Britt Baker, D.M.D. (AEW-034)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="1" name="Dr. Britt Baker, D.M.D. (AEW-035)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Full Gear (AEW-068)" setShortName="" collectorNumber="" uuid=""/>
+    </zone>
+</cockatrice_deck>

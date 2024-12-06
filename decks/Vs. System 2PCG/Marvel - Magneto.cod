@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Magneto</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Magneto (HOX-003)" collectorNumber="" uuid=""/>
+        <card number="1" name="Magneto (HOX-004)" collectorNumber="" uuid=""/>
+        <card number="3" name="Toad (HOX-012)" collectorNumber="" uuid=""/>
+        <card number="3" name="Pyro (HOX-013)" collectorNumber="" uuid=""/>
+        <card number="3" name="Quicksilver (HOX-014)" collectorNumber="" uuid=""/>
+        <card number="3" name="Daken (HOX-015)" collectorNumber="" uuid=""/>
+        <card number="3" name="Sabretooth (HOX-016)" collectorNumber="" uuid=""/>
+        <card number="2" name="Mimic (HOX-017)" collectorNumber="" uuid=""/>
+        <card number="3" name="Scarlet Witch (HOX-018)" collectorNumber="" uuid=""/>
+        <card number="2" name="Avalanche (HOX-019)" collectorNumber="" uuid=""/>
+        <card number="3" name="Juggernaut (HOX-020)" collectorNumber="" uuid=""/>
+        <card number="2" name="Mystique (HOX-021)" collectorNumber="" uuid=""/>
+        <card number="2" name="Silver Samurai (HOX-022)" collectorNumber="" uuid=""/>
+        <card number="3" name="Alpha (HOX-023)" collectorNumber="" uuid=""/>
+        <card number="3" name="Always Attack (HOX-025)" collectorNumber="" uuid=""/>
+        <card number="3" name="Fierce Pierce (HOX-026)" collectorNumber="" uuid=""/>
+        <card number="3" name="Burn It Down (HOX-027)" collectorNumber="" uuid=""/>
+        <card number="3" name="Academy (HOX-061)" collectorNumber="" uuid=""/>
+        <card number="4" name="Asteroid M (HOX-028)" collectorNumber="" uuid=""/>
+        <card number="3" name="Fortress (HOX-062)" collectorNumber="" uuid=""/>
+        <card number="3" name="Laboratory (HOX-063)" collectorNumber="" uuid=""/>
+        <card number="3" name="Training Ground (HOX-064)" collectorNumber="" uuid=""/>
+        <card number="3" name="Blob (HOX-011)" collectorNumber="" uuid=""/>
+    </zone>
+</cockatrice_deck>

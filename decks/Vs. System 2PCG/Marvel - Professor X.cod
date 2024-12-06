@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Professor X</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Bishop (HOX-039)" collectorNumber="" uuid=""/>
+        <card number="3" name="Jubilee (HOX-040)" collectorNumber="" uuid=""/>
+        <card number="3" name="Blink (HOX-041)" collectorNumber="" uuid=""/>
+        <card number="3" name="Iceman (HOX-042)" collectorNumber="" uuid=""/>
+        <card number="2" name="Havok (HOX-043)" collectorNumber="" uuid=""/>
+        <card number="1" name="Multiple Man (HOX-044)" collectorNumber="" uuid=""/>
+        <card number="1" name="Multiple Man (HOX-045)" collectorNumber="" uuid=""/>
+        <card number="1" name="Multiple Man (HOX-046)" collectorNumber="" uuid=""/>
+        <card number="1" name="Multiple Man (HOX-047)" collectorNumber="" uuid=""/>
+        <card number="3" name="Banshee (HOX-048)" collectorNumber="" uuid=""/>
+        <card number="2" name="Polaris (HOX-049)" collectorNumber="" uuid=""/>
+        <card number="4" name="Sage (HOX-050)" collectorNumber="" uuid=""/>
+        <card number="2" name="Cyclops (HOX-052)" collectorNumber="" uuid=""/>
+        <card number="2" name="Sunfire (HOX-053)" collectorNumber="" uuid=""/>
+        <card number="2" name="Doop (HOX-054)" collectorNumber="" uuid=""/>
+        <card number="2" name="Rogue (HOX-055)" collectorNumber="" uuid=""/>
+        <card number="3" name="Build It Up (HOX-056)" collectorNumber="" uuid=""/>
+        <card number="3" name="This and That (HOX-057)" collectorNumber="" uuid=""/>
+        <card number="3" name="Defend the Weak (HOX-058)" collectorNumber="" uuid=""/>
+        <card number="4" name="School for Gifted Youngsters (HOX-059)" collectorNumber="" uuid=""/>
+        <card number="3" name="Academy (HOX-061)" collectorNumber="" uuid=""/>
+        <card number="3" name="Fortress (HOX-062)" collectorNumber="" uuid=""/>
+        <card number="3" name="Laboratory (HOX-063)" collectorNumber="" uuid=""/>
+        <card number="3" name="Training Ground (HOX-064)" collectorNumber="" uuid=""/>
+        <card number="1" name="Professor X (HOX-035)" collectorNumber="" uuid=""/>
+        <card number="1" name="Professor X (HOX-036)" collectorNumber="" uuid=""/>
+    </zone>
+</cockatrice_deck>

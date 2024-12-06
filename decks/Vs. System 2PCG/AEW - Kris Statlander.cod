@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Kris Statlander</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Kris Statlander (AEW-009)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="1" name="Kris Statlander (AEW-010)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="2" name="Sting (AEW-013)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Hikaru Shida (AEW-014)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="4" name="Luchasaurus (AEW-015)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="2" name="Danhausesn (AEW-016)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="4" name="Penta El Zero Miedo (AEW-017)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="2" name="Claudio Castagnoli (AEW-018)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="2" name="Eddie Kingston (AEW-019)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Jungle Boy (AEW-020)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="2" name="Sammy Guevara (AEW-021)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Rey Fenix (AEW-022)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="2" name="Orange Cassidy (AEW-024)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="1" name="Samoa Joe (AEW-023)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Keith Lee (AEW-025)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="1" name="Chair (AEW-065)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Dynamite (AEW-026)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Elevation (AEW-027)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Pop (AEW-028)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="4" name="Right Tunnel (AEW-029)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Revolution (AEW-067)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="All Out (AEW-068)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Double Or Nothing (AEW-070)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="1" name="Baseball Bat (AEW-066)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Full Gear (AEW-068)" setShortName="" collectorNumber="" uuid=""/>
+    </zone>
+</cockatrice_deck>
