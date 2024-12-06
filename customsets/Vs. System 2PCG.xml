@@ -30851,8 +30851,8 @@ While in melee combat, Ayo strikes before characters without Ferocious.
 Wakanda Forever!
 When Ayo is KO'd, reveal the top five cards of your deck.  Put a Black Panther character or a Wakanda Forever! character other than Ayo from among them into your hand and shuffle the rest of the revealed cards into your deck.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Heroes</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Heroes</type>
         <manacost>1</manacost>
         <loyalty>1</loyalty>
         <pt>3/2</pt>
@@ -30864,8 +30864,8 @@ When Ayo is KO'd, reveal the top five cards of your deck.  Put a Black Panther c
       <text>You're Very, Very Valuable
 When you recruit a character, it appears with two +1/+1 counters.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Villains</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Villains</type>
         <manacost>2</manacost>
         <loyalty>1</loyalty>
         <pt>0/6</pt>
@@ -30879,8 +30879,8 @@ You pay 1 less to recruit Sharon Carter for each Madripoor location on your side
 Judge, Jury, and Executioner
 Main[Intellect]: Put -1/-1 counters on each enemy character equal to the number of Madripoor locations on your side.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Villains</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Villains</type>
         <manacost>4</manacost>
         <colors>I</colors>
         <loyalty>1</loyalty>
@@ -30897,8 +30897,8 @@ At the start of your Build Phase, gain two recruit points.
 Master Tactician
 You can discard any card to power up Zemo.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Villains</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Villains</type>
         <manacost>4</manacost>
         <loyalty>1</loyalty>
         <pt>3/3</pt>
@@ -30913,8 +30913,8 @@ Karli has Combat Master, Regeneration, and Tough.
 Flag Smasher
 Supporting characters on your side with a cost of 3 or less have +3/+3.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Villains</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Villains</type>
         <manacost>4</manacost>
         <loyalty>2</loyalty>
         <pt>4/4</pt>
@@ -30929,8 +30929,8 @@ John Walker has Combat Master, Regeneration, and Tough.
 U.S. Agents
 John Walker can't be struck while attacking an unwounded character.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Villains</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Villains</type>
         <manacost>5</manacost>
         <loyalty>2</loyalty>
         <pt>6/4</pt>
@@ -30947,8 +30947,8 @@ Bucky has Lethal while team attacking.  (If he wounds a defending supporting cha
 Rule Number Three: Make Amends
 When Bucky KOs an enemy defender, draw a card for each attacker in the combat.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Heroes</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Heroes</type>
         <manacost>6</manacost>
         <loyalty>2</loyalty>
         <pt>5/9</pt>
@@ -30962,8 +30962,8 @@ When Bucky KOs an enemy defender, draw a card for each attacker in the combat.</
 A New Legacy
 *Captain America* has Air Superiority and Bulletproof.  (Characters with [Flight] or [Range] can't strike him.)</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Heroes</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Heroes</type>
         <manacost>7</manacost>
         <loyalty>1</loyalty>
         <pt>9/6</pt>
@@ -31004,8 +31004,8 @@ Equipped character has Super Soldier Serum (Combat Master, Regeneration, and Tou
       <text>You can only play this is a character on your side has ""Captain America"" it its name.
 Build or Main or [AnyTurn] Combat: Generate a power symbol for a face-up character on your side.  That character then uses a super power.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - MCU Heroes</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - MCU Heroes</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/FWS-021.jpg">FWS</set>
     </card>
@@ -31192,8 +31192,8 @@ You may pay 1 less or 1 more recruit point to recruit Mobius. If you do, he appe
 You're Predictable
 When Mobius appears, choose an enemy character and it's front or back row. Until Mobius leaves play, at the end of that character's Formation Step, it must be in that row, if able.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Heroes</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Heroes</type>
         <manacost>2</manacost>
         <loyalty>1</loyalty>
         <pt>3/3</pt>
@@ -31211,8 +31211,8 @@ Build[Intellect]:Check the time and based on how many minutes past the hour it i
 31-45: Plot Twist
 46-00: Supporting Character</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Villains</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Villains</type>
         <manacost>3</manacost>
         <colors>I</colors>
         <loyalty>1</loyalty>
@@ -31229,8 +31229,8 @@ Main[Intellect]: Choose an enemy player. That player chooses a supporting charac
 'Innocent!': Put that character into its owner's hand.
 'Guilty!': Stun that character.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Villains</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Villains</type>
         <manacost>4</manacost>
         <colors>I</colors>
         <loyalty>1</loyalty>
@@ -31243,8 +31243,8 @@ Main[Intellect]: Choose an enemy player. That player chooses a supporting charac
       <text>Glorius Purpose
 Main[Energy]: Search your deck for a special location and put it onto your side. Then wound Classic Loki.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Heroes</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Heroes</type>
         <manacost>5</manacost>
         <colors>E</colors>
         <loyalty>2</loyalty>
@@ -31264,8 +31264,8 @@ When he appears, you may have a player discard their hand, then draw that many c
 7: Genius
 At the start of your turn, draw a card.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Heroes</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Heroes</type>
         <manacost>6</manacost>
         <loyalty>2</loyalty>
         <pt>7/7</pt>
@@ -31282,8 +31282,8 @@ Main[Might]: Put three +1/+1 counters on another character on your side.
 Main[Skill]: Sylvie uses a Main super power with 1 power symbol cost on another supporting character for free.
 Sylvie can use this power up to four times on your turn, choosing each part only once.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Heroes</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Heroes</type>
         <manacost>6</manacost>
         <colors>I</colors>
         <loyalty>2</loyalty>
@@ -31299,8 +31299,8 @@ Sylvie can use this power up to four times on your turn, choosing each part only
 Omni-Absorption
 Build[Energy][Intellect][Might][Skill]: Remove each resource from the game.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Neutral</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Neutral</type>
         <manacost>9</manacost>
         <colors>I</colors>
         <loyalty>3</loyalty>
@@ -31316,8 +31316,8 @@ You may pay up to 7 less or 7 more recruit points to recruit He Who Remains. If 
 Maintain the Sacred Timeline
 At the end of your turn, you may choose a location. Turn each other location with that name on all sides face down.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Villains</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Villains</type>
         <manacost>8</manacost>
         <loyalty>1</loyalty>
         <pt>8/8</pt>
@@ -31391,8 +31391,8 @@ Other Illustrated Universe cards
 [MARVEL] Photographic Universe cards
 Other Photographic Universe cards</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - MCU Villains</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - MCU Villains</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/LKI-023.jpg">LKI</set>
     </card>
@@ -31400,8 +31400,8 @@ Other Photographic Universe cards</text>
       <name>Nexus Event (LKI-024)</name>
       <text>[Any Combat]Combat: Resolve the combat.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - MARVEL</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - MARVEL</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/LKI-024.jpg">LKI</set>
     </card>
@@ -31585,8 +31585,8 @@ Blob can't be moved on enemy turns.
 Pain Immunity
 Main [Strength]: Blob can't be wounded until your next turn.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>1</manacost>
         <loyalty>2</loyalty>
         <pt>1/3</pt>
@@ -31600,8 +31600,8 @@ Toad has [Flight] on your turn.
 Grab
 While in the front row, enemy characters can't fly over Toad.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>1</manacost>
         <loyalty>1</loyalty>
         <pt>3/3</pt>
@@ -31613,8 +31613,8 @@ While in the front row, enemy characters can't fly over Toad.</text>
       <text>Mister Burns
 Main [Energy]: Burn an enemy front row supporting character. (Stun it at the end of each of your turns.)</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>2</manacost>
         <colors>E</colors>
         <loyalty>1</loyalty>
@@ -31628,8 +31628,8 @@ Main [Energy]: Burn an enemy front row supporting character. (Stun it at the end
       <text>Out of Nowhere
 When you recruit Quicksilver, you may remove him from the game. If you do, starting on your next turn, during any of your Recruit Steps, you may put him onto your side.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>2</manacost>
         <loyalty>1</loyalty>
         <pt>5/2</pt>
@@ -31643,8 +31643,8 @@ When Daken attacks, put a +1/+1 counter on him.
 Violent
 While attacking a supporting character, Daken strikes with double his ATK.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>3</manacost>
         <loyalty>2</loyalty>
         <pt>3/3</pt>
@@ -31656,8 +31656,8 @@ While attacking a supporting character, Daken strikes with double his ATK.</text
       <text>Superhuman Senses
 Main [Skill]: Sabretooth has +4/+0 and Stealth this turn. (He can melee attack protected characters.)</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>3</manacost>
         <colors>S</colors>
         <loyalty>2</loyalty>
@@ -31675,8 +31675,8 @@ Cyclops: [Range] and Fast Trigger this turn.
 Iceman: Freeze an enemy character.
 Marvel Girl: Choose a character on your side to get +0/+10 this turn.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>4</manacost>
         <colors>I</colors>
         <loyalty>1</loyalty>
@@ -31689,8 +31689,8 @@ Marvel Girl: Choose a character on your side to get +0/+10 this turn.</text>
       <text>Change Probability
 As a combat with Scarlet Witch resolves, flip a coin for each enemy character who would strike. For each one who loses the flip, they can't strike this combat.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>4</manacost>
         <loyalty>1</loyalty>
         <pt>7/4</pt>
@@ -31703,8 +31703,8 @@ As a combat with Scarlet Witch resolves, flip a coin for each enemy character wh
       <text>Seismic Shift
 When Avalanche stuns an enemy character in combat, you may turn an enemy location face down.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>5</manacost>
         <loyalty>1</loyalty>
         <pt>6/7</pt>
@@ -31717,8 +31717,8 @@ When Avalanche stuns an enemy character in combat, you may turn an enemy locatio
       <text>Headbutt
 Main [Might]: Daze an enemy front row character Juggernaut could melee attack.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>5</manacost>
         <colors>M</colors>
         <loyalty>3</loyalty>
@@ -31731,8 +31731,8 @@ Main [Might]: Daze an enemy front row character Juggernaut could melee attack.</
       <text>Infiltrator
 Main [Skill]: Name a team. Mystique can attack enemy characters with that team this turn, even while they're protected.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>6</manacost>
         <colors>S</colors>
         <loyalty>1</loyalty>
@@ -31748,8 +31748,8 @@ When Silver Samurai appears, you may move an enemy character to its front or bac
 Combat Master
 While Silver Samurai is in combat, enemy players can't play plot twists.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>6</manacost>
         <loyalty>2</loyalty>
         <pt>8/7</pt>
@@ -31761,8 +31761,8 @@ While Silver Samurai is in combat, enemy players can't play plot twists.</text>
       <text>Superintelligence
 Main [Intellect]: Each enemy player has two less recruit points on their next turn.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>7</manacost>
         <colors>I</colors>
         <loyalty>1</loyalty>
@@ -31776,8 +31776,8 @@ Main [Intellect]: Each enemy player has two less recruit points on their next tu
       <text>Meddle With Metal
 Main [Energy]: Rearrange any number of equipment.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>7</manacost>
         <colors>E</colors>
         <loyalty>2</loyalty>
@@ -31790,8 +31790,8 @@ Main [Energy]: Rearrange any number of equipment.</text>
       <name>Always Attack (HOX-025)</name>
       <text>[AnyTurn] Combat: Choose a character on your side in the combat to get +3/+1 this combat.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Brotherhood of Mutants</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Brotherhood of Mutants</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/HOX-025.jpg">HOX</set>
     </card>
@@ -31799,8 +31799,8 @@ Main [Energy]: Rearrange any number of equipment.</text>
       <name>Fierce Pierce (HOX-026)</name>
       <text>[AnyTurn] Combat: If this is a melee combat, choose a character on your side in the combat to get Ferocious and +2/+0 this combat.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Brotherhood of Mutants</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Brotherhood of Mutants</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/HOX-026.jpg">HOX</set>
     </card>
@@ -31810,8 +31810,8 @@ Main [Energy]: Rearrange any number of equipment.</text>
 Put this in your deck only if each card with a team and each character in your deck is [Brotherhood of Mutants] and/or [Xmen].
 Build: Turn up to two enemy basic locations with different names face down.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Brotherhood of Mutants</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Brotherhood of Mutants</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/HOX-027.jpg">HOX</set>
     </card>
@@ -32003,8 +32003,8 @@ Thunderstorm: At the start of each enemy player's Build Phase, put one -1/-1 cou
       <text>Bundle of Energy
 When Bishop appears, put a +1/+1 counter on him for each [Energy] location on every side.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>1</manacost>
         <colors>E</colors>
         <loyalty>1</loyalty>
@@ -32018,8 +32018,8 @@ When Bishop appears, put a +1/+1 counter on him for each [Energy] location on ev
       <text>Fireworks
 Enemy characters have -1/-0 while in combat with Jubilee.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>1</manacost>
         <loyalty>1</loyalty>
         <pt>3/2</pt>
@@ -32032,8 +32032,8 @@ Enemy characters have -1/-0 while in combat with Jubilee.</text>
       <text>Displacement Field
 [AnyTurn] Combat [Skill]: As this combat resolves, each enemy character strikes itself instead of a character on your side.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>2</manacost>
         <colors>S</colors>
         <loyalty>1</loyalty>
@@ -32046,8 +32046,8 @@ Enemy characters have -1/-0 while in combat with Jubilee.</text>
       <text>Ice Breaker
 Main [Energy]: Freeze an enemy location. (Exhaust it and it can't ready on its next turn. Exhausted resources don't provide recruit points.)</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>2</manacost>
         <colors>E</colors>
         <loyalty>2</loyalty>
@@ -32061,8 +32061,8 @@ Main [Energy]: Freeze an enemy location. (Exhaust it and it can't ready on its n
       <text>Energy Conversion
 When a character on your side uses a super power, put a +1/+1 counter on it. When an enemy character uses a super power, put a -1/-1 counter on it.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>3</manacost>
         <colors>E</colors>
         <loyalty>1</loyalty>
@@ -32077,8 +32077,8 @@ When a character on your side uses a super power, put a +1/+1 counter on it. Whe
 Duper Power
 At the start of your Main Phase, you may search your deck for a character named Multiple Man and put him onto your side.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>3</manacost>
         <loyalty>2</loyalty>
         <pt>2/2</pt>
@@ -32093,8 +32093,8 @@ At the start of your Main Phase, you may search your deck for a character named 
 Genius
 At the start of your turn, draw a card.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>3</manacost>
         <loyalty>1</loyalty>
         <pt>2/2</pt>
@@ -32109,8 +32109,8 @@ At the start of your Main Phase, you may search your deck for a character named 
 Martial Artist
 Multiple Man has +2/+2 in melee combat.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>3</manacost>
         <loyalty>1</loyalty>
         <pt>2/2</pt>
@@ -32125,8 +32125,8 @@ At the start of your Main Phase, you may search your deck for a character named 
 Quick Draw
 While Multiple Man is ranged attacking, enemy characters can't strike him.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>3</manacost>
         <loyalty>1</loyalty>
         <pt>2/2</pt>
@@ -32139,8 +32139,8 @@ While Multiple Man is ranged attacking, enemy characters can't strike him.</text
       <text>Night Night
 When Banshee appears, you may daze an enemy character.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>4</manacost>
         <loyalty>1</loyalty>
         <pt>6/5</pt>
@@ -32153,8 +32153,8 @@ When Banshee appears, you may daze an enemy character.</text>
       <text>Manipulate Magnetic Field
 Build [Might]: Reveal cards from the top of your deck until you reveal an equipment and put it into your hand. Remove the rest of the cards from the game.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>4</manacost>
         <colors>M</colors>
         <loyalty>1</loyalty>
@@ -32168,8 +32168,8 @@ Build [Might]: Reveal cards from the top of your deck until you reveal an equipm
       <text>Human Supercomputer
 When Sage attacks, she gains ATK this combat until her ATK is equal to the defender's DEF.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>5</manacost>
         <loyalty>2</loyalty>
         <pt>0/10</pt>
@@ -32182,8 +32182,8 @@ When Sage attacks, she gains ATK this combat until her ATK is equal to the defen
       <text>Welcome Home
 Build [Intellect]: Look at an enemy player's hand. You may choose a supporting character there and recruit it.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>5</manacost>
         <colors>I</colors>
         <loyalty>1</loyalty>
@@ -32197,8 +32197,8 @@ Build [Intellect]: Look at an enemy player's hand. You may choose a supporting c
       <text>Fast Trigger
 While in ranged combat, Cyclops strikes before characters without Fast Trigger.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>6</manacost>
         <loyalty>1</loyalty>
         <pt>11/5</pt>
@@ -32211,8 +32211,8 @@ While in ranged combat, Cyclops strikes before characters without Fast Trigger.<
       <text>Solar Fire
 Sunfire has +3/+3 for each [Energy] location on every side.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>6</manacost>
         <colors>E</colors>
         <loyalty>2</loyalty>
@@ -32229,8 +32229,8 @@ Resident of Marginalia
 Main [Energy] [Intellect] [Skill]: If Doop is watching the game, choose a phase for the next enemy player to skip -
 Draw, Recovery, Build, or Main.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>7</manacost>
         <colors>I</colors>
         <loyalty>1</loyalty>
@@ -32246,8 +32246,8 @@ When Rogue gets attacked, put a +1/+1 counter on her.
 Wonderful Strength
 [AnyTurn] Combat [Might]: Double the +1/+1 counters on Rogue. She can use this power any number of times each turn.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>7</manacost>
         <colors>M</colors>
         <loyalty>2</loyalty>
@@ -32262,8 +32262,8 @@ Wonderful Strength
 Put this in your deck only if each card with a team and each character in your deck is [Brotherhood of Mutants] and/or [Xmen].
 Build: Turn up to two face-down basic locations with different names on your side face up.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Xmen</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Xmen</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/HOX-056.jpg">HOX</set>
     </card>
@@ -32271,8 +32271,8 @@ Build: Turn up to two face-down basic locations with different names on your sid
       <name>This and That (HOX-057)</name>
       <text>[AnyTurn] Combat: Put a +1/+1 counter on a character on your side in the combat and a -1/-1 counter on an enemy character in the combat.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Xmen</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Xmen</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/HOX-057.jpg">HOX</set>
     </card>
@@ -32280,8 +32280,8 @@ Build: Turn up to two face-down basic locations with different names on your sid
       <name>Defend the Weak (HOX-058)</name>
       <text>[AnyTurn] Combat: Choose a character on your side in the combat to get +1/+3 this combat.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Xmen</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Xmen</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/HOX-058.jpg">HOX</set>
     </card>
@@ -32301,8 +32301,8 @@ Build: Turn up to two face-down basic locations with different names on your sid
 Put this in your deck only if each card with a team and each character in your deck is [Brotherhood of Mutants] and/or [Xmen].
 Build: Choose a character on your side. They randomly get one of the following powers they don't already have for the rest of the game: [Flight], [Range], Berserker, Dodge, Ferocious, or Lethal.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Brotherhood of Mutants,Xmen</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Brotherhood of Mutants,Xmen</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/HOX-060.jpg">HOX</set>
     </card>
@@ -32453,8 +32453,8 @@ Main[Might]: Disperse an enemy supporting character.  (It loses powers, then rem
       <text>Hypnotism
 Main[Intellect]: Each enemy character has Lumbering on their next turn.  (As it attacks, the defending player chooses the defender.)</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>1</manacost>
         <colors>I</colors>
         <loyalty>1</loyalty>
@@ -32468,8 +32468,8 @@ Main[Intellect]: Each enemy character has Lumbering on their next turn.  (As it 
       <text>Teleportation
 Main[Skill]: Hide Vanisher</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>1</manacost>
         <colors>S</colors>
         <loyalty>1</loyalty>
@@ -32485,8 +32485,8 @@ When Blindspot appears, put a random card from your KO pile into your hand.
 Wealthy
 At the start of your Build Phase, gain a recruit point.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>2</manacost>
         <loyalty>1</loyalty>
         <pt>1/1</pt>
@@ -32500,8 +32500,8 @@ You may only have one of this card in your deck.
 Twelve Volumes of Predictions
 When Destiny appears, name an equipment, then reveal the top twelve cards of your deck.  Put one equipment with that name into your hand, then shuffle the rest of the cards back into your deck</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>2</manacost>
         <loyalty>1</loyalty>
         <pt>2/2</pt>
@@ -32515,8 +32515,8 @@ You may only have one of this card in your deck.
 Twelve Volumes of Predictions
 When Destiny appears, name a location, then reveal the top twelve cards of your deck.  Put one location with that name into your hand, then shuffle the rest of the cards back into your deck</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>2</manacost>
         <loyalty>1</loyalty>
         <pt>2/2</pt>
@@ -32530,8 +32530,8 @@ You may only have one of this card in your deck.
 Twelve Volumes of Predictions
 When Destiny appears, name a plot twist, then reveal the top twelve cards of your deck.  Put one plot twist with that name into your hand, then shuffle the rest of the cards back into your deck</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>2</manacost>
         <loyalty>1</loyalty>
         <pt>2/2</pt>
@@ -32545,8 +32545,8 @@ You may only have one of this card in your deck.
 Twelve Volumes of Predictions
 When Destiny appears, name a supporting character, then reveal the top twelve cards of your deck.  Put one supporting character with that name into your hand, then shuffle the rest of the cards back into your deck</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>2</manacost>
         <loyalty>1</loyalty>
         <pt>2/2</pt>
@@ -32558,8 +32558,8 @@ When Destiny appears, name a supporting character, then reveal the top twelve ca
       <text>Siren Song
 Enemy characters with "man" in their name can't attack.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>3</manacost>
         <loyalty>1</loyalty>
         <pt>3/5</pt>
@@ -32572,8 +32572,8 @@ Enemy characters with "man" in their name can't attack.</text>
       <text>Steal Life
 When Sauron appears, put a +1/+1 counter on him for each enemy character.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>3</manacost>
         <loyalty>1</loyalty>
         <pt>4/1</pt>
@@ -32586,8 +32586,8 @@ When Sauron appears, put a +1/+1 counter on him for each enemy character.</text>
       <text>Reveal Illusion
 Build[Energy]: KO another supporting character on your side.  Then put a [Brotherhood of Mutants] or [Xmen] supporting character with cost less than or equal to the number of resources on your side from your hand onto your side.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>4</manacost>
         <colors>E</colors>
         <loyalty>1</loyalty>
@@ -32601,8 +32601,8 @@ Build[Energy]: KO another supporting character on your side.  Then put a [Brothe
       <text>You Repulse Me!
 [AnyTurn]Combat[Might]: Unus can't be struck this combat.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>4</manacost>
         <colors>M</colors>
         <loyalty>2</loyalty>
@@ -32615,8 +32615,8 @@ Build[Energy]: KO another supporting character on your side.  Then put a [Brothe
       <text>Too Hot to Handle
 Enemy characters lose and can't gain powers while in ranged combat with Magma</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>5</manacost>
         <loyalty>1</loyalty>
         <pt>10/4</pt>
@@ -32629,8 +32629,8 @@ Enemy characters lose and can't gain powers while in ranged combat with Magma</t
       <text>Send in the Clone
 Joseph has all the printed keyword and super powers of face-up Magneto characters on your side.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>6</manacost>
         <loyalty>1</loyalty>
         <pt>8/8</pt>
@@ -32644,8 +32644,8 @@ When Xorn appears, you may heal a wound from a supporting character on your side
 A Black Hole in My Head
 Main[Might]: Disperse an enemy supporting character.  (It loses powers, then remove it from the game.)</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Brotherhood of Mutants</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Brotherhood of Mutants</type>
         <manacost>7</manacost>
         <colors>M</colors>
         <loyalty>2</loyalty>
@@ -32662,8 +32662,8 @@ One of a Kind
 You may only have one of this card in your deck.
 Main: Attackers strike with double their ATK until your next turn.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Brotherhood of Mutants</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Brotherhood of Mutants</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/NBX-021.jpg">NBX</set>
     </card>
@@ -32671,8 +32671,8 @@ Main: Attackers strike with double their ATK until your next turn.</text>
       <name>Homo Superior (NBX-022)</name>
       <text>Main: Choose a row on your side, then put a +1/+1 counter on each character in that row.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Brotherhood of Mutants</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Brotherhood of Mutants</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/NBX-022.jpg">NBX</set>
     </card>
@@ -32783,8 +32783,8 @@ At the start of your Main Phase, you may exhaust a location on your side. If you
 Animal Agility
 [AnyTurn]Combat[Skill]: Beast gets +1/+1 this combat for each +1/+1 counter on him.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>1</manacost>
         <colors>S</colors>
         <loyalty>2</loyalty>
@@ -32797,8 +32797,8 @@ Animal Agility
       <text>X-Factor Detection
 Main[Intellect]: Put two +1/+1 counters on each other [Brotherhood of Mutants] and [Xmen] character on your side.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>1</manacost>
         <colors>I</colors>
         <loyalty>1</loyalty>
@@ -32811,8 +32811,8 @@ Main[Intellect]: Put two +1/+1 counters on each other [Brotherhood of Mutants] a
       <text>Air Superiority
 Characters with [Flight] can't strike Angel.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>2</manacost>
         <loyalty>1</loyalty>
         <pt>5/4</pt>
@@ -32825,8 +32825,8 @@ Characters with [Flight] can't strike Angel.</text>
       <text>Butterfly Knife
 When Psylocke attacks a character on an enemy player's side, that player discards a plot twist.  If they don't have one, they reveal their hand.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>2</manacost>
         <loyalty>1</loyalty>
         <pt>3/4</pt>
@@ -32840,8 +32840,8 @@ When Wolverine attacks, put a +1/+1 counter on him
 Fearless
 While attacking a main character, Wolverine strikes with double his ATK.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>3</manacost>
         <loyalty>3</loyalty>
         <pt>3/3</pt>
@@ -32853,8 +32853,8 @@ While attacking a main character, Wolverine strikes with double his ATK.</text>
       <text>Scared Stiff
 Main[Skill]: Enemy characters can't use super powers until your next turn.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>3</manacost>
         <colors>S</colors>
         <loyalty>2</loyalty>
@@ -32869,8 +32869,8 @@ When Deadpool appears or recovers, he strikes an enemy supporting character.
 Tough
 When Deadpool gets stunned, you may recover him.  (He still gets wounded.)</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>4</manacost>
         <loyalty>2</loyalty>
         <pt>4/4</pt>
@@ -32883,8 +32883,8 @@ When Deadpool gets stunned, you may recover him.  (He still gets wounded.)</text
       <text>Lady Luck
 [AnyTurn]Combat[Intellect]: Roll a die.  Put that many +1/+1 counters on Domino.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>4</manacost>
         <colors>I</colors>
         <loyalty>1</loyalty>
@@ -32898,8 +32898,8 @@ When Deadpool gets stunned, you may recover him.  (He still gets wounded.)</text
       <text>Not Made of Steel, Made of Rage
 [AnyTurn]Combat[Might]: Colossus gets +3/+3 this combat.  If he's wounded, he gets +6/+6 instead.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>5</manacost>
         <colors>M</colors>
         <loyalty>2</loyalty>
@@ -32914,8 +32914,8 @@ When Storm enters combat, put a -1/-1 counter on each enemy character in the com
 Atomkinesis
 [AnyTurn]Combat[Energy]: Double the -1/-1 counters on each enemy character in the combat.  Storm can use this power any number of times each turn.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>6</manacost>
         <colors>E</colors>
         <loyalty>1</loyalty>
@@ -32930,8 +32930,8 @@ Atomkinesis
 Tapping Into Her Power
 When Marvel Girl appears, choose a character on your side to get +10/+10 this turn.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Xmen</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Xmen</type>
         <manacost>7</manacost>
         <loyalty>1</loyalty>
         <pt>10/10</pt>
@@ -32947,8 +32947,8 @@ One of a Kind
 You may only have one of this card in your deck.
 Build: Characters can't attack until your next turn.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Xmen</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Xmen</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/XFC-018.jpg">XFC</set>
     </card>
@@ -33139,8 +33139,8 @@ When an enemy supporting character gets KO'd by FINISH HIM!, remove it from the 
       <text>Ferocious
 While in melee combat, Baraka strikes before characters without Ferocious.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Earthrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Earthrealm</type>
         <manacost>1</manacost>
         <loyalty>2</loyalty>
         <pt>3/1</pt>
@@ -33152,8 +33152,8 @@ While in melee combat, Baraka strikes before characters without Ferocious.</text
       <text>Tough
 When Jacqui gets stunned, you may recover her.  (She still gets wounded.)</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Earthrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Earthrealm</type>
         <manacost>1</manacost>
         <loyalty>2</loyalty>
         <pt>2/2</pt>
@@ -33165,8 +33165,8 @@ When Jacqui gets stunned, you may recover her.  (She still gets wounded.)</text>
       <text>Energy Net
 Main[Energy]: Daze a face up enemy supporting character.  It can't recover on its next turn.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Earthrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Earthrealm</type>
         <manacost>2</manacost>
         <colors>E</colors>
         <loyalty>1</loyalty>
@@ -33182,8 +33182,8 @@ When Jax gets stunned, you may recover her.  He still gets wounded.
 Bionic Arms
 Kombat[Might]: If Jax is in melee kombat, he gets +4/+4 this kombat.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Earthrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Earthrealm</type>
         <manacost>2</manacost>
         <colors>M</colors>
         <loyalty>2</loyalty>
@@ -33199,8 +33199,8 @@ Characters in Jade's tow without Safeguard can't be attacked.
 Dodge
 Jade can't be ranged attacked.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Earthrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Earthrealm</type>
         <manacost>3</manacost>
         <loyalty>1</loyalty>
         <pt>3/6</pt>
@@ -33217,8 +33217,8 @@ Kung Lao can melee attack protected characters.
 Mobile
 Once per turn during your Main Phase but not during a kombat, you may move Kung Lao to your back or front row.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Earthrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Earthrealm</type>
         <manacost>3</manacost>
         <loyalty>1</loyalty>
         <pt>3/3</pt>
@@ -33231,8 +33231,8 @@ Once per turn during your Main Phase but not during a kombat, you may move Kung 
       <text>BLB-118 Combat Drone Escape
 Once per game while Casse is defending, any time you could take an action in kombat, you can cancel the kombat.  If you do, she gains [Flight] for the rest of the game.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Earthrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Earthrealm</type>
         <manacost>4</manacost>
         <loyalty>1</loyalty>
         <pt>4/7</pt>
@@ -33247,8 +33247,8 @@ While Kitana is team attacking, you choose who the defender strikes.
 Fan Lift
 Main[Skill]: Choose an enemy character without [Flight].  This turn, it gains [Flight] and loses all its other powers.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Earthrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Earthrealm</type>
         <manacost>4</manacost>
         <colors>S</colors>
         <loyalty>1</loyalty>
@@ -33261,8 +33261,8 @@ Main[Skill]: Choose an enemy character without [Flight].  This turn, it gains [F
       <text>God Ray
 Main[Might]: Wound an enemy supporting character and heal a wound from Kotal Kahn</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Earthrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Earthrealm</type>
         <manacost>5</manacost>
         <colors>M</colors>
         <loyalty>2</loyalty>
@@ -33275,8 +33275,8 @@ Main[Might]: Wound an enemy supporting character and heal a wound from Kotal Kah
       <text>Special Forces Commander
 Main[Intellect]: Choose another character on your side to get Stealth or Sniper this turn.  (They can melee or ranged attack protected characters.)</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Earthrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Earthrealm</type>
         <manacost>5</manacost>
         <colors>I</colors>
         <loyalty>1</loyalty>
@@ -33292,8 +33292,8 @@ Scorpion has +4/+4 in melee kombat.
 Get Over Here!
 Main[Skill]: Move an enemy back row character to its front row.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Earthrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Earthrealm</type>
         <manacost>6</manacost>
         <colors>S</colors>
         <loyalty>2</loyalty>
@@ -33308,8 +33308,8 @@ Sub-Zero has +4/+4 in melee kombat.
 Ice Blast
 Main[Energy]: Freeze an enemy character.  (Exhaust it, and it can't ready on its next turn.)</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Earthrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Earthrealm</type>
         <manacost>6</manacost>
         <colors>E</colors>
         <loyalty>2</loyalty>
@@ -33324,8 +33324,8 @@ Liu Kang strikes any number of times while in melee kombat.
 Grand Champion of Mortal Kombat
 Liu Kang can't be stunned while in solo kombat.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Earthrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Earthrealm</type>
         <manacost>7</manacost>
         <loyalty>1</loyalty>
         <pt>3/14</pt>
@@ -33340,8 +33340,8 @@ Characters with [Flight] can't strike Raiden
 Thunder God
 [AnyTurn]Kombat[Intellect]: Wound an enemy character in the kombat without [Flight].</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Earthrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Earthrealm</type>
         <manacost>8</manacost>
         <colors>I</colors>
         <loyalty>2</loyalty>
@@ -33355,8 +33355,8 @@ Thunder God
       <text>When your main character attacks this turn, put a +1/+1 counter on it.
 When it stuns a defender in solo kombat this turn, you may ready it.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Earthrealm</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Earthrealm</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/MKE-025.jpg">MKE</set>
     </card>
@@ -33364,8 +33364,8 @@ When it stuns a defender in solo kombat this turn, you may ready it.</text>
       <name>Flawless Victory (MKE-026)</name>
       <text>[AnyTurn]Kombat: Choose an unwounded character on your side in the kombat.  It can't be struck this kombat.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Earthrealm</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Earthrealm</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/MKE-026.jpg">MKE</set>
     </card>
@@ -33373,8 +33373,8 @@ When it stuns a defender in solo kombat this turn, you may ready it.</text>
       <name>Leg Sweep (MKE-027)</name>
       <text>Kombat: If this is a melee kombat, exhaust and wound a ready supporting character in the kombat.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Earthrealm</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Earthrealm</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/MKE-027.jpg">MKE</set>
     </card>
@@ -33567,8 +33567,8 @@ Erron Black can team attack with any main character.
 Quick Draw
 While Erron Black is ranged attacking, enemy characters can't strike him.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Netherrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Netherrealm</type>
         <manacost>1</manacost>
         <loyalty>1</loyalty>
         <pt>2/2</pt>
@@ -33581,8 +33581,8 @@ While Erron Black is ranged attacking, enemy characters can't strike him.</text>
       <text>Kollector of Tribute
 At the end of each enemy player's Recruit Step, they may pay the Kollector 1 recruit point.  Otherwise, put three +1/+1 counters on him.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Netherrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Netherrealm</type>
         <manacost>1</manacost>
         <loyalty>1</loyalty>
         <pt>1/1</pt>
@@ -33594,8 +33594,8 @@ At the end of each enemy player's Recruit Step, they may pay the Kollector 1 rec
       <text>Superhuman Speed
 Main[Might]: Put a +1/+1 counter on Kabal.  He has Stealth this turn.  (He can melee attack protected characters.)</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Netherrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Netherrealm</type>
         <manacost>2</manacost>
         <colors>M</colors>
         <loyalty>2</loyalty>
@@ -33609,8 +33609,8 @@ Main[Might]: Put a +1/+1 counter on Kabal.  He has Stealth this turn.  (He can m
       <text>Homing Missile
 Main[Energy]: Choose an enemy player then you secretly choose a character on their side.  Then they guess which character you chose.  If they were wrong, wound the chosen character.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Netherrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Netherrealm</type>
         <manacost>2</manacost>
         <colors>E</colors>
         <loyalty>1</loyalty>
@@ -33626,8 +33626,8 @@ Enemy characters lose and can't gain [Range].
 Mother Bug
 [AnyTurn]Kombat[Intellect]: When D'Vorah gets KO'd this turn, put a 1/3 D'Vorah supporting character token onto your side with [Flight] and 1 Health.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Netherrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Netherrealm</type>
         <manacost>3</manacost>
         <colors>I</colors>
         <loyalty>1</loyalty>
@@ -33642,8 +33642,8 @@ Mother Bug
 Who Can You Trust?
 When *Kano* team attacks with Kano, draw two cards.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Netherrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Netherrealm</type>
         <manacost>3</manacost>
         <loyalty>1</loyalty>
         <pt>5/5</pt>
@@ -33656,8 +33656,8 @@ When *Kano* team attacks with Kano, draw two cards.</text>
       <text>Head Cannon
 Main[Energy]: Freeze an enemy supporting character.  Frozen enemy characters can't strike this turn.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Netherrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Netherrealm</type>
         <manacost>4</manacost>
         <colors>E</colors>
         <loyalty>1</loyalty>
@@ -33673,8 +33673,8 @@ At the start of your turn, heal a wound from Skarlet.
 Blood Magik Practitioner
 [AnyTurn]Kombat[Skill]: Skarlet gets +5/+5 this kombat for each wound on enemy characters in the kombat.  Wound her at the end of the kombat.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Netherrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Netherrealm</type>
         <manacost>5</manacost>
         <colors>S</colors>
         <loyalty>3</loyalty>
@@ -33687,8 +33687,8 @@ Blood Magik Practitioner
       <text>A Complete Lack of Morals
 During each enemy player's Build Phase, they may pay Kano 5 recruit points.  If they do, they move him to their side.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Netherrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Netherrealm</type>
         <manacost>5</manacost>
         <loyalty>1</loyalty>
         <pt>12/6</pt>
@@ -33703,8 +33703,8 @@ You may only have one of this card in your deck.
 Swarm
 You can have any number of Noob Saibots on your side. This power can't be turned off.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Netherrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Netherrealm</type>
         <manacost>4</manacost>
         <loyalty>2</loyalty>
         <pt>5/5</pt>
@@ -33721,8 +33721,8 @@ You can have any number of Noob Saibots on your side. This power can't be turned
 Assassin
 When Noob Saibot stuns an enemy defender, put two +1/+1 counters on him.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Netherrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Netherrealm</type>
         <manacost>4</manacost>
         <loyalty>2</loyalty>
         <pt>5/5</pt>
@@ -33738,8 +33738,8 @@ You can have any number of Noob Saibots on your side. This power can't be turned
 &gt;Mobile
 Once per turn during your Main Phase but not during a kombat, you may move Noob Saibot to your back or front row.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Netherrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Netherrealm</type>
         <manacost>4</manacost>
         <loyalty>2</loyalty>
         <pt>5/5</pt>
@@ -33755,8 +33755,8 @@ You can have any number of Noob Saibots on your side. This power can't be turned
 Stealth
 Noob Saibot can melee attack protected characters.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Netherrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Netherrealm</type>
         <manacost>4</manacost>
         <loyalty>2</loyalty>
         <pt>5/5</pt>
@@ -33772,8 +33772,8 @@ When Geras appears, put a vitality counter on him for each Geras who has been KO
 Rewind Time
 Reaction[Intellect]: When Geras gets KO'd, put him onto his owner's side.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Netherrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Netherrealm</type>
         <manacost>6</manacost>
         <colors>I</colors>
         <loyalty>1</loyalty>
@@ -33788,8 +33788,8 @@ While in melee combat, Shao Kahn strikes before characters without Ferocious.
 Soul Steal
 Main[Might]: When an enemy supporting character gets KO'd this turn, put three +1/+1 counters on Shao Kahn.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Netherrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Netherrealm</type>
         <manacost>6</manacost>
         <colors>M</colors>
         <loyalty>2</loyalty>
@@ -33804,8 +33804,8 @@ When Kronika attacks from your side, put two +1/+1 counters on her.
 You Match Me Step for Step
 When Cetrion attacks, put +1/+1 or -1/-1 counters on her until her ATK equals the defender's DEF.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Netherrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Netherrealm</type>
         <manacost>7</manacost>
         <loyalty>2</loyalty>
         <pt>9/9</pt>
@@ -33821,8 +33821,8 @@ At the start of each player's Resource Step, they KO a resource on their side.  
 Maternal Instinct
 Build[Skill]: Put Cetrion from your hand onto your side.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Netherrealm</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Netherrealm</type>
         <manacost>8</manacost>
         <colors>S</colors>
         <loyalty>1</loyalty>
@@ -33835,8 +33835,8 @@ Build[Skill]: Put Cetrion from your hand onto your side.</text>
       <name>Fight! (MKE-056)</name>
       <text>Main: Choose an enemy player.  They choose a face-up character on their side, then you choose a face-up character on your side.  The characters strike each other.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Netherrealm</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Netherrealm</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/MKE-056.jpg">MKE</set>
     </card>
@@ -33844,8 +33844,8 @@ Build[Skill]: Put Cetrion from your hand onto your side.</text>
       <name>Krushing Blow (MKE-057)</name>
       <text>[AnyTurn]Kombat: If this is a melee kombat, choose a character on your side in the kombat to strike with double its ATK this kombat.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Netherrealm</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Netherrealm</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/MKE-057.jpg">MKE</set>
     </card>
@@ -33853,8 +33853,8 @@ Build[Skill]: Put Cetrion from your hand onto your side.</text>
       <name>Uppercut (MKE-058)</name>
       <text>Kombat: If this is a melee kombat, stun a ready enemy supporting character in the kombat.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Netherrealm</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Netherrealm</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/MKE-058.jpg">MKE</set>
     </card>
@@ -33872,8 +33872,8 @@ Build[Skill]: Put Cetrion from your hand onto your side.</text>
       <name>FINISH HIM! (MKE-060)</name>
       <text>Main: KO a wounded enemy supporting character.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Earthrealm,Netherrealm</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Earthrealm,Netherrealm</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/MKE-060.jpg">MKE</set>
     </card>
@@ -34083,8 +34083,8 @@ Build [Skill][Skill]: For the rest of the game, while Mother's Milk is face up o
       <text>You Don't Have the Fight
 Main Characters on your side have -2/+2.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Boys</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Boys</type>
         <manacost>1</manacost>
         <loyalty>1</loyalty>
         <pt>0/3</pt>
@@ -34096,8 +34096,8 @@ Main Characters on your side have -2/+2.</text>
       <text>She Was a Half Step Off the Curb!
 When Robin gets attacked, KO her. Then choose a face-up [The Boys] character on your side to gain 1 XP or a +1/+1 counter.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Boys</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Boys</type>
         <manacost>1</manacost>
         <loyalty>1</loyalty>
         <pt>1/1</pt>
@@ -34109,8 +34109,8 @@ When Robin gets attacked, KO her. Then choose a face-up [The Boys] character on 
       <text>Explosive Diversion
 Main [Energy]: KO a face-down location on your side. If you do, choose a main character on your side. While it's in your back row it can't be attacked until your next turn.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Boys</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Boys</type>
         <manacost>2</manacost>
         <colors>E</colors>
         <loyalty>1</loyalty>
@@ -34125,8 +34125,8 @@ Main [Energy]: KO a face-down location on your side. If you do, choose a main ch
 You pay 1 less to recruit your first [The Boys] character not named Grace Mallory each turn.
 When you recruit your first [The Boys] character not named Grace Mallory each turn, draw a card.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Boys</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Boys</type>
         <manacost>2</manacost>
         <loyalty>1</loyalty>
         <pt>0/1</pt>
@@ -34138,8 +34138,8 @@ When you recruit your first [The Boys] character not named Grace Mallory each tu
       <text>You and Your Corporation are Screwed
 Main [Skill]: Exhaust an enemy location. It can't ready until after its next turn. (Exhausted resources don't produce recruit points.)</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Boys</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Boys</type>
         <manacost>3</manacost>
         <colors>S</colors>
         <loyalty>1</loyalty>
@@ -34153,8 +34153,8 @@ Main [Skill]: Exhaust an enemy location. It can't ready until after its next tur
       <text>I Don't Usually Go Out After a Massacre
 When an enemy character gets KO'd, you may hide Hughie.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Boys</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Boys</type>
         <manacost>3</manacost>
         <loyalty>1</loyalty>
         <pt>5/4</pt>
@@ -34166,8 +34166,8 @@ When an enemy character gets KO'd, you may hide Hughie.</text>
       <text>I Carry Them All With Me
 Main [Might]: For each character Frenchie has stunned this game, put a -1/-1 counter on each enemy character.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Boys</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Boys</type>
         <manacost>4</manacost>
         <colors>M</colors>
         <loyalty>1</loyalty>
@@ -34181,8 +34181,8 @@ Main [Might]: For each character Frenchie has stunned this game, put a -1/-1 cou
       <text>You Get Further Treating People Like People
 Build [Intellect]: Choose an enemy player to draw a card. You draw two cards.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Boys</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Boys</type>
         <manacost>4</manacost>
         <colors>I</colors>
         <loyalty>1</loyalty>
@@ -34197,8 +34197,8 @@ Butcher can melee attack protected characters.
 Don't Worry. It Can Get a Lot More Horrible
 If an enemy supporting character would gain any number of wounds or -1/-1 counters, it gains twice that many instead.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Boys</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Boys</type>
         <manacost>5</manacost>
         <loyalty>1</loyalty>
         <pt>7/7</pt>
@@ -34210,8 +34210,8 @@ If an enemy supporting character would gain any number of wounds or -1/-1 counte
       <text>Terminal Beauty
 [AnyTurn] Combat [Skill]: When Popclaw strikes a supporting character this combat, KO it.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Boys</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Boys</type>
         <manacost>5</manacost>
         <colors>S</colors>
         <loyalty>1</loyalty>
@@ -34228,8 +34228,8 @@ While in melee combat, Kimiko strikes before each character without Ferocious.
 A Miracle
 Build [Might]: If Kimiko is in your KO pile, put her onto your side with a +1/+1 counter.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Boys</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Boys</type>
         <manacost>6</manacost>
         <colors>M</colors>
         <loyalty>1</loyalty>
@@ -34242,8 +34242,8 @@ Build [Might]: If Kimiko is in your KO pile, put her onto your side with a +1/+1
       <text>There Are No Secrets From Me
 Main [Intellect]: Look at an enemy player's hand and choose a card. That player discards that card.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Boys</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Boys</type>
         <manacost>6</manacost>
         <colors>I</colors>
         <loyalty>1</loyalty>
@@ -34258,8 +34258,8 @@ When Starlight gets attacked for the first time each turn, you may daze an attac
 Touch Me and I'll Burn Your Eyes Out
 Main [Energy]:  Remove an enemy hand from the game face down. For the rest of the game, at the start of each of that player's turns, they randomly put two of those cards into their hand.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Boys</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Boys</type>
         <manacost>7</manacost>
         <colors>E</colors>
         <loyalty>1</loyalty>
@@ -34272,8 +34272,8 @@ Main [Energy]:  Remove an enemy hand from the game face down. For the rest of th
       <name>Diabolical (BOY-024)</name>
       <text>[AnyTurn] Combat: Put -1/-1 counters on a supporting character in the combat equal to its printed [Health].</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - The Boys</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - The Boys</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/BOY-024.jpg">BOY</set>
     </card>
@@ -34281,8 +34281,8 @@ Main [Energy]:  Remove an enemy hand from the game face down. For the rest of th
       <name>Mind Them Bars (BOY-025)</name>
       <text>Main: Push an enemy front row supporting character to its back row. It is Immobile on its next turn. (It can't move during its Formation Step.)</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - The Boys</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - The Boys</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/BOY-025.jpg">BOY</set>
     </card>
@@ -34290,8 +34290,8 @@ Main [Energy]:  Remove an enemy hand from the game face down. For the rest of th
       <name>It's A Burn (BOY-026)</name>
       <text>[AnyTurn] Combat: Choose a defending supporting character on your side with 1 printed [Health]. Remove it from teh combat, then hide it.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - The Boys</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - The Boys</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/BOY-026.jpg">BOY</set>
     </card>
@@ -34299,8 +34299,8 @@ Main [Energy]:  Remove an enemy hand from the game face down. For the rest of th
       <name>You've Done a Murder (BOY-027)</name>
       <text>Combat: Put a +1/+1 counter on an attacker on your side. It is Lethal this combat. (If it wounds a defending supporting character, KO it.)</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - The Boys</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - The Boys</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/BOY-027.jpg">BOY</set>
     </card>
@@ -34483,8 +34483,8 @@ Main [Might]: Put the bottom seven cards of an enemy deck into their KO pile.</t
       <text>This Was our Dream
 Main [Skill]: Put a +1/+1 counter on each other [The Seven] character on your side. Donna pays 1 less power symbol to use this power while Starlight is face up on your side.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Seven</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Seven</type>
         <manacost>1</manacost>
         <colors>S</colors>
         <loyalty>1</loyalty>
@@ -34497,8 +34497,8 @@ Main [Skill]: Put a +1/+1 counter on each other [The Seven] character on your si
       <text>SVP of Hero Management
 Build [Intellect]: Draw a card for each face-up [The Seven] character on your side with printed [Health] 2 or higher.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Seven</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Seven</type>
         <manacost>2</manacost>
         <colors>I</colors>
         <loyalty>1</loyalty>
@@ -34513,8 +34513,8 @@ Black Noir can melee attack protected characters.
 Ambush.
 When Black Noir attacks an exhausted character, put two +1/+1 counters on him.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Seven</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Seven</type>
         <manacost>3</manacost>
         <loyalty>2</loyalty>
         <pt>3/3</pt>
@@ -34526,8 +34526,8 @@ When Black Noir attacks an exhausted character, put two +1/+1 counters on him.</
       <text>You're My Greatest Failure
 Main [Energy]: Put a -1/-1 counter on an enemy character. It loses and can't gain keyword and super powers until it has no -1/-1 counters.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Seven</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Seven</type>
         <manacost>3</manacost>
         <colors>E</colors>
         <loyalty>1</loyalty>
@@ -34540,8 +34540,8 @@ Main [Energy]: Put a -1/-1 counter on an enemy character. It loses and can't gai
       <text>We Make Heroes Super
 Build [Intellect]: Choose a main character on your side to get +ATK/+DEF equal to its printed ATK/DEF until Madelyn Stillwell leaves your side.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Seven</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Seven</type>
         <manacost>4</manacost>
         <colors>I</colors>
         <loyalty>1</loyalty>
@@ -34554,8 +34554,8 @@ Build [Intellect]: Choose a main character on your side to get +ATK/+DEF equal t
       <text>Dolphin Rescue Attempt
 Build [Might]: Search your deck for a character, almost put it onto your side, but instead put it into your KO pile.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Seven</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Seven</type>
         <manacost>4</manacost>
         <colors>M</colors>
         <loyalty>2</loyalty>
@@ -34568,8 +34568,8 @@ Build [Might]: Search your deck for a character, almost put it onto your side, b
       <text>Look-alike
 As Doppelganger appears, choose another supporting character on any side. Doppelganger becomes a copy of that character, but keeps his own name.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Seven</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Seven</type>
         <manacost>5</manacost>
         <loyalty>1</loyalty>
         <pt>1/1</pt>
@@ -34581,8 +34581,8 @@ As Doppelganger appears, choose another supporting character on any side. Doppel
       <text>My Loving Embrace
 Main [Skill]: Move any number of other supporting characters to their front row.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Seven</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Seven</type>
         <manacost>5</manacost>
         <colors>S</colors>
         <loyalty>2</loyalty>
@@ -34597,8 +34597,8 @@ You can power up A-Train with any [The Seven] character.
 The Train Has Left the Station
 When A-Train attacks, at the end of combay you may remove a +1/+1 counter from him. If you do, ready him.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Seven</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Seven</type>
         <manacost>6</manacost>
         <loyalty>2</loyalty>
         <pt>6/6</pt>
@@ -34612,8 +34612,8 @@ Translucent doesn't protect characters and can attack protected characters.
 Carbon Metamaterial Skin
 While Translucent is attacking a supporting character, he can't be struck.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Seven</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Seven</type>
         <manacost>6</manacost>
         <loyalty>2</loyalty>
         <pt>7/1</pt>
@@ -34627,8 +34627,8 @@ When Maeve gets stunned, you may recover her. She still gets wounded.
 I Really Did Break Every Bone in My Arm
 When Maeve recovers, put a -1/-1 counter on her for each wound she has.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Seven</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Seven</type>
         <manacost>7</manacost>
         <loyalty>1</loyalty>
         <pt>12/12</pt>
@@ -34642,8 +34642,8 @@ Main [Energy]: For the rest of the game starting on your next turn, Starlight ca
 Blast Comes Out.
 Main [Energy]: Stun a supporting character. Starlight can only use this power if she used Electricity Goes In on an earlier turn.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Seven</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Seven</type>
         <manacost>7</manacost>
         <colors>E</colors>
         <loyalty>2</loyalty>
@@ -34657,8 +34657,8 @@ Main [Energy]: Stun a supporting character. Starlight can only use this power if
       <text>I Can Do Whatever the Hell I Want
 Build, Main, or [AnyTurn] Combat [Might]: Search your deck for a card and put it into your hand.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - The Seven</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - The Seven</type>
         <manacost>8</manacost>
         <colors>M</colors>
         <loyalty>3</loyalty>
@@ -34684,8 +34684,8 @@ The first time equipped character uses a super power each turn, it pays 1 less p
       <name>The Seven (BOY-053)</name>
       <text>[AnyTurn] Combat: If your main character is defending, it gets +7/+0 or +0/+7 this combat.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - The Seven</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - The Seven</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/BOY-053.jpg">BOY</set>
     </card>
@@ -34693,8 +34693,8 @@ The first time equipped character uses a super power each turn, it pays 1 less p
       <name>They'll Find You (BOY-054)</name>
       <text>Main: Choose a character to get +2/+0 this turn. It has Stealth against supporting characters this turn. (It can melee attack a protected supporting character.)</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - The Seven</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - The Seven</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/BOY-054.jpg">BOY</set>
     </card>
@@ -34702,8 +34702,8 @@ The first time equipped character uses a super power each turn, it pays 1 less p
       <name>Why Settle For Ordinary? (BOY-055)</name>
       <text>[AnyTurn] Combat: Put +1/+1 counters on a supporting character in the combat equal to that character's printed [Health].</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - The Seven</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - The Seven</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/BOY-055.jpg">BOY</set>
     </card>
@@ -34711,8 +34711,8 @@ The first time equipped character uses a super power each turn, it pays 1 less p
       <name>You've Done Good, Lad (BOY-056)</name>
       <text>Choose [The Boys] or [The Seven]. Choose an attacker to get +1/+1 this combat for each face-up character on your side with the chosen team affiliation.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Neutral</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Neutral</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/BOY-056.jpg">BOY</set>
     </card>
@@ -34969,8 +34969,8 @@ Main [Alien] [Humanity]: Uatu loses Oath of Non-Interference for the rest of the
 Smartest Girl in Existence
 Build [Intellect]: Draw cards until you have as many cards in hand as the number of characters on all sides.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Fantastic</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Fantastic</type>
         <manacost>2</manacost>
         <colors>I</colors>
         <loyalty>1</loyalty>
@@ -34983,8 +34983,8 @@ Build [Intellect]: Draw cards until you have as many cards in hand as the number
       <text>Hothead
 Combat [Skill]: If this is your first attack this turn, Human Torch strikes the defender.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Anti-Registration</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Anti-Registration</type>
         <manacost>3</manacost>
         <colors>S</colors>
         <loyalty>1</loyalty>
@@ -34999,8 +34999,8 @@ Combat [Skill]: If this is your first attack this turn, Human Torch strikes the 
 Universal Shaper
 Build [Energy]: Shuffle each card din your resource row into its owner's deck. Put that many cards from the top of your deck into your resource row face down, then turn any number of your face-down locations face up.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Fantastic</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Fantastic</type>
         <manacost>4</manacost>
         <colors>E</colors>
         <loyalty>1</loyalty>
@@ -35013,8 +35013,8 @@ Build [Energy]: Shuffle each card din your resource row into its owner's deck. P
       <text>Clobber
 When Thing stuns a defender, move it to its back row and it can't ready or move on its next turn.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Pro-Registration</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Pro-Registration</type>
         <manacost>5</manacost>
         <loyalty>3</loyalty>
         <pt>5/5</pt>
@@ -35028,8 +35028,8 @@ Build [Skill]: Mister Fantastic creates an Invention.
 Stretch Your Body
 When Mister Fantastic enters combat, double his ATK or his DEF this combat.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Pro-Registration</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Pro-Registration</type>
         <manacost>6</manacost>
         <colors>S</colors>
         <loyalty>2</loyalty>
@@ -35044,8 +35044,8 @@ Invisible Woman doesn't protect characters and can attack protected characters.
 Create Wall of Force
 Main [Energy][Energy] or [Humanity][Humanity] or [Energy][Humanity]: If Invisible Woman is in your front row, place a Wall of Force Terrain token into your back row. If you already have one, replace it with a new one.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Anti-Registration</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Anti-Registration</type>
         <manacost>6</manacost>
         <colors>E</colors>
         <loyalty>1</loyalty>
@@ -35059,8 +35059,8 @@ Main [Energy][Energy] or [Humanity][Humanity] or [Energy][Humanity]: If Invisibl
       <text>Fantastic Inventor
 Build [Intellect]: Doctor Doom creates two [Fantastic] Inventions.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Fantastic</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Fantastic</type>
         <manacost>7</manacost>
         <colors>I</colors>
         <loyalty>2</loyalty>
@@ -35074,8 +35074,8 @@ Build [Intellect]: Doctor Doom creates two [Fantastic] Inventions.</text>
       <text>The Power Cosmic
 [AnyTurn] Combat [Alien] or [Humanity]: Stun a supporting character in the combat with cost 7 or less, or stun a main character in the combat with Level 2 or less.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Defenders</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Defenders</type>
         <manacost>8</manacost>
         <colors>H</colors>
         <loyalty>3</loyalty>
@@ -35088,8 +35088,8 @@ Build [Intellect]: Doctor Doom creates two [Fantastic] Inventions.</text>
       <name>Fantastic! (FRF-021)</name>
       <text>[AnyTurn] Combat: Put four +1/+1 counters on a character in the combat.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Fantastic</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Fantastic</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/FRF-021.jpg">FRF</set>
     </card>
@@ -35111,8 +35111,8 @@ When a defending enemy supporting character gets stunned, remove it from the gam
 Predict Destructive Scenario
 Main: Make a secret Prediction where you name a character. The next time a supporting character with that name would appear on an enemy side, reveal your prediction and put that character into its owner's KO pile instead.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Pro-Registration</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Pro-Registration</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/FRF-023.jpg">FRF</set>
     </card>
@@ -35321,8 +35321,8 @@ Combat [Skill]: When Thunder Rosa wins this combat, she may immediately attack a
       <text>The Icon
 When Sting appears, search your deck, hand, and KO pile for a Baseball Bat equipment. Play it on him for free or reveal it and put it into your hand.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Babyfaces</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Babyfaces</type>
         <manacost>1</manacost>
         <loyalty>1</loyalty>
         <pt>0/4</pt>
@@ -35336,8 +35336,8 @@ Hikaru Shida can't be ranged attacked.
 Kendo Stick
 Main [Skill]: Hikaru Shida has +3/+0 and Stealth this turn. (She can melee attack protected characters.)</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Babyfaces</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Babyfaces</type>
         <manacost>1</manacost>
         <colors>S</colors>
         <loyalty>1</loyalty>
@@ -35352,8 +35352,8 @@ During combat, you can power up Luchasaurus with Jungle Boy. When you do, Luchas
 Extinction Event
 While wounded, Luchasaurus has +2/+2 and Monstrous (While he is being melee team attacked, he strikes each attacker.)</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Babyfaces</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Babyfaces</type>
         <manacost>2</manacost>
         <loyalty>2</loyalty>
         <pt>2/2</pt>
@@ -35372,8 +35372,8 @@ Main [Humanity]: Choose an enemy character and point at it, then choose one of t
 - Stun that character.
 - Uh oh. They must be immune to curses.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Babyfaces</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Babyfaces</type>
         <manacost>2</manacost>
         <colors>H</colors>
         <loyalty>1</loyalty>
@@ -35390,8 +35390,8 @@ Main [Might]: Move an enemy main character to its front row.
 Cero Miedo
 While attacking a main character, Penta El Zero Miedo strikes with triple his ATK.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Babyfaces</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Babyfaces</type>
         <manacost>3</manacost>
         <colors>M</colors>
         <loyalty>2</loyalty>
@@ -35404,8 +35404,8 @@ While attacking a main character, Penta El Zero Miedo strikes with triple his AT
       <text>Giant Swing
 When Claudio Castagnoli appears, put a -1/-1 counter on an enemy character. If it's ready, exhaust it then put another -1/-1 counter on it.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Babyfaces</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Babyfaces</type>
         <manacost>3</manacost>
         <loyalty>1</loyalty>
         <pt>4/5</pt>
@@ -35417,8 +35417,8 @@ When Claudio Castagnoli appears, put a -1/-1 counter on an enemy character. If i
       <text>The Mad King
 Eddie Kingston has +3/+3 while in combat with an enemy supporting character.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Babyfaces</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Babyfaces</type>
         <manacost>4</manacost>
         <loyalty>2</loyalty>
         <pt>5/5</pt>
@@ -35432,8 +35432,8 @@ During combat, you can power up Jungle Boy with Luchasaurus. When you do, Jungle
 Snare Trap
 [AnyTurn] Combat [Humanity]: Stun an enemy attacker. Jungle Boy can only pay for this power by discarding a location from hand. (He can't use locations in  your resource row.) </text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Babyfaces</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Babyfaces</type>
         <manacost>4</manacost>
         <colors>H</colors>
         <loyalty>1</loyalty>
@@ -35448,8 +35448,8 @@ Sammy Guevara has [Flight] on your turn.
 Spanish God
 Main [Humanity]: Sammy Guevara has Pounce and Mobile this turn. (He can't be struck by exhausted defenders, and once per turn during your Main Phase, but not during Combat, you may move him to your front or back row.)</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Babyfaces</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Babyfaces</type>
         <manacost>5</manacost>
         <colors>H</colors>
         <loyalty>1</loyalty>
@@ -35464,8 +35464,8 @@ During combat, you can power up Rey Fenix with Penta El Zero Miedo. When you do,
 The Man of 1,000 Lives
 Rey Fenix has 1,000 [HEALTH]. This power remains on while Rey Fenix is face down. Leap. Rey Fenix has [Flight] on your turn.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Babyfaces</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Babyfaces</type>
         <manacost>5</manacost>
         <loyalty>0</loyalty>
         <pt>3/6</pt>
@@ -35479,8 +35479,8 @@ While Samoa Joe is in melee combat, each enemy character in the combat has -0/-3
 Muscle Buster
 While Samoa Joe is in melee combat, when an enemy supporting character gets stunned by having 0 DEF, KO it.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Babyfaces</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Babyfaces</type>
         <manacost>6</manacost>
         <loyalty>2</loyalty>
         <pt>7/8</pt>
@@ -35494,8 +35494,8 @@ While you have six or more recruit points, you may pay an [Intellect] and [Skill
 Orange Punch
 Combat [Intellect][Skill]: Stun a defender.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Babyfaces</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Babyfaces</type>
         <manacost>6</manacost>
         <colors>I</colors>
         <loyalty>1</loyalty>
@@ -35510,8 +35510,8 @@ When Keith Lee appears, choose another character on your side to gain [Flight] t
 For He is Limitless
 Main [Might]: Ready Keith Lee. He can use this power any number of times each turn.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Babyfaces</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Babyfaces</type>
         <manacost>7</manacost>
         <colors>M</colors>
         <loyalty>2</loyalty>
@@ -35523,8 +35523,8 @@ Main [Might]: Ready Keith Lee. He can use this power any number of times each tu
       <name>Dynamite (AEW-026)</name>
       <text>[AnyTurn] Combat: If this is a melee combat, choose a character on your side in the combat. When it strikes an enemy supporting character this combat, stun that enemy character.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Babyfaces</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Babyfaces</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/AEW-026.jpg">AEW</set>
     </card>
@@ -35532,8 +35532,8 @@ Main [Might]: Ready Keith Lee. He can use this power any number of times each tu
       <name>Elevation (AEW-027)</name>
       <text>Main: Choose a character on your side. It has +2/+2 and Leap this turn. If it already had leap, instead of getting +2/+2, put two +1/+1 counters on it.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Babyfaces</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Babyfaces</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/AEW-027.jpg">AEW</set>
     </card>
@@ -35541,8 +35541,8 @@ Main [Might]: Ready Keith Lee. He can use this power any number of times each tu
       <name>Pop (AEW-028)</name>
       <text>[AnyTurn] Combat: Choose a supporting character on your side in the combat. When it wins this combat, put three +1/+1 counters on it, then heal each wound from it.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Babyfaces</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Babyfaces</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/AEW-028.jpg">AEW</set>
     </card>
@@ -35740,8 +35740,8 @@ During  your Build Phase, if a [Babyfaces]or [Heels] supporting character appear
 Redrum
 [AnyTurn] Combat [Skill]: Choose an enemy character in the combat to get -3/-0 this combat.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Heels</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Heels</type>
         <manacost>1</manacost>
         <colors>S</colors>
         <loyalty>1</loyalty>
@@ -35754,8 +35754,8 @@ Redrum
       <text>The Native Beast
 When Nyla Rose appears or recovers, she gets +4/+0 this turn.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Heels</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Heels</type>
         <manacost>1</manacost>
         <loyalty>2</loyalty>
         <pt>0/2</pt>
@@ -35767,8 +35767,8 @@ When Nyla Rose appears or recovers, she gets +4/+0 this turn.</text>
       <text>Big Money
 Build [Might]: Gain a recruit point. Matt Hardy can use this power any number of times each turn.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Heels</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Heels</type>
         <manacost>2</manacost>
         <colors>M</colors>
         <loyalty>1</loyalty>
@@ -35783,8 +35783,8 @@ Andrade El Idolo has [Flight] on your turn.
 Moonsault
 When Andrade El Idolo leaps over at least one enemy character, he gets +3/+3 this combat.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Heels</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Heels</type>
         <manacost>2</manacost>
         <loyalty>2</loyalty>
         <pt>2/2</pt>
@@ -35798,8 +35798,8 @@ During combat,  you can power up Ethan Page with Scorpio Sky. When  you do, draw
 All Ego
 Ethan Page can only team attack with Scorpio Sky.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Heels</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Heels</type>
         <manacost>3</manacost>
         <loyalty>1</loyalty>
         <pt>5/5</pt>
@@ -35813,8 +35813,8 @@ Ricky Starks has [Flight] on your turn.
 Absolute
 [AnyTurn] Combat [Skill]: This combat, Ricky Starks gains ATK equal to his DEF and DEF equal to his ATK. (So if he's 3/6, he becomes 9/9.)</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Heels</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Heels</type>
         <manacost>3</manacost>
         <colors>S</colors>
         <loyalty>1</loyalty>
@@ -35828,8 +35828,8 @@ Absolute
 Whatever It Takes
 Reaction [Humanity]: When another character on your side gains 1 or more wounds, it does't gain any wounds instead.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Heels</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Heels</type>
         <manacost>4</manacost>
         <colors>H</colors>
         <loyalty>1</loyalty>
@@ -35844,8 +35844,8 @@ During combat, you can power up Nick Jackson with Matt Jackson. When you do, put
 Superkick Party
 Main [Humanity]: If Nick Jackson is in your front row and ready, exhaust him and at least one other ready character in your front row. If you do, they all strike an enemy front row character.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Heels</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Heels</type>
         <manacost>4</manacost>
         <colors>H</colors>
         <loyalty>1</loyalty>
@@ -35862,8 +35862,8 @@ Scorpio Sky has [Flight] on your turn.
 Head Games
 Main [Intellect]: Rearrange an enemy player's formation.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Heels</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Heels</type>
         <manacost>5</manacost>
         <colors>I</colors>
         <loyalty>1</loyalty>
@@ -35876,8 +35876,8 @@ Main [Intellect]: Rearrange an enemy player's formation.</text>
       <text>Murderhawk Monster
 While Lance Archer is defending against a melee team attack, he strikes with double his ATK against each attacker.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Heels</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Heels</type>
         <manacost>5</manacost>
         <loyalty>2</loyalty>
         <pt>5/8</pt>
@@ -35889,8 +35889,8 @@ While Lance Archer is defending against a melee team attack, he strikes with dou
       <text>The Redeemer
 When Miro appears, enemy characters can't strike this turn.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Heels</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Heels</type>
         <manacost>6</manacost>
         <loyalty>2</loyalty>
         <pt>9/7</pt>
@@ -35902,8 +35902,8 @@ When Miro appears, enemy characters can't strike this turn.</text>
       <text>Powerbomb Symphony
 Main [Might]: Wound an enemy supporting character. Wardlow can use this power any number of times on the same character each turn. </text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Heels</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Heels</type>
         <manacost>6</manacost>
         <colors>M</colors>
         <loyalty>2</loyalty>
@@ -35918,8 +35918,8 @@ When Kenny Omega appears, each enemy player chooses a face-up character on their
 The Elite
 [AnyTurn] Any Combat [Intellect]: if a character on your side is defending, cancel the attack.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Heels</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Heels</type>
         <manacost>7</manacost>
         <colors>I</colors>
         <loyalty>2</loyalty>
@@ -35931,8 +35931,8 @@ The Elite
       <name>Dark (AEW-055)</name>
       <text>Main: Choose a character on your side. It gets +2/+2 and Stealth this turn (It can melee attack protected characters.)</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Heels</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Heels</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/AEW-055.jpg">AEW</set>
     </card>
@@ -35940,8 +35940,8 @@ The Elite
       <name>Heat (AEW-056)</name>
       <text>[AnyTurn] Combat: Choose a supporting character on your side in the combat. When it wins this combat, put a +1/+1 ounter on it, then it strikes a character who wasn't in the combat.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Heels</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Heels</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/AEW-056.jpg">AEW</set>
     </card>
@@ -35949,8 +35949,8 @@ The Elite
       <name>Rampage (AEW-057)</name>
       <text>[AnyTurn] Combat: Choose a character on your side in the combat to get +3/+3 this combat. After the combat resolves, put a -1/-1 counter on it.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Heels</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Heels</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/AEW-057.jpg">AEW</set>
     </card>
@@ -36233,8 +36233,8 @@ When *Carnage* appears, put a +1/+1 counter on him for each other [Frightful] ch
 Symbiosis
 *Carnage* can have and gain +1/+1 counters while stunned.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Frightful</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Frightful</type>
         <manacost>1</manacost>
         <loyalty>2</loyalty>
         <pt>1/1</pt>
@@ -36249,8 +36249,8 @@ Spider-Man can't be ranged attacked.
 Fantastic Suit
 When Spider-Man gets powered up, he may create an Invention.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Fantastic</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Fantastic</type>
         <manacost>2</manacost>
         <loyalty>1</loyalty>
         <pt>3/3</pt>
@@ -36264,8 +36264,8 @@ You pay 1 less to recruit *Ant-Man* if Mister Fantastic is on your side or you r
 Shrink of Genius
 When *Ant-Man* is attacked the first time each turn, you may cancel the combat or *Ant-Man* may create an Invention.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Fantastic</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Fantastic</type>
         <manacost>2</manacost>
         <loyalty>1</loyalty>
         <pt>1/2</pt>
@@ -36279,8 +36279,8 @@ You pay 1 less to recruit Medusa if Invisible Woman is on your side or you revea
 Hair She Is
 Main [Skill]: Choose an enemy character to be Passive this turn or Immobile on its next turn.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Fantastic</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Fantastic</type>
         <manacost>3</manacost>
         <colors>S</colors>
         <loyalty>1</loyalty>
@@ -36295,8 +36295,8 @@ You pay one less to recruit Galactus supporting characters.
 Infused with Galactus's Life-Energy
 Main [Energy]: KO a wounded supporting character. Destroyer pays one less power symbol to use this power while Galactus is face up on your side.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Frightful</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Frightful</type>
         <manacost>3</manacost>
         <colors>E</colors>
         <loyalty>2</loyalty>
@@ -36312,8 +36312,8 @@ You pay 1 less to recruit She-Hulk if Thing is on your side or you reveal him in
 Do I Get To Say ""It's Clobbberin' Time!""?
 Combat [Might]: She-Hulk gets +5/+0 and can't be stunned this combat.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Fantastic</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Fantastic</type>
         <manacost>4</manacost>
         <colors>M</colors>
         <loyalty>2</loyalty>
@@ -36327,8 +36327,8 @@ Combat [Might]: She-Hulk gets +5/+0 and can't be stunned this combat.</text>
 Frightful Forelock
 When Madame Medusa appears, choose an enemy character to become Immobile until Madame Medusa leaves play. (It can't move during its Formation Step.)</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Frightful</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Frightful</type>
         <manacost>4</manacost>
         <loyalty>1</loyalty>
         <pt>3/8</pt>
@@ -36340,8 +36340,8 @@ When Madame Medusa appears, choose an enemy character to become Immobile until M
       <text>Elementalist
 When Crystal appears, search your deck for a basic [Energy], [Intellect], [Might], or [Skill] location you don't already have in your resource row. Reveal it and put it into your hand.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Fantastic</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Fantastic</type>
         <manacost>5</manacost>
         <colors>I</colors>
         <loyalty>1</loyalty>
@@ -36355,8 +36355,8 @@ When Crystal appears, search your deck for a basic [Energy], [Intellect], [Might
       <text>Pacifist Genius
 At the end of your turn, if Dragon Man is ready, draw a card.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Fantastic</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Fantastic</type>
         <manacost>6</manacost>
         <loyalty>2</loyalty>
         <pt>8/8</pt>
@@ -36369,8 +36369,8 @@ At the end of your turn, if Dragon Man is ready, draw a card.</text>
       <text>Frightful Forearms
 Main [Might]: Sandman strikes up to two characters he could attack.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Frightful</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Frightful</type>
         <manacost>6</manacost>
         <colors>M</colors>
         <loyalty>2</loyalty>
@@ -36385,8 +36385,8 @@ You pay one less to recruit Galactus supporting characters
 Herald of Thunder
 Main [Might]: Put +1/+1 counters on another character equal to its ATK.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Frightful</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Frightful</type>
         <manacost>9</manacost>
         <colors>M</colors>
         <loyalty>4</loyalty>
@@ -36415,8 +36415,8 @@ This card starts the game in your Invention pile.
 Flightful Four
 Put a +1/+1 counter on up to four characters. They have [Flight] this turn.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Frightful</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Frightful</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/FND-021.jpg">FND</set>
     </card>
@@ -36658,8 +36658,8 @@ You may only have one of this card in your deck.
 Mother of Doom
 At the start of your Main Phase, put a +1/+1 counter no a character named Doctor Doom on your side.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Frightful</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Frightful</type>
         <manacost>1</manacost>
         <loyalty>1</loyalty>
         <pt>1/3</pt>
@@ -36671,8 +36671,8 @@ At the start of your Main Phase, put a +1/+1 counter no a character named Doctor
       <text>Temporary Insanity
 When She-Thing gets stunned, if she's [Frightful], recover her. For the rest of the game she loses [Frightful] and gains [Fantastic].</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Frightful</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Frightful</type>
         <manacost>2</manacost>
         <loyalty>2</loyalty>
         <pt>4/4</pt>
@@ -36684,8 +36684,8 @@ When She-Thing gets stunned, if she's [Frightful], recover her. For the rest of 
       <text>Creator of Eden
 When Quiet Man appears, look at the top five cards of your deck. You may reveal a special location from among them and put it into your hand. Put the rest on the bottom of your deck.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Frightful</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Frightful</type>
         <manacost>2</manacost>
         <loyalty>1</loyalty>
         <pt>1/4</pt>
@@ -36698,8 +36698,8 @@ When Quiet Man appears, look at the top five cards of your deck. You may reveal 
 Sticky Situation
 When Paste-Pot Pete strikes an exhausted defender, it can't ready on its next turn.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Frightful</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Frightful</type>
         <manacost>3</manacost>
         <loyalty>1</loyalty>
         <pt>1/6</pt>
@@ -36711,8 +36711,8 @@ When Paste-Pot Pete strikes an exhausted defender, it can't ready on its next tu
       <text>Frightfully Smart
 When Valeria appears, draw a card and choose an enemy player to discard a random card.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Frightful</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Frightful</type>
         <manacost>4</manacost>
         <loyalty>1</loyalty>
         <pt>2/4</pt>
@@ -36724,8 +36724,8 @@ When Valeria appears, draw a card and choose an enemy player to discard a random
       <text>Brutish Intelligence
 The Brute has +1/+1 for each card in your hand. This power can't be turned off.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Frightful</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Frightful</type>
         <manacost>5</manacost>
         <loyalty>2</loyalty>
         <pt>0/0</pt>
@@ -36739,8 +36739,8 @@ When Doctor Doom appears, you may search your deck for a Space location, reveal 
 Mind Transfer
 When Doctor Doom appears, you may move him next to an enemy supporting character. If you do, move that character to your side and ready it.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Guardians of the Galaxy</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Guardians of the Galaxy</type>
         <manacost>7</manacost>
         <loyalty>2</loyalty>
         <pt>10/5</pt>
@@ -36751,8 +36751,8 @@ When Doctor Doom appears, you may move him next to an enemy supporting character
       <name>Frightful! (FFO-021)</name>
       <text>[AnyTurn]Combat:Put four -1/-1 counters on a character in the combat.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Frightful</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Frightful</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/FFO-021.jpg">FFO</set>
     </card>
@@ -37023,8 +37023,8 @@ When Zombie Stilt-Man wounds a character in melee combat, it gains The Hunger Vi
 Undead, Not Unbalanced
 Zombie Stilt-Man can't be struck by a character unless it has [Flight] and/or [Ranged].</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Zombies</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Zombies</type>
         <manacost>1</manacost>
         <loyalty>2</loyalty>
         <pt>3/1</pt>
@@ -37036,8 +37036,8 @@ Zombie Stilt-Man can't be struck by a character unless it has [Flight] and/or [R
       <text>The Hunger Virus
 When Zombie Angel wounds a character in melee combat, it gains The Hunger Virus and [Zombies] if it doesn't already have them. At the end of your turn, if Zombie Angel didn't wound a character in melee combat this turn, wound him.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Zombies</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Zombies</type>
         <manacost>2</manacost>
         <loyalty>2</loyalty>
         <pt>2/4</pt>
@@ -37049,8 +37049,8 @@ When Zombie Angel wounds a character in melee combat, it gains The Hunger Virus 
       <text>The Hunger Virus
 When Zombie Hawkeye wounds a character in melee combat, it gains The Hunger Virus and [Zombies] if it doesn't already have them. At the end of your turn, if Zombie Hawkeye didn't wound a character in melee combat this turn, wound him.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Zombies</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Zombies</type>
         <manacost>3</manacost>
         <loyalty>2</loyalty>
         <pt>5/3</pt>
@@ -37065,8 +37065,8 @@ When Zombie Venom wounds a character in melee combat, it gains The Hunger Virus 
 Shuffling Dodge
 Zombie Venom can't be ranged attacked.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Zombies</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Zombies</type>
         <manacost>4</manacost>
         <loyalty>2</loyalty>
         <pt>6/5</pt>
@@ -37080,8 +37080,8 @@ When Zombie Daredevil wounds a character in melee combat, it gains The Hunger Vi
 Savior of Hell's Kitchen's Food
 [AnyTurn]Combat[Intellect]:No more attacks can be made this turn.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Zombies</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Zombies</type>
         <manacost>5</manacost>
         <colors>I</colors>
         <loyalty>2</loyalty>
@@ -37096,8 +37096,8 @@ When Zombie Red Skull wounds a character in melee combat, it gains The Hunger Vi
 Dust of Undeath
 [AnyTurn]Combat[Skill]: Stun a character that is melee attacking Zombie Red Skull.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Zombies</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Zombies</type>
         <manacost>6</manacost>
         <colors>S</colors>
         <loyalty>2</loyalty>
@@ -37113,8 +37113,8 @@ When Zombie Juggernaut wounds a character in melee combat, it gains The Hunger V
 Unstoppable Undead
 [AnyTurn]Combat[Might]: When Zombie Juggernaut stuns a front row enemy character and survives while attacking solo this combat, he may immediately attack a character in that back row.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Zombies</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Zombies</type>
         <manacost>7</manacost>
         <colors>M</colors>
         <loyalty>2</loyalty>
@@ -37129,8 +37129,8 @@ When Zombie Thor wounds a character in melee combat, it gains The Hunger Virus a
 The Zombiest Lightning Blast in History
 Main[Energy]: Put six -1/-1 counters on an enemy main character.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Zombies</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Zombies</type>
         <manacost>8</manacost>
         <colors>E</colors>
         <loyalty>2</loyalty>
@@ -37144,8 +37144,8 @@ Main[Energy]: Put six -1/-1 counters on an enemy main character.</text>
       <text>This Planet is Deserted
 At the end of your turn, draw a card.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - Neutral</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - Neutral</type>
         <manacost>2</manacost>
         <loyalty>1</loyalty>
         <pt>3/3</pt>
@@ -37156,8 +37156,8 @@ At the end of your turn, draw a card.</text>
       <name>No Brains, No Problem (ZOM-020)</name>
       <text>[AnyTurn]Combat: Choose a [Zombies] character on your side in the combat to get +4/+4 this combat. You can't take any more actions this combat.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Zombies</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Zombies</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/ZOM-020.jpg">ZOM</set>
     </card>
@@ -37165,8 +37165,8 @@ At the end of your turn, draw a card.</text>
       <name>Give In to the Hunger (ZOM-021)</name>
       <text>Main: Ready an exhausted [Zombies] character on your side and put two +1/+1 counters on it. You may move it to your front row.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - Zombies</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - Zombies</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/ZOM-021.jpg">ZOM</set>
     </card>
@@ -37319,8 +37319,8 @@ You may only have one of this card in your deck.
 I Saw You With the Avengers
 At the start of your Main Phase, put two +1/+1 counters on a main character on your side named Thor.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Heroes</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Heroes</type>
         <manacost>1</manacost>
         <loyalty>1</loyalty>
         <pt>0/3</pt>
@@ -37332,8 +37332,8 @@ At the start of your Main Phase, put two +1/+1 counters on a main character on y
       <text>Electromagnetic Force Fields
 [Any Turn] Any Combat [Energy] or [Might]: Choose a character in the combat. It can't be struck this turn.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Heroes</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Heroes</type>
         <manacost>2</manacost>
         <colors>E</colors>
         <loyalty>1</loyalty>
@@ -37351,8 +37351,8 @@ When Fandral appears, you may heal a wound from Hogun and/or Volstagg.
 Wielder of the Fimbuldraugr
 Fandral has +2/+2 and Mobile while he is unwounded.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Heroes</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Heroes</type>
         <manacost>3</manacost>
         <loyalty>2</loyalty>
         <pt>3/3</pt>
@@ -37364,8 +37364,8 @@ Fandral has +2/+2 and Mobile while he is unwounded.</text>
       <text>I See With More Than Eyes
 Main [Energy]: Look at an enemy player's hand. You may choose a player to discard their hand. If you do, they draw that many cards.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Heroes</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Heroes</type>
         <manacost>3</manacost>
         <colors>E</colors>
         <loyalty>1</loyalty>
@@ -37382,8 +37382,8 @@ When Hogun appears, you may heal a wound from Fandral and/or Volstagg.
 Wielder of the Hridgandr
 Hogun has +2/+2 and Ferocious while he is unwounded.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Heroes</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Heroes</type>
         <manacost>3</manacost>
         <loyalty>2</loyalty>
         <pt>3/3</pt>
@@ -37399,8 +37399,8 @@ When Volstagg appears, you may heal a wound from Fandral and/or Hogun.
 Wielder of Brandrheid Undrdigr
 Volstagg has +2/+2 and Dodge while he is unwounded.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Heroes</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Heroes</type>
         <manacost>3</manacost>
         <loyalty>2</loyalty>
         <pt>3/3</pt>
@@ -37412,8 +37412,8 @@ Volstagg has +2/+2 and Dodge while he is unwounded.</text>
       <text>The Brains and the Brawn Together
 Hulk has Genius and Lethal. (At the start of your turn draw a card, and if he wounds a defending supporting character, KO it.)</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Heroes</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Heroes</type>
         <manacost>4</manacost>
         <loyalty>3</loyalty>
         <pt>4/4</pt>
@@ -37427,8 +37427,8 @@ At the start of your Main Phase, put a +1/+1 counter on Sif for each of The Warr
 Sword and Shield
 [Any Turn] Combat [Might] or [Skill]: Sif gets +3/+3 this combat. Sif can use this power any number of times each turn.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Heroes</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Heroes</type>
         <manacost>4</manacost>
         <colors>S</colors>
         <loyalty>2</loyalty>
@@ -37441,8 +37441,8 @@ Sword and Shield
       <text>I Figured Out Time Travel
 Main [Intellect][Skill]: Choose a number 1 to 3. Each player shuffles that many resources on their side into their owner's deck.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Heroes</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Heroes</type>
         <manacost>5</manacost>
         <colors>I</colors>
         <loyalty>1</loyalty>
@@ -37458,8 +37458,8 @@ Characters to Cap's left in his row have Berserker
 Avengers...Assemble!
 Build [Skill]: Reveal the top five cards of your deck. Put each [MCU Heroes] supporting character from among them into your hand, and the rest on the bottom of your deck. Put a +1/+1 counter on Cap for each card you put in your hand.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Heroes</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Heroes</type>
         <manacost>6</manacost>
         <colors>S</colors>
         <loyalty>2</loyalty>
@@ -37473,8 +37473,8 @@ Build [Skill]: Reveal the top five cards of your deck. Put each [MCU Heroes] sup
       <text>Let's Kill Him Properly This Time
 When Thor KOs an enemy supporting character on your turn, remove it from the game. Then search its owners's hand, deck, and KO pile and remove each character with that name from the game.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Heroes</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Heroes</type>
         <manacost>7</manacost>
         <loyalty>2</loyalty>
         <pt>9/6</pt>
@@ -37489,8 +37489,8 @@ Batroc has [Flight] on your turn.
 Combat Expert
 While Batroc is in combat on your turn, enemy players can't play plot twists.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Villains</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Villains</type>
         <manacost>4</manacost>
         <loyalty>1</loyalty>
         <pt>7/5</pt>
@@ -37502,8 +37502,8 @@ While Batroc is in combat on your turn, enemy players can't play plot twists.</t
       <text>I Will Shred This Universe
 Main [Might]: Remove an enemy Photographic Universe equipment, location, or supporting character from the game.</text>
       <prop>
-        <maintype>Supporting character</maintype>
-        <type>Supporting character - MCU Villains</type>
+        <maintype>Supporting Character</maintype>
+        <type>Supporting Character - MCU Villains</type>
         <manacost>7</manacost>
         <colors>M</colors>
         <loyalty>2</loyalty>
@@ -37517,8 +37517,8 @@ Main [Might]: Remove an enemy Photographic Universe equipment, location, or supp
 You may only have one of this card in your deck.
 [Any Turn] Combat: Choose a supporting character on your side in the combat. It can't be struck, stunned, or wounded this combat.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - MCU Villains</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - MCU Villains</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/CV5-022.jpg">CV5</set>
     </card>
@@ -37528,8 +37528,8 @@ You may only have one of this card in your deck.
 You may only have one of this card in your deck.
 [Any Turn] Combat: Choose a supporting character on your side in the combat. When it strikes an enemy supporting character this combat, stun that enemy supporting character, then KO it, then remove it rom the game.</text>
       <prop>
-        <maintype>Plot twist</maintype>
-        <type>Plot twist - MCU Heroes</type>
+        <maintype>Plot Twist</maintype>
+        <type>Plot Twist - MCU Heroes</type>
       </prop>
       <set picurl="http://vs.tcgbrowser.com/images/cards/big/CV5-023.jpg">CV5</set>
     </card>
