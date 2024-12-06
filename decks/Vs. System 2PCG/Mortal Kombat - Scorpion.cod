@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Scorpion</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Baraka (MKE-011)" collectorNumber="" uuid=""/>
+        <card number="3" name="Jacqui Briggs (MKE-012)" collectorNumber="" uuid=""/>
+        <card number="2" name="Cyrax (MKE-013)" collectorNumber="" uuid=""/>
+        <card number="3" name="Jax (MKE-014)" collectorNumber="" uuid=""/>
+        <card number="2" name="Jade (MKE-015)" collectorNumber="" uuid=""/>
+        <card number="2" name="Kung Lao (MKE-016)" collectorNumber="" uuid=""/>
+        <card number="2" name="Kitana (MKE-018)" collectorNumber="" uuid=""/>
+        <card number="3" name="Cassie Cage (MKE-017)" collectorNumber="" uuid=""/>
+        <card number="2" name="Kotal Kahn (MKE-019)" collectorNumber="" uuid=""/>
+        <card number="4" name="Sonya Blade (MKE-020)" collectorNumber="" uuid=""/>
+        <card number="3" name="Sub-Zero (MKE-022)" collectorNumber="" uuid=""/>
+        <card number="3" name="Liu Kang (MKE-023)" collectorNumber="" uuid=""/>
+        <card number="3" name="Raiden (MKE-024)" collectorNumber="" uuid=""/>
+        <card number="3" name="Flawless Victory (MKE-026)" collectorNumber="" uuid=""/>
+        <card number="2" name="Leg Sweep (MKE-027)" collectorNumber="" uuid=""/>
+        <card number="2" name="Choose Your Destiny (MKE-025)" collectorNumber="" uuid=""/>
+        <card number="2" name="FINISH HIM! (MKE-060)" collectorNumber="" uuid=""/>
+        <card number="4" name="Special Forces Desert Command (MKE-028)" collectorNumber="" uuid=""/>
+        <card number="3" name="Cyber Lin Kuei Assembly (MKE-061)" collectorNumber="" uuid=""/>
+        <card number="3" name="Kahn's Arena (MKE-063)" collectorNumber="" uuid=""/>
+        <card number="3" name="Shirai Ryu Fire Garden (MKE-062)" collectorNumber="" uuid=""/>
+        <card number="3" name="Tarkatan War Kamp (MKE-064)" collectorNumber="" uuid=""/>
+        <card number="1" name="Scorpion (MKE-005)" collectorNumber="" uuid=""/>
+        <card number="1" name="Scorpion (MKE-006)" collectorNumber="" uuid=""/>
+    </zone>
+</cockatrice_deck>
