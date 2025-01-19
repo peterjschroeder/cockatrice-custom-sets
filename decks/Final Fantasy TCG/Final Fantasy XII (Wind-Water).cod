@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Final Fantasy XII (Wind/Water)</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Evoker (1-068C)"/>
+        <card number="2" name="Archer (1-088C)"/>
+        <card number="2" name="Evoker (1-159C)"/>
+        <card number="2" name="Viking (1-167C)"/>
+        <card number="2" name="Geomancer (1-168C)"/>
+        <card number="2" name="White Mage (2-058C)"/>
+        <card number="2" name="Shemhazai, the Whisperer (2-070R)"/>
+        <card number="2" name="Reddas (2-072C)"/>
+        <card number="2" name="Oracle (3-070C)"/>
+        <card number="2" name="Cuchulainn, the Impure (2-133R)"/>
+        <card number="2" name="Blue Mage (3-121C)"/>
+        <card number="2" name="Cactuar (4-058C)"/>
+        <card number="2" name="Green Dragon (4-124C)"/>
+        <card number="2" name="Reks (5-070C)"/>
+        <card number="2" name="Vossler (5-122R)"/>
+        <card number="2" name="Orator (5-143C)"/>
+        <card number="3" name="Vaan (5-155S)"/>
+        <card number="3" name="Balthier (5-156S)"/>
+        <card number="3" name="Fran (5-157S)"/>
+        <card number="3" name="Ashe (5-164S)"/>
+        <card number="3" name="Larsa (5-165S)"/>
+        <card number="3" name="Rasler (5-166S)"/>
+    </zone>
+</cockatrice_deck>

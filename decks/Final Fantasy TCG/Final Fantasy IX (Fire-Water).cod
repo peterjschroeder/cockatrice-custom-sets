@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Final Fantasy IX (Fire/Water)</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Ranger (1-008C)"/>
+        <card number="2" name="Evoker (1-011C)"/>
+        <card number="2" name="Samurai (1-014C)"/>
+        <card number="2" name="Evoker (1-159C)"/>
+        <card number="2" name="Fairy (1-170C)"/>
+        <card number="2" name="Moogle (1-172C)"/>
+        <card number="2" name="Ifrit (2-002C)"/>
+        <card number="2" name="Sage (2-005C)"/>
+        <card number="2" name="Warrior (2-010C)"/>
+        <card number="2" name="Ninja (2-013C)"/>
+        <card number="2" name="Summoner (2-018C)"/>
+        <card number="2" name="Paladin (2-131C)"/>
+        <card number="3" name="Amarant (3-013R)"/>
+        <card number="2" name="Black Waltz 2 (3-015R)"/>
+        <card number="2" name="Artemicion (3-122C)"/>
+        <card number="2" name="Eiko (3-127R)"/>
+        <card number="3" name="Quina (3-133C)"/>
+        <card number="3" name="Steiner (3-137R)"/>
+        <card number="2" name="Mog (IX) (3-141C)"/>
+        <card number="3" name="Vivi (3-149S)"/>
+        <card number="3" name="Garnet (3-152S)"/>
+        <card number="3" name="Zidane (3-154S)"/>
+    </zone>
+</cockatrice_deck>
