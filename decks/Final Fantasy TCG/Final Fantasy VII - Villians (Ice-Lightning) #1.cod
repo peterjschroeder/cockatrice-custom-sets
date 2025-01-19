@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Final Fantasy VII: Villians (Ice/Lightning)</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Rufus (15-140S)"/>
+        <card number="3" name="Tseng (15-135S)"/>
+        <card number="3" name="Rude (15-137S)"/>
+        <card number="3" name="Reno (15-138S)"/>
+        <card number="3" name="Elena (11-088R)"/>
+        <card number="2" name="Rude (11-104R)"/>
+        <card number="2" name="Reno (11-105R)"/>
+        <card number="3" name="Kadaj (11-027R)"/>
+        <card number="2" name="Yazoo (11-040C)"/>
+        <card number="2" name="Loz (11-042C)"/>
+        <card number="3" name="President Shinra (15-136S)"/>
+        <card number="2" name="Summoner (1-138C)"/>
+        <card number="2" name="Black Mage (2-108C)"/>
+        <card number="3" name="Black Mage (8-095C)"/>
+        <card number="2" name="Summoner (1-040C)"/>
+        <card number="2" name="Bard (4-027C)"/>
+        <card number="2" name="Black Mage (4-030C)"/>
+        <card number="2" name="Bard (8-029C)"/>
+        <card number="3" name="Ramuh (6-102R)"/>
+        <card number="3" name="Hades (6-038R)"/>
+    </zone>
+</cockatrice_deck>

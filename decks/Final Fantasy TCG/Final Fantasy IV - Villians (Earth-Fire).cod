@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Final Fantasy IV: Villians (Earth-Fire)</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Kain (17-131S)"/>
+        <card number="3" name="Zemus (17-132S)"/>
+        <card number="3" name="Scarmiglione (17-133S)"/>
+        <card number="3" name="Baigan (17-134S)"/>
+        <card number="3" name="Golbez (17-140S)"/>
+        <card number="3" name="Rubicante (13-016H)"/>
+        <card number="3" name="Scarmiglione (13-059H)"/>
+        <card number="2" name="Dark Elf (14-068C)"/>
+        <card number="3" name="Ninja (12-013C)"/>
+        <card number="3" name="Sky Warrior (15-002C)"/>
+        <card number="3" name="Geomancer (14-016C)"/>
+        <card number="3" name="Monk (1-120C)"/>
+        <card number="3" name="Miner (5-082C)"/>
+        <card number="3" name="Bangaa (9-071C)"/>
+        <card number="2" name="Brynhildr (15-014H)"/>
+        <card number="2" name="Ifrit (12-005C)"/>
+        <card number="2" name="Belias (9-017C)"/>
+        <card number="3" name="Cu Sith (10-068C)"/>
+    </zone>
+</cockatrice_deck>

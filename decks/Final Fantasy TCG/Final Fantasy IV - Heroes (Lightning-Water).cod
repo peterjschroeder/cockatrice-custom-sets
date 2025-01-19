@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Final Fantasy IV: Heroes (Lightning/Water)</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Edge (17-135S)"/>
+        <card number="3" name="Kain (17-136S)"/>
+        <card number="3" name="Rydia (17-137S)"/>
+        <card number="3" name="Rosa (17-138S)"/>
+        <card number="3" name="Cecil (17-139S)"/>
+        <card number="2" name="Fusoya (9-094L)"/>
+        <card number="2" name="Zangetsu (11-094C)"/>
+        <card number="3" name="Ceodore (11-117R)"/>
+        <card number="2" name="Izayoi (11-107C)"/>
+        <card number="3" name="Ninja (2-115C)"/>
+        <card number="3" name="Ninja (6-097C)"/>
+        <card number="3" name="Black Mage (8-095C)"/>
+        <card number="3" name="Leonora (3-143C)"/>
+        <card number="3" name="White Mage (8-117C)"/>
+        <card number="3" name="Porom (11-121C)"/>
+        <card number="2" name="Odin (12-077H)"/>
+        <card number="2" name="Odin (13-072R)"/>
+        <card number="2" name="Odin (15-090H)"/>
+        <card number="2" name="Cuchulainn, the Impure (2-133R)"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Final Fantasy XIII (Custom Starter Set)</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Vanille (19-129S)"/>
+        <card number="3" name="Fang (19-131S)"/>
+        <card number="3" name="Caius (10-004H)"/>
+        <card number="3" name="Cid Raines (19-135S)"/>
+        <card number="3" name="Noel (19-136S)"/>
+        <card number="3" name="Hope (19-137S)"/>
+        <card number="3" name="Lebreau (5-151S)"/>
+        <card number="3" name="Sazh (7-008C)"/>
+        <card number="3" name="Lumina (13-085R)"/>
+        <card number="3" name="Knight (17-101C)"/>
+        <card number="3" name="Bahamut (19-130S)"/>
+        <card number="3" name="Brynhildr (15-014H)"/>
+        <card number="3" name="Odin (9-083C)"/>
+        <card number="3" name="Anima (11-099H)" setShortName="Opus XI" collectorNumber="11-099"/>
+        <card number="3" name="Chocobo Chick (1-019C)" setShortName="Opus I" collectorNumber="1-019"/>
+        <card number="2" name="Lightning (19-138S)" setShortName="From Nightmares" collectorNumber="19-138"/>
+        <card number="3" name="Maqui (1-209S)" setShortName="Opus I" collectorNumber="1-209"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Snow (19-132S)" setShortName="From Nightmares" collectorNumber="19-132"/>
+        <card number="3" name="Serah (19-133S)" setShortName="From Nightmares" collectorNumber="19-133"/>
+        <card number="3" name="Mog (XIII-2) (19-134S)" setShortName="From Nightmares" collectorNumber="19-134"/>
+        <card number="3" name="Orphan (15-024R)" setShortName="Crystal Dominion" collectorNumber="15-024"/>
+        <card number="3" name="Jihl Nabaat (2-037R)" setShortName="Opus II" collectorNumber="2-037"/>
+        <card number="3" name="Bard (14-024C)" setShortName="Opus XIV" collectorNumber="14-024"/>
+        <card number="3" name="Yeul (7-041C)" setShortName="Opus VII" collectorNumber="7-041"/>
+        <card number="3" name="Shiva (17-027R)" setShortName="Rebellion's Call" collectorNumber="17-027"/>
+        <card number="3" name="Dajh (1-017R)" setShortName="Opus I" collectorNumber="1-017"/>
+        <card number="3" name="Jet Bahamut (17-015H)" setShortName="Rebellion's Call" collectorNumber="17-015"/>
+        <card number="3" name="Garnet Bahamut (17-035R)" setShortName="Rebellion's Call" collectorNumber="17-035"/>
+        <card number="3" name="Amber Bahamut (17-036R)" setShortName="Rebellion's Call" collectorNumber="17-036"/>
+        <card number="2" name="Bahamut (1-018L)" setShortName="Opus I" collectorNumber="1-018"/>
+        <card number="2" name="Barthandelus (11-037L)" setShortName="Opus XI" collectorNumber="11-037"/>
+        <card number="3" name="Kanna Kamuy (10-090C)" setShortName="Opus X" collectorNumber="10-090"/>
+        <card number="3" name="Lightning (13-081H)" setShortName="Opus XIII" collectorNumber="13-081"/>
+        <card number="3" name="Odin (15-090H)" setShortName="Crystal Dominion" collectorNumber="15-090"/>
+        <card number="1" name="Lightning (19-138S)" setShortName="From Nightmares" collectorNumber="19-138"/>
+    </zone>
+</cockatrice_deck>

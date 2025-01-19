@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Final Fantasy XV - Heroes (Earth/Wind)</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Noctis (18-139S)"/>
+        <card number="3" name="Ignis (18-133S)"/>
+        <card number="3" name="Prompto (18-134S)"/>
+        <card number="3" name="Gladiolus (18-135S)"/>
+        <card number="2" name="Ignis (8-072R)"/>
+        <card number="2" name="Gladiolus (8-074H)"/>
+        <card number="2" name="Noctis (8-079H)"/>
+        <card number="2" name="Cor (9-066C)"/>
+        <card number="3" name="Iris (12-117R)"/>
+        <card number="3" name="Chocobo (4-063C)"/>
+        <card number="2" name="Cid Sophiar (15-072R)"/>
+        <card number="3" name="Regis (9-080C)"/>
+        <card number="2" name="Clarus (11-068R)"/>
+        <card number="3" name="Thief (11-047C)"/>
+        <card number="3" name="Selkie (16-052C)"/>
+        <card number="3" name="Chocobo (12-047C)"/>
+        <card number="3" name="Titan (18-136S)"/>
+        <card number="3" name="Sylph (1-074R)"/>
+        <card number="2" name="Cindy (11-069H)" setShortName="Opus XI" collectorNumber="11-069"/>
+    </zone>
+</cockatrice_deck>

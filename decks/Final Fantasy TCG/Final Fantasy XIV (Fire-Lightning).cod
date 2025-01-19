@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Final Fantasy XIV (Fire/Lightning)</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Evoker (1-011C)"/>
+        <card number="2" name="Summoner (1-138C)"/>
+        <card number="2" name="Dragoon (2-120C)"/>
+        <card number="2" name="Bahamut (4-016R)"/>
+        <card number="2" name="Marauder (4-017R)"/>
+        <card number="2" name="Warrior (6-014C)"/>
+        <card number="2" name="Bahamut (6-017C)"/>
+        <card number="2" name="Black Mage (6-091C)"/>
+        <card number="2" name="Dragoon (6-104C)"/>
+        <card number="2" name="Ramuh (7-103C)"/>
+        <card number="2" name="Red Mage (8-002C)"/>
+        <card number="2" name="Samurai (8-009C)"/>
+        <card number="2" name="Warrior (8-013C)"/>
+        <card number="2" name="Yotsuyu (8-020R)"/>
+        <card number="2" name="Alisaie (8-090C)"/>
+        <card number="2" name="Alphinaud (8-092C)"/>
+        <card number="3" name="Gosetsu (8-137S)"/>
+        <card number="3" name="Hien (8-138S)"/>
+        <card number="3" name="Lyse (8-139S)"/>
+        <card number="3" name="Thancred (8-146S)"/>
+        <card number="3" name="Fordola (8-147S)"/>
+        <card number="3" name="Yugiri (8-148S)"/>
+    </zone>
+</cockatrice_deck>

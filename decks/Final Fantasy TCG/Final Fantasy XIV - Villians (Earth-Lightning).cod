@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Final Fantasy XIV: Villians (Earth/Lightning)</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Emet-Selch (13-131S)"/>
+        <card number="2" name="Emet-Selch (13-131S)"/>
+        <card number="3" name="Titania (13-132S)"/>
+        <card number="3" name="Philia (13-129S)"/>
+        <card number="3" name="Ran'jit (13-130S)"/>
+        <card number="3" name="Innocence (13-137S)"/>
+        <card number="3" name="Emet-Selch (12-024H)"/>
+        <card number="2" name="Nael (9-014L)"/>
+        <card number="3" name="Gaius (9-007H)"/>
+        <card number="3" name="Rhitahtyn (9-020R)"/>
+        <card number="3" name="Yotsuyu (8-020R)"/>
+        <card number="3" name="Red Mage (8-002C)"/>
+        <card number="3" name="Black Mage (12-007C)"/>
+        <card number="3" name="Conjurer (5-035C)"/>
+        <card number="3" name="Bard (8-029C)"/>
+        <card number="3" name="Bard (6-026C)"/>
+        <card number="3" name="Ifrit (7-005C)"/>
+        <card number="3" name="Flan (4-043C)"/>
+    </zone>
+</cockatrice_deck>

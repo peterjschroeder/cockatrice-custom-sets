@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Final Fantasy VII: Heroes (Earth/Wind)</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Aerith (1-065C)"/>
+        <card number="2" name="Evoker (1-068C)"/>
+        <card number="2" name="Chocobo (1-075C)"/>
+        <card number="2" name="Chocobo (1-076C)"/>
+        <card number="2" name="Vincent (1-094R)"/>
+        <card number="2" name="Evoker (1-105C)"/>
+        <card number="2" name="WRO Member (3-084C)"/>
+        <card number="2" name="WRO Member (3-085C)"/>
+        <card number="2" name="WRO Commander (3-086C)"/>
+        <card number="2" name="White Mage (4-061C)"/>
+        <card number="2" name="Choco // Mog (6-051C)"/>
+        <card number="2" name="Titan (6-075R)"/>
+        <card number="2" name="Geomancer (7-079C)"/>
+        <card number="2" name="Alexander (8-046R)"/>
+        <card number="2" name="Cid Highwind (8-054R)"/>
+        <card number="2" name="Marlene (8-085C)"/>
+        <card number="3" name="Godo (8-140S)"/>
+        <card number="3" name="Yuffie (8-141S)"/>
+        <card number="3" name="Red XIII (8-142S)"/>
+        <card number="3" name="Tifa (8-144S)"/>
+        <card number="3" name="Cloud (8-143S)"/>
+        <card number="3" name="Barrett (8-145S)"/>
+    </zone>
+</cockatrice_deck>

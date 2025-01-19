@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Final Fantasy XV - Villians (Fire/Lightning)</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Ardyn (18-140S)"/>
+        <card number="3" name="Aranea (18-137S)"/>
+        <card number="3" name="Glauca (18-138S)"/>
+        <card number="3" name="Glauca (11-091R)"/>
+        <card number="3" name="Ravus (14-094R)"/>
+        <card number="3" name="Ravus (18-132S)"/>
+        <card number="3" name="Warrior (12-010C)"/>
+        <card number="3" name="Iedolas (18-131S)"/>
+        <card number="3" name="Lilty (16-018C)"/>
+        <card number="3" name="Black Mage (13-005C)"/>
+        <card number="3" name="Yuke (16-101C)"/>
+        <card number="3" name="Dragoon (12-090C)"/>
+        <card number="3" name="Selkie (11-096C)"/>
+        <card number="3" name="Bahamut (13-012R)"/>
+        <card number="3" name="Ramuh (12-088C)"/>
+        <card number="2" name="Kanna Kamuy (10-090C)"/>
+        <card number="3" name="Balasa (10-003C)" setShortName="Opus X" collectorNumber="10-003"/>
+    </zone>
+</cockatrice_deck>

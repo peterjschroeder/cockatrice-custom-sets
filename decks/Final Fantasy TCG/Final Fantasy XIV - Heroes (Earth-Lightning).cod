@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Final Fantasy XIV: Heroes (Earth/Lightning)</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="The Crystal Exarch (13-133S)"/>
+        <card number="2" name="The Crystal Exarch (13-133S)"/>
+        <card number="3" name="Y'shtola (13-134S)"/>
+        <card number="3" name="Urienger (13-135S)"/>
+        <card number="3" name="Thancred (13-136S)"/>
+        <card number="3" name="The Oracle of Light (13-138S)"/>
+        <card number="2" name="Thancred (5-107H)"/>
+        <card number="3" name="Alphinaud (8-092C)"/>
+        <card number="3" name="Raubahn (4-096H)"/>
+        <card number="3" name="Dragoon (6-104C)"/>
+        <card number="3" name="Dark Knight (6-065C)"/>
+        <card number="2" name="Momodi (5-094R)"/>
+        <card number="3" name="Krile (XIV) (6-071H)"/>
+        <card number="2" name="Minfilia (6-079L)"/>
+        <card number="2" name="Miner (5-082C)"/>
+        <card number="3" name="Alisaie (8-090C)"/>
+        <card number="2" name="Louisoix (5-120C)"/>
+        <card number="2" name="Black Mage (6-091C)"/>
+        <card number="2" name="Black Mage (2-108C)"/>
+        <card number="3" name="Ramuh (7-103C)"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Knight (Lightning/Wind)</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Onion Knight (10-139S)"/>
+        <card number="3" name="Vaan (10-133S)"/>
+        <card number="3" name="Kain (10-134S)"/>
+        <card number="3" name="Onion Knight (4-054L)"/>
+        <card number="2" name="Adelle (5-050H)"/>
+        <card number="3" name="Hope (7-062R)"/>
+        <card number="2" name="Nora (1-079R)"/>
+        <card number="2" name="Penelo (5-066R)"/>
+        <card number="3" name="Moogle (XI) (6-058R)"/>
+        <card number="2" name="Bartholomew (7-060R)"/>
+        <card number="2" name="Diabolos (5-062L)"/>
+        <card number="3" name="Lightning (10-137S)"/>
+        <card number="3" name="Ramza (10-138S)"/>
+        <card number="3" name="Onion Knight (1-125R)"/>
+        <card number="3" name="Lightning (4-115L)"/>
+        <card number="3" name="Illua (5-099H)"/>
+        <card number="2" name="Red Mage (1-121C)"/>
+        <card number="3" name="Cannoneer (5-114C)"/>
+        <card number="2" name="Ramuh (7-103C)"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Anniversary Collection Set 2022 (Fire/Water)</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Squall (PR-108)"/>
+        <card number="3" name="Dadaluma (11-011R)"/>
+        <card number="2" name="Cloud (8-006L)"/>
+        <card number="3" name="Yuna (PR-109)"/>
+        <card number="3" name="Viking (4-133C)"/>
+        <card number="3" name="Leila (6-126R)"/>
+        <card number="2" name="Zidane (8-115L)"/>
+        <card number="3" name="Porom (9-115R)"/>
+        <card number="2" name="Ashe (10-106L)"/>
+        <card number="3" name="Lightning (PR-110)"/>
+        <card number="3" name="Sage (2-005C)"/>
+        <card number="3" name="Vivi (3-018C)"/>
+        <card number="3" name="Black Mage (8-007C)"/>
+        <card number="2" name="Eiko (3-127R)"/>
+        <card number="3" name="Brahne (4-134C)"/>
+        <card number="3" name="Merlwyb (4-138R)"/>
+        <card number="3" name="Belias, the Gigas (2-019R)"/>
+        <card number="3" name="Bahamut (6-017C)"/>
+    </zone>
+</cockatrice_deck>

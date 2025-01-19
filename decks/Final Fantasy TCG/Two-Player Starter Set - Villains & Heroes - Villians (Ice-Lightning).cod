@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Two-Player Starter Set: Villains &amp; Heroes: Villians (Ice/Lightning)</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Devout (1-048C)"/>
+        <card number="2" name="Red Mage (1-121C)"/>
+        <card number="3" name="Odin (1-124R)"/>
+        <card number="2" name="Duke Goltanna (1-134R)"/>
+        <card number="1" name="Seymour (1-137R)"/>
+        <card number="2" name="Doctor Cid (2-041H)"/>
+        <card number="3" name="Amon (2-098L)"/>
+        <card number="1" name="Qator Bashtar (3-027R)"/>
+        <card number="2" name="Shiva (3-032R)"/>
+        <card number="3" name="Genesis (3-033L)"/>
+        <card number="2" name="Shadow Lord (4-148L)"/>
+        <card number="2" name="Arcanist (5-028C)"/>
+        <card number="3" name="Glasya Labolas (5-032H)"/>
+        <card number="2" name="Cannoneer (5-114C)"/>
+        <card number="3" name="Militesi Coeurl (6-030C)"/>
+        <card number="2" name="Edea (6-087R)"/>
+        <card number="3" name="Seifer (6-095R)"/>
+        <card number="3" name="Ultimecia (7-133S)"/>
+        <card number="3" name="Garland (7-137S)"/>
+        <card number="3" name="Golbez (7-138S)"/>
+        <card number="3" name="The Emperor (7-134S)" setShortName="Opus VII" collectorNumber="7-134"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Boss Deck - Final Fantasy VII</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Weiss (B-031)"/>
+        <card number="3" name="Shelke (B-032)"/>
+        <card number="3" name="Genesis Avatar (B-033)"/>
+        <card number="3" name="Scarlet (B-034)"/>
+        <card number="3" name="Angeal Penance (B-035)"/>
+        <card number="3" name="Shinra Soldier (B-036)"/>
+        <card number="3" name="Tseng (B-037)"/>
+        <card number="2" name="Sephiroth (B-038)"/>
+        <card number="3" name="Sephiroth (B-039)"/>
+        <card number="3" name="Rufus (8-109L)"/>
+        <card number="3" name="Rude (11-104R)"/>
+        <card number="3" name="Reno (11-105R)"/>
+        <card number="2" name="Elena (11-088R)"/>
+        <card number="3" name="Kadaj (11-140S)"/>
+        <card number="2" name="Cissnei (17-098R)"/>
+        <card number="3" name="Heidegger (B-040)"/>
+        <card number="3" name="Reeve (B-041)"/>
+        <card number="2" name="Summoner (1-040C)"/>
+        <card number="2" name="Shalua (2-036R)"/>
+        <card number="2" name="Restrictor (4-120R)"/>
+        <card number="3" name="Don Corneo (14-035C)"/>
+        <card number="3" name="Bard (16-025C)"/>
+        <card number="2" name="Palmer (16-094C)"/>
+        <card number="3" name="Bahamut (B-042)"/>
+        <card number="3" name="Shiva (B-043)"/>
+        <card number="3" name="Alexander (B-044)"/>
+        <card number="3" name="Carbuncle (B-045)"/>
+        <card number="3" name="Ramuh (B-046)"/>
+        <card number="3" name="Leviathan (B-047)"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Sephiroth (B-028)" setShortName="Boss Deck FFVII" collectorNumber="B-02"/>
+        <card number="1" name="President Shinra (B-029)" setShortName="Boss Deck FFVII" collectorNumber="B-02"/>
+        <card number="1" name="Hojo (B-030)" setShortName="Boss Deck FFVII" collectorNumber="B-03"/>
+    </zone>
+</cockatrice_deck>

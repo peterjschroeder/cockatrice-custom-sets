@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Final Fantasy VII: Heroes (Earth/Fire) #2</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Cloud (11-136S)"/>
+        <card number="3" name="Vincent (11-135S)"/>
+        <card number="3" name="Vincent (4-075H)"/>
+        <card number="2" name="Wedge (4-076R)"/>
+        <card number="3" name="Jessie (4-082C)"/>
+        <card number="2" name="Miner (5-082C)"/>
+        <card number="2" name="Marlene (8-085C)"/>
+        <card number="3" name="Titan (6-075R)"/>
+        <card number="3" name="Barret (11-131S)"/>
+        <card number="3" name="Red XIII (11-132S)"/>
+        <card number="3" name="Tifa (1-016C)"/>
+        <card number="3" name="Zack (10-007H)"/>
+        <card number="3" name="SOLDIER: 3rd Class (10-009C)"/>
+        <card number="3" name="Red Mage (1-003C)"/>
+        <card number="2" name="Black Mage (1-010C)"/>
+        <card number="3" name="Sage (2-005C)"/>
+        <card number="3" name="Phoenix (3-020H)"/>
+        <card number="3" name="Aerith (11-139S)"/>
+    </zone>
+</cockatrice_deck>

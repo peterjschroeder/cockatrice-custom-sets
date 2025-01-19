@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Final Fantasy VII: Villians (Ice/Lightning) #2</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Sephiroth (11-138S)"/>
+        <card number="3" name="Azul (11-137S)"/>
+        <card number="3" name="Angeal Penance (3-099R)"/>
+        <card number="2" name="Red Mage (1-121C)"/>
+        <card number="2" name="Restrictor (4-120R)"/>
+        <card number="2" name="Reno (8-110R)"/>
+        <card number="2" name="Reeve (9-098C)"/>
+        <card number="3" name="Ramuh (7-103C)"/>
+        <card number="3" name="Don Corneo (11-134S)"/>
+        <card number="3" name="Cait Sith (11-133S)"/>
+        <card number="3" name="DGS Trooper 1st Class (3-040C)"/>
+        <card number="3" name="Deepground Soldier (3-041C)"/>
+        <card number="3" name="Deepground Soldier (3-042C)"/>
+        <card number="3" name="Sephiroth (10-034H)"/>
+        <card number="3" name="Black Mage (4-030C)"/>
+        <card number="3" name="Black Mage (7-028C)"/>
+        <card number="3" name="Shiva (8-032R)"/>
+        <card number="3" name="Kadaj (11-140S)"/>
+    </zone>
+</cockatrice_deck>

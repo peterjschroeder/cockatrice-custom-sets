@@ -98,7 +98,7 @@ for i in range(1, 2448+1):
         f.write('<card>\n')
         f.write('<name>%s (%s)</name>\n' % (data.get('name'), data.get('guid')))
         if data.get('text'):
-            f.write('<text>%s</text>\n' % data.get('text').replace('<p><p>', '\n').replace('<p>', '\n').replace('\n\n', '\n'))
+            f.write('<text>%s</text>\n' % data.get('text').replace('<p><p>', '\n').replace('<p>', '\n').replace('\n\n', '\n').replace('<Skill>', '[Skill]'))
         f.write('<prop>\n')
         if data.get('type'):
             f.write('<maintype>%s</maintype>\n' % data.get('type').replace(' L1', '').replace(' L2', '').replace(' L3', ''))
