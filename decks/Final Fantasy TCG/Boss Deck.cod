@@ -14,8 +14,7 @@
         <card number="3" name="Shadow Lord (B-007)"/>
         <card number="3" name="Golbez (B-008)"/>
         <card number="3" name="Garland (B-009)"/>
-        <card number="3" name="Galdes (7-129H)"/>
-        <card number="3" name="Cloud of Darkness (B-012)"/>
+        <card number="2" name="Cloud of Darkness (B-012)"/>
         <card number="3" name="Summoner (1-040C)"/>
         <card number="3" name="Bard (4-027C)"/>
         <card number="3" name="The Emperor (B-013)"/>
@@ -34,7 +33,13 @@
         <card number="2" name="Odin (B-019)"/>
         <card number="2" name="Sage (1-133C)"/>
         <card number="1" name="Spiritus (B-002)"/>
-        <card number="3" name="Feral Chaos (B-010)"/>
+        <card number="2" name="Feral Chaos (B-010)"/>
         <card number="2" name="Sin (B-011)"/>
+        <card number="2" name="Galdes (B-025)" setShortName="Boss Deck Chaos"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Cloud of Darkness (B-012)" setShortName="Boss Deck Chaos"/>
+        <card number="1" name="Feral Chaos (B-010)" setShortName="Boss Deck Chaos"/>
+        <card number="1" name="Galdes (B-025)" setShortName="Boss Deck Chaos"/>
     </zone>
 </cockatrice_deck>
