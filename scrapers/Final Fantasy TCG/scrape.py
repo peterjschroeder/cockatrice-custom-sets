@@ -44,7 +44,7 @@ b = []
 for x in a:
     b.append(x['set'][0])
 
-with open('cards.xml', 'w', encoding='utf8') as myfile:
+with open('Final Fantasy TCG.xml', 'w', encoding='utf8') as myfile:
     myfile.write('<?xml version="1.0" encoding="UTF-8"?>\n')
     myfile.write('<cockatrice_carddatabase version="4">\n')
     myfile.write('  <sets>\n')
@@ -69,6 +69,8 @@ with open('cards.xml', 'w', encoding='utf8') as myfile:
             card_rarity = 'hero'
         elif card_code[-1] == 'L':
             card_rarity = 'legend'
+        elif card_code[-1] == 'S':
+            card_rarity = 'starter'
 
         # FIXME: Crystals are missing their names and rarities
         if card_code.startswith('C-'):
@@ -130,6 +132,10 @@ with open('cards.xml', 'w', encoding='utf8') as myfile:
 
         else:
             addcard(card_set, card_name, card_code, card_rarity, card_power, card_text, card_type_main, card_type, card_element, card_cost, myfile)
+
+    with open('Missing.xml', 'r') as f:
+        for i in f.readlines():
+            myfile.write(i)
 
     myfile.write('  </cards>\n')
     myfile.write('</cockatrice_carddatabase>')

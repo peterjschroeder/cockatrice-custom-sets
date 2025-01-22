@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mega Man</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Mega Man (MM03-37)"/>
+        <card number="2" name="STOP (RH03-124)"/>
+        <card number="4" name="Big Shot: Judy (CP-136)"/>
+        <card number="4" name="Big Shot: Punch (CP-137)"/>
+        <card number="3" name="Bloodthirst (SC-49)"/>
+        <card number="3" name="Ashen Claws (SC-48)"/>
+        <card number="3" name="Golden Arrow (SC-31)"/>
+        <card number="2" name="Lightning Torture (YYH-57)"/>
+        <card number="3" name="Storm of Torment (YYH-59)"/>
+        <card number="3" name="Prism Storm of Torment (YYH-58)"/>
+        <card number="4" name="Dust to Dust (SC-51)"/>
+        <card number="4" name="Bearer of the Makai Whistle (YYH-60)"/>
+        <card number="4" name="Faye-Faye (CP-22)"/>
+        <card number="2" name="Demonhide (SC-52)"/>
+        <card number="2" name="Ageless and Wise (MK-123)"/>
+        <card number="4" name="Suspicious of Mr. X (MM03-45)"/>
+        <card number="4" name="The Prism of Seven (YYH-63)"/>
+        <card number="1" name="Radical Edward (CP-27)"/>
+        <card number="4" name="Ridding the World of Outsiders (SCVI01-8)"/>
+        <card number="2" name="Securing His Destiny (SF10-143)"/>
+        <card number="2" name="Nightmare Tares (SC-54)"/>
+        <card number="1" name="Bebop Blues (CP-144)"/>
+        <card number="3" name="The Leader of the Saintly Beasts (YYH-62)"/>
+        <card number="2" name="God of Thunder (MK-124)"/>
+        <card number="1" name="Mushroom Experimentation (CP-26)"/>
+    </zone>
+</cockatrice_deck>

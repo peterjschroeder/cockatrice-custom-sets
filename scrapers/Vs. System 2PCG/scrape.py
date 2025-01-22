@@ -2,6 +2,8 @@
 import json, re, requests, urllib.request, sys
 
 sets = [
+        ['Banned', 'BAN', 4, ''],
+        ['Promo', 'VSP', 23, ''],
         ['The Marvel Battles', 'MNB', 112, '2015'],
         ['The Defenders', 'DEF', 58, '2016-04'],
         ['A-Force', 'AFF', 59, '2016-05'],
@@ -72,13 +74,16 @@ f = open('Vs. System 2PCG.xml', 'w')
 f.write('<?xml version="1.0" encoding="UTF-8"?>\n<cockatrice_carddatabase version="4">\n<sets>\n')
 
 for s in sets:
-    f.write('<set>\n<name>%s</name>\n<longname>%s</longname>\n<settype>Custom</settype>\n<releasedate>%s</releasedate>\n</set>\n' % (s[1], s[0], s[3]))
+    f.write('<set>\n<name>%s</name>\n<longname>%s</longname>\n<settype>Vs. System 2PCG</settype>\n<releasedate>%s</releasedate>\n</set>\n' % (s[1], s[0], s[3]))
 
 f.write('</sets>\n<cards>\n')
 
 for i in range(1, 2448+1):
     with urllib.request.urlopen("https://vs.tcgbrowser.com/server/card.php?action=getCard&cardid=%d" % i) as url:
         data = json.load(url)
+
+        if data.get('name') == 'None (None)':
+            continue
 
         colors = ''
         if data.get('text'):

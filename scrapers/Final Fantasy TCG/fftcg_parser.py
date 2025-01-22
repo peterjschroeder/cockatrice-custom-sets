@@ -274,6 +274,7 @@ def prettyTrice(string):
     string = string.replace('<br>', '\n')
     string = string.replace('</b>', '')
     string = string.replace('<b>', '')
+    string = string.replace('·', '-')
 
     # Replace Fullwidth Numbers with normal numbers
     string = string.replace(u"\uFF11", '1')

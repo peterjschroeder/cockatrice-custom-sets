@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Chun-Li</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Spinning Bird Kick (SF01-14)"/>
+        <card number="4" name="Sobat Carnival (SF10-59)"/>
+        <card number="2" name="Double Rolling Sobat (SF10-58)"/>
+        <card number="3" name="Kikosho (SF10-40)"/>
+        <card number="3" name="Kickback Crescendo (CP-78)"/>
+        <card number="4" name="Pea Shooter (SC-79)"/>
+        <card number="1" name="Swordfish II (CP-92)"/>
+        <card number="4" name="Revoke (RH01-3)"/>
+        <card number="4" name="The Hunt for Spiders and Dragons (TSP-112)"/>
+        <card number="4" name="Insect Puppeteer (MK-15)"/>
+        <card number="4" name="Finding What Was Lost (CP-103)"/>
+        <card number="4" name="Sense of Adventure (RH03-90)"/>
+        <card number="2" name="United Against Terrorism (SF10-54)"/>
+        <card number="1" name="Racing Rivals (MM03-99)"/>
+        <card number="1" name="Fueling Up (CP-104)"/>
+        <card number="3" name="Demonhide (SC-52)"/>
+        <card number="4" name="Over the Top (RH03-89)"/>
+        <card number="4" name="First Lady of Fighting (SF10-46)"/>
+        <card number="3" name="Strongest Woman in the World (SF10-52)"/>
+        <card number="1" name="Confronting Jedah (SVD-69)"/>
+        <card number="1" name="Prolonged Espionage (MK-17)"/>
+        <card number="4" name="Pure and Holy Warrior (SCVI01-71)"/>
+        <card number="1" name="Last of His Kind (MK-81)"/>
+        <card number="1" name="Syndicate Target (CP-90)"/>
+        <card number="1" name="Survivalist (WOI-54)"/>
+        <card number="1" name="Chun-Li (SF10-37)"/>
+    </zone>
+</cockatrice_deck>

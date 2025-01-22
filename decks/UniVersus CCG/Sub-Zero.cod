@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Sub-Zero</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Sub-Zero (MK-154)"/>
+        <card number="2" name="Prepare to Fight (SF10-183)"/>
+        <card number="1" name="Showdown (RH01-31)"/>
+        <card number="1" name="STOP (RH03-124)"/>
+        <card number="4" name="Hyper Bomb (MM01-43)"/>
+        <card number="4" name="Death Valley Face Plant (RH02-34)"/>
+        <card number="4" name="Magnet Slam (MM02-58)"/>
+        <card number="4" name="Icy Slide (MK-161)"/>
+        <card number="2" name="Nutcracker (MK-58)"/>
+        <card number="2" name="Barrier of Frost (MK-155)"/>
+        <card number="2" name="Frost Hammer (MK-157)"/>
+        <card number="1" name="Deep Freeze (MK-156)"/>
+        <card number="4" name="Quest for Vengeance (MK-169)"/>
+        <card number="4" name="Faye-Faye (CP-22)"/>
+        <card number="4" name="Cryomancer's Descendant (MK-162)"/>
+        <card number="3" name="Extended Lifespan (MK-35)"/>
+        <card number="3" name="Funky Tomato (CP-23)"/>
+        <card number="2" name="Data Dog (CP-21)"/>
+        <card number="2" name="Cool and Focused (SF10-97)"/>
+        <card number="2" name="Securing His Destiny (SF10-143)"/>
+        <card number="2" name="Tough as Bricks (PLA-240)"/>
+        <card number="2" name="Tijuana Groceries (CP-9)"/>
+        <card number="1" name="Destruction of the Cyber Lin Kuei (MK-163)"/>
+        <card number="1" name="Left to Die (MK-165)"/>
+        <card number="1" name="Bebop Blues (CP-144)"/>
+        <card number="1" name="Curious Magnetism (CP-20)"/>
+        <card number="1" name="For Mother Russia (SF10-178)"/>
+        <card number="1" name="Hacker Extraordinaire (CP-24)"/>
+        <card number="1" name="Mutual Respect (MK-167)"/>
+        <card number="1" name="Retreated to Arctika (MK-171)"/>
+        <card number="1" name="God of Thunder (MK-124)"/>
+        <card number="1" name="Refusing to Let Go (SF10-99)"/>
+    </zone>
+</cockatrice_deck>

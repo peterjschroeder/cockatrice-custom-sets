@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="The Big Fall (TS01-021)"/>
+        <card number="2" name="Counselor of Plants (TS01-012)"/>
+        <card number="3" name="Decisions, Decisions (TS01-013)"/>
+        <card number="4" name="Get the Scoop (TS01-014)"/>
+        <card number="4" name="Grasping for Answers (TS01-015)"/>
+        <card number="4" name="Motherly Affection (TS01-016)"/>
+        <card number="4" name="Pitching In (TS01-017)"/>
+        <card number="4" name="Prideless Negotiations (TS01-018)"/>
+        <card number="4" name="Seen It All (TS01-019)"/>
+        <card number="4" name="Suspended Bounty (TS01-020)"/>
+        <card number="2" name="Inevitable Clash (TS01-007)"/>
+        <card number="2" name="Punisher's Beam (TS01-010)"/>
+        <card number="4" name="Disabling Shot (TS01-005)"/>
+        <card number="4" name="Fan the Hammer (TS01-006)"/>
+        <card number="3" name="Merciful Volley (TS01-008)"/>
+        <card number="3" name="Nimble Maneuver (TS01-009)"/>
+        <card number="3" name="Steady Shot (TS01-011)"/>
+        <card number="2" name="Interdimensional Plants (TS01-004)"/>
+        <card number="2" name="Avoiding Conflict (TS01-003)"/>
+        <card number="1" name="Vash the Stampede (TS01-001)"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Nicholas D. Wolfwood (TS01-002)"/>
+    </zone>
+</cockatrice_deck>

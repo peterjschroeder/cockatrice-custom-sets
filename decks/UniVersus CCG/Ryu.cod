@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Ryu</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ryu (SF10-118)"/>
+        <card number="2" name="God of War (RH03-80)"/>
+        <card number="3" name="Wanted Man (SF10-134)"/>
+        <card number="4" name="Designed for Combat (MM02-133)"/>
+        <card number="4" name="Bridging the Races (DS04-67)"/>
+        <card number="3" name="Sweet Nothings (RH01-81)"/>
+        <card number="2" name="Adopted by a Sensei (SF10-126)"/>
+        <card number="2" name="Forbidden Ansatsuken (SF10-130)"/>
+        <card number="3" name="Reactive Style (MM02-135)"/>
+        <card number="1" name="Jiang Shi (DS04-86)"/>
+        <card number="4" name="Balanced Fighter (MM02-132)"/>
+        <card number="4" name="The Hunt for Spiders and Dragons (RH03-160)"/>
+        <card number="1" name="Brothers in Arts (SF10-127)"/>
+        <card number="4" name="Surveyor (MM02-143)"/>
+        <card number="3" name="Toy Touch (DS04-65)"/>
+        <card number="2" name="Yamato Suramu (MM03-104)"/>
+        <card number="2" name="Magnet Slam (MM02-58)"/>
+        <card number="4" name="Bloody Eye Rampage (CP-3)"/>
+        <card number="4" name="Bloody Eye Rushdown (CP-4)"/>
+        <card number="3" name="Choke Throw (RH02-72)"/>
+        <card number="3" name="Ryu's Shinku Hadoken (SF10-122)"/>
+    </zone>
+</cockatrice_deck>
