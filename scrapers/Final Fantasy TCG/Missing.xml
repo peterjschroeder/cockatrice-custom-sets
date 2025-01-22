@@ -1,0 +1,133 @@
+    <card>
+      <name>Kain (17-131S)</name>
+      <text>Before paying the cost to cast Kain, you can remove 1 Dark Forward in your Break Zone from the game to reduce the cost required to cast Kain by 2.
+      Haste
+      When Kain attacks, Kain gains +2000 power until the end of the turn.
+      </text>
+      <prop>
+        <maintype>Forward</maintype>
+        <type>Forward - IV - Dragoon</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set picurl="https://fftcg.cdn.sewest.net/images/cards/full/17-131S_eg.jpg" rarity="starter" num="17-131">Rebellion's Call</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zemus (17-132S)</name>
+      <text></text>
+      <prop>
+        <maintype>Forward</maintype>
+        <type>Forward - IV - Lunarian</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set picurl="https://fftcg.cdn.sewest.net/images/cards/full/17-132S_eg.jpg" rarity="starter" num="17-132">Rebellion's Call</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Scarmiglione (17-133S)</name>
+      <text></text>
+      <prop>
+        <maintype>Forward</maintype>
+        <type>Forward - IV - Archfiend</type>
+        <manacost>2</manacost>
+        <colors>Earth</colors>
+        <pt>5000</pt>
+      </prop>
+      <set picurl="https://fftcg.cdn.sewest.net/images/cards/full/17-133S_eg.jpg" rarity="starter" num="17-133">Rebellion's Call</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Baigan (17-134S)</name>
+      <text></text>
+      <prop>
+        <maintype>Forward</maintype>
+        <type>Forward - IV - Commander</type>
+        <manacost>4</manacost>
+        <colors>Earth</colors>
+        <pt>8000</pt>
+      </prop>
+      <set picurl="https://fftcg.cdn.sewest.net/images/cards/full/17-134S_eg.jpg" rarity="starter" num="17-134">Rebellion's Call</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Edge (17-135S)</name>
+      <text></text>
+      <prop>
+        <maintype>Forward</maintype>
+        <type>Forward - IV - Ninja</type>
+        <manacost>4</manacost>
+        <colors>Lightning</colors>
+        <pt>8000</pt>
+      </prop>
+      <set picurl="https://fftcg.cdn.sewest.net/images/cards/full/17-135S_eg.jpg" rarity="starter" num="17-135">Rebellion's Call</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kain (17-136S)</name>
+      <text></text>
+      <prop>
+        <maintype>Forward</maintype>
+        <type>Forward - IV - Dragoon</type>
+        <manacost>3</manacost>
+        <colors>Lightning</colors>
+        <pt>7000</pt>
+      </prop>
+      <set picurl="https://fftcg.cdn.sewest.net/images/cards/full/17-136S_eg.jpg" rarity="starter" num="17-136">Rebellion's Call</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rydia (17-137S)</name>
+      <text></text>
+      <prop>
+        <maintype>Forward</maintype>
+        <type>Forward - IV - Summoner</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>5000</pt>
+      </prop>
+      <set picurl="https://fftcg.cdn.sewest.net/images/cards/full/17-137S_eg.jpg" rarity="starter" num="17-137">Rebellion's Call</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rosa (17-138S)</name>
+      <text></text>
+      <prop>
+        <maintype>Forward</maintype>
+        <type>Forward - IV - White Mage</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>8000</pt>
+      </prop>
+      <set picurl="https://fftcg.cdn.sewest.net/images/cards/full/17-138S_eg.jpg" rarity="starter" num="17-138">Rebellion's Call</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cecil (17-139S)</name>
+      <text></text>
+      <prop>
+        <maintype>Forward</maintype>
+        <type>Forward - IV - Paladin</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>8000</pt>
+      </prop>
+      <set picurl="https://fftcg.cdn.sewest.net/images/cards/full/17-139S_eg.jpg" rarity="starter" num="17-139">Rebellion's Call</set>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Golbez (17-140S)</name>
+      <text></text>
+      <prop>
+        <maintype>Forward</maintype>
+        <type>Forward - IV - Warlock</type>
+        <manacost>6</manacost>
+        <colors>Dark</colors>
+        <pt>9000</pt>
+      </prop>
+      <set picurl="https://fftcg.cdn.sewest.net/images/cards/full/17-140S_eg.jpg" rarity="starter" num="17-140">Rebellion's Call</set>
+      <tablerow>2</tablerow>
+    </card>
