@@ -3,31 +3,23 @@
     <deckname>Chun-Li</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="4" name="Spinning Bird Kick (SF01-14)"/>
-        <card number="4" name="Sobat Carnival (SF10-59)"/>
-        <card number="2" name="Double Rolling Sobat (SF10-58)"/>
-        <card number="3" name="Kikosho (SF10-40)"/>
-        <card number="3" name="Kickback Crescendo (CP-78)"/>
-        <card number="4" name="Pea Shooter (SC-79)"/>
-        <card number="1" name="Swordfish II (CP-92)"/>
-        <card number="4" name="Revoke (RH01-3)"/>
-        <card number="4" name="The Hunt for Spiders and Dragons (TSP-112)"/>
-        <card number="4" name="Insect Puppeteer (MK-15)"/>
-        <card number="4" name="Finding What Was Lost (CP-103)"/>
-        <card number="4" name="Sense of Adventure (RH03-90)"/>
-        <card number="2" name="United Against Terrorism (SF10-54)"/>
-        <card number="1" name="Racing Rivals (MM03-99)"/>
-        <card number="1" name="Fueling Up (CP-104)"/>
-        <card number="3" name="Demonhide (SC-52)"/>
-        <card number="4" name="Over the Top (RH03-89)"/>
-        <card number="4" name="First Lady of Fighting (SF10-46)"/>
-        <card number="3" name="Strongest Woman in the World (SF10-52)"/>
-        <card number="1" name="Confronting Jedah (SVD-69)"/>
-        <card number="1" name="Prolonged Espionage (MK-17)"/>
-        <card number="4" name="Pure and Holy Warrior (SCVI01-71)"/>
-        <card number="1" name="Last of His Kind (MK-81)"/>
-        <card number="1" name="Syndicate Target (CP-90)"/>
-        <card number="1" name="Survivalist (WOI-54)"/>
-        <card number="1" name="Chun-Li (SF10-37)"/>
+        <card number="2" name="Spinning Bird Kick (SF01-042)" setShortName="SF01" collectorNumber="042"/>
+        <card number="2" name="Hyakuretsukyaku (SF01-038)" setShortName="SF01" collectorNumber="038"/>
+        <card number="2" name="Personal Tragedy (SF01-051)" setShortName="SF01" collectorNumber="051"/>
+        <card number="2" name="United Against Terrorism (SF01-054)" setShortName="SF01" collectorNumber="054"/>
+        <card number="3" name="Interpol Agent (SF01-047)" setShortName="SF01" collectorNumber="047"/>
+        <card number="3" name="First Lady of Fighting (SF01-046)" setShortName="SF01" collectorNumber="046"/>
+        <card number="2" name="Like Father Like Daughter (SF01-049)" setShortName="SF01" collectorNumber="049"/>
+        <card number="2" name="Off Duty Officer (SF01-050)" setShortName="SF01" collectorNumber="050"/>
+        <card number="1" name="Chun-Li (SF01-037)" setShortName="SF01" collectorNumber="037"/>
+        <card number="1" name="Kikosho (SF01-040)" setShortName="SF01" collectorNumber="040"/>
+        <card number="2" name="Yosokyaku (SF01-044)" setShortName="SF01" collectorNumber="044"/>
+        <card number="2" name="Kikoken (SF01-039)" setShortName="SF01" collectorNumber="039"/>
+        <card number="3" name="Tenkukyaku (SF01-043)" setShortName="SF01" collectorNumber="043"/>
+        <card number="3" name="Senenshu (SF01-041)" setShortName="SF01" collectorNumber="041"/>
+        <card number="3" name="Strongest Woman in the World (SF01-052)" setShortName="SF01" collectorNumber="052"/>
+        <card number="1" name="To Avenge a Loved One (SF01-053)" setShortName="SF01" collectorNumber="053"/>
+        <card number="3" name="Legendary Legs (SF01-048)" setShortName="SF01" collectorNumber="048"/>
+        <card number="4" name="Devotion to Justice (SF01-045)" setShortName="SF01" collectorNumber="045"/>
     </zone>
 </cockatrice_deck>
