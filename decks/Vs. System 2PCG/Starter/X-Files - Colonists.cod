@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>X-Files: Colonists</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Diana Fowley (XFB-028)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="1" name="Colonists (XFB-026)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="1" name="Colonists (XFB-027)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="4" name="Crew Cut Man (XFB-029)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="4" name="Knowle Rohrer (XFB-030)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="4" name="Super-Soldier (XFB-031)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="4" name="Alien Bounty Hunter (XFB-032)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="4" name="Alex Krycek (XFB-033)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="4" name="Colonists (XFB-034)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="4" name="Cigarette Smoking Man (XFB-035)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="4" name="Abduction (XFB-037)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="4" name="Black Oil (XFB-036)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="4" name="The Syndicate (XFB-042)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="4" name="Academy (XFB-067)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="4" name="Fortress (XFB-068)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="4" name="Laboratory (XFB-069)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="4" name="Training Ground (XFB-070)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="1" name="Colonize (XFB-039)" collectorNumber="" uuid=""/>
+    </zone>
+</cockatrice_deck>

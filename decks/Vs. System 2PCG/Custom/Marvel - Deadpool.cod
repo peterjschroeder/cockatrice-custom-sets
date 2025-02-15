@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Mary Walker (DEF-038A)"/>
+        <card number="1" name="Mary Walker (DEF-038B)"/>
+        <card number="1" name="Mary Walker (DEF-038C)"/>
+        <card number="1" name="Mary Walker (DEF-038D)"/>
+        <card number="4" name="Fisk Tower (DEF-052)"/>
+        <card number="4" name="Fortress (MNB-112)"/>
+        <card number="4" name="Academy (MMU-133)"/>
+        <card number="4" name="Laboratory (MNB-110)"/>
+        <card number="4" name="Training Ground (MNB-109)"/>
+        <card number="1" name="Break the Fourth Wall (MFM-019)"/>
+        <card number="1" name="Chimichanga (MFM-021)"/>
+        <card number="4" name="Masacre (MFM-014)"/>
+        <card number="2" name="Dreadpool (MFM-016)"/>
+        <card number="1" name="Fantomex (MFM-017)"/>
+        <card number="1" name="Me (MFM-025)"/>
+        <card number="4" name="Copycat (MFM-013)"/>
+        <card number="2" name="Shiklah (MFM-018)"/>
+        <card number="1" name="Weapon XIII (MFM-024)"/>
+        <card number="4" name="Solo (MFM-009)"/>
+        <card number="3" name="Slapstick (MFM-011)"/>
+        <card number="3" name="Hit-Monkey (MFM-010)"/>
+        <card number="2" name="Negasonic Teenage Warhead (MFM-015)"/>
+        <card number="4" name="Ajax (MFM-012)"/>
+        <card number="4" name="Mercs for Money (MFM-020)"/>
+        <card number="1" name="Cluster (MFM-023)"/>
+        <card number="1" name="Fantomex (MFM-022)"/>
+        <card number="1" name="Deadpool (MFM-001)"/>
+        <card number="1" name="Deadpool (MFM-002)"/>
+        <card number="1" name="Deadpool (MFM-003)"/>
+        <card number="1" name="Deadpool (MFM-004)"/>
+        <card number="4" name="Taskmaster (LEG-051)"/>
+    </zone>
+</cockatrice_deck>

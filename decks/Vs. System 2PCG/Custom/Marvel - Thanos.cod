@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="The Infinity Gauntlet (BLK-017)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="1" name="The Time Gem (BLK-023)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="1" name="The Space Gem (BLK-022)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="1" name="The Reality Gem (BLK-020)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="1" name="The Soul Gem (BLK-021)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="1" name="The Mind Gem (BLK-018)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="1" name="The Power Gem (BLK-019)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Trickster God (MNB-103)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Shock to the System (DEF-054)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="2" name="Titan (BLK-024)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Fortress (MNB-112)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="2" name="Space (MMU-135)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Laboratory (DEF-057)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="2" name="Earth (MMU-134)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Training Ground (MMU-130)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Academy (MNB-111)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="2" name="Supergiant (BLK-013)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="2" name="The In-Betweener (CV2-009)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="2" name="Ebony Maw (BLK-015)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="2" name="Corvus Glaive (BLK-014)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="2" name="The Runner (CV2-008)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="2" name="Proxima Midnight (BLK-011)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="1" name="Thanos (BLK-005)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="1" name="Thanos (BLK-006)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="1" name="Thanos (BLK-007)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="1" name="Thanos (BLK-008)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="2" name="Black Dwarf (BLK-010)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="2" name="The Gardener (CV2-012)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="2" name="The Champion (CV2-019)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="4" name="The Vault (MNB-104)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="2" name="The Grandmaster (LEG-033)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="2" name="The Collector (LEG-026)" setShortName="" collectorNumber="" uuid=""/>
+        <card number="3" name="Might Makes Right (BLK-016)" setShortName="" collectorNumber="" uuid=""/>
+    </zone>
+</cockatrice_deck>

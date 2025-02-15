@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Krusty</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Krusty"/>
+        <card number="3" name="Krusty's Clown College"/>
+        <card number="3" name="Krustylu Studios"/>
+        <card number="3" name="Sideshow Bob Terwilliger"/>
+        <card number="3" name="Sideshow Mel"/>
+        <card number="3" name="Poochie"/>
+        <card number="3" name="Itchy Scratchy"/>
+        <card number="1" name="The Itchy &amp; Scratchy Store"/>
+        <card number="3" name="Mr. Teeny"/>
+        <card number="1" name="Smoke 'Em If You Got 'Em"/>
+        <card number="3" name="Bumblebee Man"/>
+        <card number="2" name="Wipe Out"/>
+        <card number="2" name="Back to Square One"/>
+        <card number="2" name="Star Power"/>
+        <card number="2" name="Share the Wealth"/>
+        <card number="2" name="Rainier Wolfcastle"/>
+        <card number="3" name="Kwik-E-Mart"/>
+    </zone>
+</cockatrice_deck>
