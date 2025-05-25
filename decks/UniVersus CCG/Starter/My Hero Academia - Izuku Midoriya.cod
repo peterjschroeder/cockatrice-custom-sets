@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>My Hero Academia Challenger Series - Izuku Midoriya</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Wielding One For All (MHA08-002)" setShortName="MHA08" collectorNumber="002"/>
+        <card number="2" name="Tattered Costume (MHA08-003)" setShortName="MHA08" collectorNumber="003"/>
+        <card number="2" name="Bullet Kick (MHA08-004)" setShortName="MHA08" collectorNumber="004"/>
+        <card number="3" name="Deku's Swift Takedown (MHA08-005)" setShortName="MHA08" collectorNumber="005"/>
+        <card number="2" name="Fa Jin Flurry (MHA08-006)" setShortName="MHA08" collectorNumber="006"/>
+        <card number="2" name="One For All Full Cowling 45% Impact Detroit Smash (MHA08-007)" setShortName="MHA08" collectorNumber="007"/>
+        <card number="4" name="Pinpoint Focus: Blackwhip Shot (MHA08-008)" setShortName="MHA08" collectorNumber="008"/>
+        <card number="4" name="Rapid Rescue (MHA08-009)" setShortName="MHA08" collectorNumber="009"/>
+        <card number="4" name="Smokescreen Charge (MHA08-010)" setShortName="MHA08" collectorNumber="010"/>
+        <card number="4" name="Creative Counter (MHA08-011)" setShortName="MHA08" collectorNumber="011"/>
+        <card number="4" name="Eighth Wielder (MHA08-012)" setShortName="MHA08" collectorNumber="012"/>
+        <card number="4" name="Expression of Friendship (MHA08-013)" setShortName="MHA08" collectorNumber="013"/>
+        <card number="4" name="Fifth Wielder: Blackwhip (MHA08-014)" setShortName="MHA08" collectorNumber="014"/>
+        <card number="2" name="First Wielder: One for All (MHA08-015)" setShortName="MHA08" collectorNumber="015"/>
+        <card number="4" name="Fourth Wielder: Danger Sense (MHA08-016)" setShortName="MHA08" collectorNumber="016"/>
+        <card number="3" name="Second Wielder (MHA08-017)" setShortName="MHA08" collectorNumber="017"/>
+        <card number="3" name="Seventh Wielder: Float (MHA08-018)" setShortName="MHA08" collectorNumber="018"/>
+        <card number="4" name="Sixth Wielder: Smokescreen (MHA08-019)" setShortName="MHA08" collectorNumber="019"/>
+        <card number="3" name="Third Wielder: Fa Jin (MHA08-020)" setShortName="MHA08" collectorNumber="020"/>
+        <card number="1" name="Izuku Midoriya, On the Move (MHA08-001)" setShortName="MHA08" collectorNumber="001"/>
+    </zone>
+</cockatrice_deck>

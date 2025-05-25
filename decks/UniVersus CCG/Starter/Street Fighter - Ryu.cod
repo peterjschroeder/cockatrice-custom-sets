@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Ryu</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Reluctant Icon (SF01-132)" setShortName="SF01" collectorNumber="132"/>
+        <card number="3" name="Forbidden Ansatsuken (SF01-130)" setShortName="SF01" collectorNumber="130"/>
+        <card number="3" name="Satsui no Hado (SF01-133)" setShortName="SF01" collectorNumber="133"/>
+        <card number="3" name="Wanted Man (SF01-134)" setShortName="SF01" collectorNumber="134"/>
+        <card number="3" name="Fallen Master (SF01-129)" setShortName="SF01" collectorNumber="129"/>
+        <card number="2" name="Destiny's Path (SF01-128)" setShortName="SF01" collectorNumber="128"/>
+        <card number="3" name="Adopted by a Sensei (SF01-126)" setShortName="SF01" collectorNumber="126"/>
+        <card number="3" name="Look the Devil in the Eye (SF01-131)" setShortName="SF01" collectorNumber="131"/>
+        <card number="1" name="Brotherhood in Arms (RH02-023)" setShortName="RH02" collectorNumber="023"/>
+        <card number="2" name="Way of a True Warrior (SF01-135)" setShortName="SF01" collectorNumber="135"/>
+        <card number="2" name="Joudan Sokutogeri (SF01-120)" setShortName="SF01" collectorNumber="120"/>
+        <card number="2" name="Collarbone Breaker (SF01-119)" setShortName="SF01" collectorNumber="119"/>
+        <card number="2" name="Shoulder Throw (SF01-125)" setShortName="SF01" collectorNumber="125"/>
+        <card number="4" name="Ryu's Hadoken (SF01-121)" setShortName="SF01" collectorNumber="121"/>
+        <card number="1" name="Ryu's Shinku Hadoken (SF01-122)" setShortName="SF01" collectorNumber="122"/>
+        <card number="2" name="Ryu's Tatsumaki (SF01-124)" setShortName="SF01" collectorNumber="124"/>
+        <card number="2" name="Ryu's Shoryuken (SF01-123)" setShortName="SF01" collectorNumber="123"/>
+    </zone>
+</cockatrice_deck>
