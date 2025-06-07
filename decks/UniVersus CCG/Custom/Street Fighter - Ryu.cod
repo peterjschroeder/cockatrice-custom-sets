@@ -21,4 +21,7 @@
         <card number="3" name="Ryu's Shoryuken (SF01-123)" setShortName="SF01" collectorNumber="123"/>
         <card number="4" name="Brothers in Arts (SF01-127)" setShortName="SF01" collectorNumber="127"/>
     </zone>
+    <zone name="side">
+        <card number="1" name="Ryu (SF01-118)" setShortName="SF01" collectorNumber="118"/>
+    </zone>
 </cockatrice_deck>

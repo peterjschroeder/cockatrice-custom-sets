@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Proto Man</deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Protoman (MM01-021)" setShortName="MM01" collectorNumber="021"/>
+    </zone>
+    <zone name="main">
+        <card number="4" name="Proto Buster (MM01-025)" setShortName="MM01" collectorNumber="025"/>
+        <card number="4" name="Rapid Proto Buster (MM01-027)" setShortName="MM01" collectorNumber="027"/>
+        <card number="4" name="Charged Proto Buster (MM01-023)" setShortName="MM01" collectorNumber="023"/>
+        <card number="1" name="Big Bang Strike (MM01-022)" setShortName="MM01" collectorNumber="022"/>
+        <card number="4" name="Dashing Shield Bash (MM01-024)" setShortName="MM01" collectorNumber="024"/>
+        <card number="2" name="Proto Strike (MM01-026)" setShortName="MM01" collectorNumber="026"/>
+        <card number="3" name="Reason for Existence (MM01-037)" setShortName="MM01" collectorNumber="037"/>
+        <card number="4" name="Lone Wanderer (MM01-034)" setShortName="MM01" collectorNumber="034"/>
+        <card number="2" name="Aerial Defense (MM01-028)" setShortName="MM01" collectorNumber="028"/>
+        <card number="4" name="Gentle Soul (MM01-032)" setShortName="MM01" collectorNumber="032"/>
+        <card number="4" name="Forgotten (MM01-031)" setShortName="MM01" collectorNumber="031"/>
+        <card number="3" name="On Borrowed Time (MM01-035)" setShortName="MM01" collectorNumber="035"/>
+        <card number="2" name="Rejecting Family (MM01-038)" setShortName="MM01" collectorNumber="038"/>
+        <card number="4" name="Always Watching (MM01-029)" setShortName="MM01" collectorNumber="029"/>
+        <card number="1" name="Prototype (MM01-036)" setShortName="MM01" collectorNumber="036"/>
+        <card number="4" name="Flawed Energy Core (MM01-030)" setShortName="MM01" collectorNumber="030"/>
+        <card number="4" name="In the Nick of Time (MM01-033)" setShortName="MM01" collectorNumber="033"/>
+        <card number="2" name="Repaired by Dr. Wily (MM01-039)" setShortName="MM01" collectorNumber="039"/>
+        <card number="3" name="Unknown Motives (MM01-040)" setShortName="MM01" collectorNumber="040"/>
+    </zone>
+</cockatrice_deck>

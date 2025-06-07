@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Mega Man</deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Megaman (MM01-001)" setShortName="MM01" collectorNumber="001"/>
+    </zone>
+    <zone name="main">
+        <card number="4" name="Mega Buster (MM01-005)" setShortName="MM01" collectorNumber="005"/>
+        <card number="4" name="Rapid Mega Buster (MM01-006)" setShortName="MM01" collectorNumber="006"/>
+        <card number="1" name="Hyper Mega Buster (MM01-002)" setShortName="MM01" collectorNumber="002"/>
+        <card number="4" name="Super Mega Buster (MM01-007)" setShortName="MM01" collectorNumber="007"/>
+        <card number="4" name="Mega Ball (MM01-004)" setShortName="MM01" collectorNumber="004"/>
+        <card number="2" name="Mega Arm (MM01-003)" setShortName="MM01" collectorNumber="003"/>
+        <card number="1" name="DLN 001 (MM01-010)" setShortName="MM01" collectorNumber="010"/>
+        <card number="4" name="The Blue Bomber (MM01-019)" setShortName="MM01" collectorNumber="019"/>
+        <card number="2" name="Super Fighting Robot (MM01-018)" setShortName="MM01" collectorNumber="018"/>
+        <card number="3" name="Thrown Into Combat (MM01-020)" setShortName="MM01" collectorNumber="020"/>
+        <card number="2" name="Gaining Techniques (MM01-011)" setShortName="MM01" collectorNumber="011"/>
+        <card number="4" name="Dauntless Hero (MM01-009)" setShortName="MM01" collectorNumber="009"/>
+        <card number="3" name="Motivation (MM01-014)" setShortName="MM01" collectorNumber="014"/>
+        <card number="2" name="Agile Warrior (MM01-008)" setShortName="MM01" collectorNumber="008"/>
+        <card number="4" name="Pursuit of Dr. Wily (MM01-017)" setShortName="MM01" collectorNumber="017"/>
+        <card number="3" name="Never Back Down (MM01-016)" setShortName="MM01" collectorNumber="016"/>
+        <card number="4" name="Naivete (MM01-015)" setShortName="MM01" collectorNumber="015"/>
+        <card number="4" name="Left With No Choice (MM01-013)" setShortName="MM01" collectorNumber="013"/>
+        <card number="4" name="Lab Assistant (MM01-012)" setShortName="MM01" collectorNumber="012"/>
+    </zone>
+</cockatrice_deck>
