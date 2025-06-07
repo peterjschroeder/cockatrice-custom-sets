@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Sub-Zero</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Icy Slide (MK-161)"/>
+        <card number="2" name="Barrier of Frost (MK-155)"/>
+        <card number="2" name="Frost Hammer (MK-157)"/>
+        <card number="1" name="Deep Freeze (MK-156)"/>
+        <card number="3" name="Quest for Vengeance (MK-169)"/>
+        <card number="2" name="Cryomancer's Descendant (MK-162)"/>
+        <card number="4" name="Destruction of the Cyber Lin Kuei (MK-163)"/>
+        <card number="3" name="Left to Die (MK-165)"/>
+        <card number="2" name="Mutual Respect (MK-167)"/>
+        <card number="1" name="Retreated to Arctika (MK-171)"/>
+        <card number="3" name="Ice Klone (MK-160)" setShortName="MK" collectorNumber="160"/>
+        <card number="2" name="Ice Ball (MK-158)" setShortName="MK" collectorNumber="158"/>
+        <card number="2" name="Ice Burst (MK-159)" setShortName="MK" collectorNumber="159"/>
+        <card number="2" name="Possessed by a Demon (MK-168)" setShortName="MK" collectorNumber="168"/>
+        <card number="3" name="Lin Kuei Grandmaster (MK-166)" setShortName="MK" collectorNumber="166"/>
+        <card number="4" name="Freezing the City (MK-164)" setShortName="MK" collectorNumber="164"/>
+        <card number="1" name="Resurrected Revenant (MK-170)" setShortName="MK" collectorNumber="170"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Sub-Zero (MK-154)" setShortName="MK" collectorNumber="154"/>
+    </zone>
+</cockatrice_deck>

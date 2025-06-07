@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Scorpion</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Minion Grab (MK-142)"/>
+        <card number="3" name="Takedown (MK-143)"/>
+        <card number="2" name="Flame Aura (MK-138)"/>
+        <card number="1" name="Get Over Here (MK-141)"/>
+        <card number="2" name="Blood for Blood (MK-144)"/>
+        <card number="1" name="Undying Rage (MK-153)"/>
+        <card number="3" name="Flame Port (MK-139)" setShortName="MK" collectorNumber="139"/>
+        <card number="3" name="Doom Blade (MK-137)" setShortName="MK" collectorNumber="137"/>
+        <card number="1" name="From Hell (MK-140)" setShortName="MK" collectorNumber="140"/>
+        <card number="4" name="Debt to be Paid (MK-146)" setShortName="MK" collectorNumber="146"/>
+        <card number="1" name="Last of the Shirai Ryu (MK-149)" setShortName="MK" collectorNumber="149"/>
+        <card number="3" name="Strict Mentor (MK-150)" setShortName="MK" collectorNumber="150"/>
+        <card number="2" name="Hell Spawn Spectre (MK-148)" setShortName="MK" collectorNumber="148"/>
+        <card number="2" name="Thirst for Retribution (MK-151)" setShortName="MK" collectorNumber="151"/>
+        <card number="4" name="Entrusted Protector (MK-147)" setShortName="MK" collectorNumber="147"/>
+        <card number="3" name="Conquering His Inner Demon (MK-145)" setShortName="MK" collectorNumber="145"/>
+        <card number="3" name="Toasty (MK-152)" setShortName="MK" collectorNumber="152"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Scorpion (MK-136)" setShortName="MK" collectorNumber="136"/>
+    </zone>
+</cockatrice_deck>
